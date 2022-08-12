@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:recipely/src/styles/styles.dart';
 import 'package:recipely/src/widgets/app_bar.dart';
 import 'package:recipely/src/widgets/menu_lateral.dart';
+import 'package:recipely/src/widgets/receta_listado.dart';
 import 'package:recipely/src/widgets/slider_categorias.dart';
 import 'package:recipely/src/widgets/slider_populares.dart';
 import 'package:recipely/src/widgets/titles.dart';
@@ -28,6 +29,10 @@ class HomePage extends StatelessWidget {
                     titles('Categorías'),
                     sliderCategorias(),
                     titles('Recetas Populares'),
+                    recetasListado(),
+                    recetasListado(),
+                    recetasListado(),
+                    recetasListado(),
                   ],
                 )
               ]
