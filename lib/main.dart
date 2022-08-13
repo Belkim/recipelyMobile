@@ -8,15 +8,14 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      routes: <String, WidgetBuilder> {
-        '/' : ( BuildContext context ) => HomePage(),
-        '/categoria' : ( BuildContext context ) => CategoriaPage(),
-        '/detalle' : ( BuildContext context ) => DetallePage(),
+      routes: <String, WidgetBuilder>{
+        '/': (BuildContext context) => HomePage(),
+        '/categoria': (BuildContext context) => CategoriaPage(),
+        '/detalle': (BuildContext context) => DetallePage(),
       },
     );
   }
