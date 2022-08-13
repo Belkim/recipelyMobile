@@ -45,3 +45,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#Archivos ignorados para las ramas creadas
+/android
+/ios
+/linux
+/macos
+/test
+/web
+/windows
+.metadata
+analysis_options.yaml
+
