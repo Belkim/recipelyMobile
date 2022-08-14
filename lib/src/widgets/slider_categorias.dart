@@ -2,27 +2,22 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_swiper/flutter_swiper.dart';
 
-
-class sliderCategorias extends StatelessWidget{
-
-  final controller = PageController(
-    initialPage: 1,
-    viewportFraction: 0.3
-  );
+class sliderCategorias extends StatelessWidget {
+  final controller = PageController(initialPage: 1, viewportFraction: 0.3);
 
   @override
-  Widget build(BuildContext context){
+  Widget build(BuildContext context) {
     return Container(
       height: 110.0,
       child: Swiper(
-        itemBuilder: (BuildContext context, int index){
+        itemBuilder: (BuildContext context, int index) {
           return PageView(
             controller: controller,
             children: <Widget>[
-              _imagenCategoria(),
-              _imagenCategoria(),
-              _imagenCategoria(),
-              _imagenCategoria()
+              _imagenCategoria(context),
+              _imagenCategoria(context),
+              _imagenCategoria(context),
+              _imagenCategoria(context)
             ],
           );
         },
@@ -33,10 +28,10 @@ class sliderCategorias extends StatelessWidget{
   }
 }
 
-Widget _imagenCategoria(){
+Widget _imagenCategoria(BuildContext context) {
   return GestureDetector(
-    onTap: (){
-      print('Voy a categoria');
+    onTap: () {
+      Navigator.pushNamed(context, "categoria");
     },
     child: Container(
       child: const Image(
