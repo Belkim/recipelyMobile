@@ -23,6 +23,11 @@ final titlesRecipeStyle = TextStyle(
     fontWeight: FontWeight.bold,
     color: colorTitle,
     fontSize: 18.0);
+final titlesRecipeStyleDetalle = TextStyle(
+    fontFamily: 'PlayfairDisplay-Bold',
+    fontWeight: FontWeight.bold,
+    color: colorTitle,
+    fontSize: 24.0);
 final descripRecipeStyle = TextStyle(
     fontFamily: 'Avenir',
     fontWeight: FontWeight.bold,

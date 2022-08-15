@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:recipely/src/styles/styles.dart';
 import 'package:recipely/src/widgets/texto_receta.dart';
 
 Widget recetasListado(BuildContext context) {
@@ -18,7 +19,7 @@ Widget recetasListado(BuildContext context) {
           height: 140.0,
         ),
       ),
-      textoReceta()
+      textoReceta(titlesRecipeStyle)
     ],
   );
 }
