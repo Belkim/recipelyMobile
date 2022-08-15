@@ -33,3 +33,9 @@ final descripRecipeStyle = TextStyle(
     fontWeight: FontWeight.bold,
     color: colorDescRecipes,
     fontSize: 14.0);
+
+final estiloTextoMenuLateral = const TextStyle(
+    fontFamily: 'PlayfairDisplay-Bold',
+    fontWeight: FontWeight.bold,
+    color: Colors.white,
+    fontSize: 29.0);
