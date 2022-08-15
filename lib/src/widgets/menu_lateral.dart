@@ -8,7 +8,7 @@ Drawer menuLateral(context) {
           color: colorBG,
           child: ListView(padding: EdgeInsets.zero, children: [
             DrawerHeader(
-                decoration: BoxDecoration(
+                decoration: const BoxDecoration(
                     image: DecorationImage(
                         image: AssetImage("assets/receta_menu.png"),
                         fit: BoxFit.cover)),
@@ -21,6 +21,21 @@ Drawer menuLateral(context) {
               onTap: () {
                 Navigator.pushNamed(context, "categoria");
               },
-            )
+            ),
+            ListTile(
+              leading: Icon(Icons.help, color: colorIcons),
+              title: const Text("Ayuda"),
+              onTap: () {
+                Navigator.pushNamed(context, "categoria");
+              },
+            ),
+            const SizedBox(height: 435.0),
+            ListTile(
+              leading: Icon(Icons.account_circle_outlined, color: colorIcons),
+              title: const Text("USUARIO"),
+              onTap: () {
+                Navigator.pushNamed(context, "categoria");
+              },
+            ),
           ])));
 }
