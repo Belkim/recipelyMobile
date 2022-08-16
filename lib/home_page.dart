@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:recipely/src/provider/recetasprovider.dart';
 import 'package:recipely/src/styles/styles.dart';
 import 'package:recipely/src/widgets/app_bar.dart';
 import 'package:recipely/src/widgets/menu_lateral.dart';
@@ -12,6 +13,8 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    recetasProvider.cargarRecetasPopulares();
+
     return Scaffold(
         drawer: menuLateral(context),
         key: _scaffoldKey,
