@@ -1,8 +1,8 @@
 //para correr el programa sin el error del null safety flutter run --no-sound-null-safety
 import 'package:flutter/material.dart';
-import 'package:recipely/categoria.dart';
-import 'package:recipely/detalle.dart';
-import 'package:recipely/home_page.dart';
+import 'package:recipely/src/pages/categoria.dart';
+import 'package:recipely/src/pages/detalle.dart';
+import 'package:recipely/src/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());

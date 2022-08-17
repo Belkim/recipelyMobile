@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+//estilos
 import 'package:recipely/src/styles/styles.dart';
+//widgets
 import 'package:recipely/src/widgets/app_bar_detalle.dart';
 import 'package:recipely/src/widgets/slider_categorias.dart';
-import 'package:recipely/src/widgets/texto_receta.dart';
 import 'package:recipely/src/widgets/titles.dart';
 
 class DetallePage extends StatelessWidget {
@@ -21,7 +22,8 @@ class DetallePage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.only(
                     top: 10.0, right: 8.0, bottom: 8.0, left: 12.0),
-                child: textoReceta(titlesRecipeStyleDetalle),
+                child: Text("Hola"),
+                //textoReceta(titlesRecipeStyleDetalle),
               ),
               const SizedBox(height: 20.0),
               titles("Ingredientes", titlesStyle),
