@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+//estilos
 import 'package:recipely/src/styles/styles.dart';
-
+//widgets
 import 'package:recipely/src/widgets/app_bar_categoria.dart';
-import 'package:recipely/src/widgets/receta_listado.dart';
 import 'package:recipely/src/widgets/slider_populares.dart';
 import 'package:recipely/src/widgets/titles.dart';
 
@@ -20,12 +20,8 @@ class CategoriaPage extends StatelessWidget {
               //?El swiper está comentado para ver si se lo deja o no
               sliderPopulares(),
               titles("Lista de Recetas", titlesStyleCategoria),
-              recetasListado(context),
-              recetasListado(context),
-              recetasListado(context),
-              recetasListado(context),
-              recetasListado(context),
-              recetasListado(context)
+
+              //recetasListado(context),
             ]))
           ],
         ));

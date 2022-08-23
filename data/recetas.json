@@ -1,5 +1,134 @@
 {
-	"recetas_populares": [
+	"recetasPopulares": [
+		{
+			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy vuelvo con una receta que os presenté la semana pasada por Instagram (que si no me sigues por ahí, no sé a qué esperas) ;-). Traigo unos tacos vegetarianos de alubias, combinados con tomate, aguacate, lechuga picada, pepinillos laminados y un poco de mayonesa de aquafaba que me sobró de la receta de las patatas rellenas de la semana pasada.",
+			"categoria": "Tacos",
+			"duracion": "45min",
+			"dificultad": "Fácil",
+			"preparacion": " 1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
+			"ingredientes": [
+				{
+					"ingrediente": "200 gr de Alubias pintas cocidas",
+					"fotoIngrediente": "http://cocinaparatorpes.com/wp-content/uploads/judias-pintas-con-arroz.jpg"
+				},
+				{
+					"ingrediente": "1/2 aguacate maduro",
+					"fotoIngrediente": "https://i0.wp.com/www.todocooking.com/wp-content/uploads/2015/07/aguacates-maduros-02.jpg?fit=800%2C600&ssl=1"
+				},
+				{
+					"ingrediente": "4 tortillas de maíz",
+					"fotoIngrediente": "https://www.enbuenasmanos.com/wp-content/uploads/854883.jpg"
+				},
+				{
+					"ingrediente": "1 tomate",
+					"fotoIngrediente": "https://previews.123rf.com/images/duplass/duplass1404/duplass140400012/27254284-glass-bowl-de-tomates-picados-con-vista-superior-aislado-m%C3%A1s-de-blanco.jpg"
+				},
+				{
+					"ingrediente": "Olivas verdes",
+					"fotoIngrediente": "https://i0.wp.com/ecofincalofavaret.com/wp-content/uploads/2013/10/SAM_0410.jpg"
+				},
+				{
+					"ingrediente": "Pepinillos",
+					"fotoIngrediente": "https://www.saboresdemihuerto.com/wp-content/uploads/2016/04/pepinillos-horizontal.jpg"
+				},
+				{
+					"ingrediente": "Un puñado de lechuga iceberg",
+					"fotoIngrediente": "https://i.blogs.es/827511/iceberg1/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy vuelvo con una receta que os presenté la semana pasada por Instagram (que si no me sigues por ahí, no sé a qué esperas) ;-). Traigo unos tacos vegetarianos de alubias, combinados con tomate, aguacate, lechuga picada, pepinillos laminados y un poco de mayonesa de aquafaba que me sobró de la receta de las patatas rellenas de la semana pasada.",
+			"categoria": "Tacos",
+			"duracion": "45min",
+			"dificultad": "Fácil",
+			"preparacion": " 1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
+			"ingredientes": [
+				{
+					"ingrediente": "200 gr de Alubias pintas cocidas",
+					"fotoIngrediente": "http://cocinaparatorpes.com/wp-content/uploads/judias-pintas-con-arroz.jpg"
+				},
+				{
+					"ingrediente": "1/2 aguacate maduro",
+					"fotoIngrediente": "https://i0.wp.com/www.todocooking.com/wp-content/uploads/2015/07/aguacates-maduros-02.jpg?fit=800%2C600&ssl=1"
+				},
+				{
+					"ingrediente": "4 tortillas de maíz",
+					"fotoIngrediente": "https://www.enbuenasmanos.com/wp-content/uploads/854883.jpg"
+				},
+				{
+					"ingrediente": "1 tomate",
+					"fotoIngrediente": "https://previews.123rf.com/images/duplass/duplass1404/duplass140400012/27254284-glass-bowl-de-tomates-picados-con-vista-superior-aislado-m%C3%A1s-de-blanco.jpg"
+				},
+				{
+					"ingrediente": "Olivas verdes",
+					"fotoIngrediente": "https://i0.wp.com/ecofincalofavaret.com/wp-content/uploads/2013/10/SAM_0410.jpg"
+				},
+				{
+					"ingrediente": "Pepinillos",
+					"fotoIngrediente": "https://www.saboresdemihuerto.com/wp-content/uploads/2016/04/pepinillos-horizontal.jpg"
+				},
+				{
+					"ingrediente": "Un puñado de lechuga iceberg",
+					"fotoIngrediente": "https://i.blogs.es/827511/iceberg1/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy vuelvo con una receta que os presenté la semana pasada por Instagram (que si no me sigues por ahí, no sé a qué esperas) ;-). Traigo unos tacos vegetarianos de alubias, combinados con tomate, aguacate, lechuga picada, pepinillos laminados y un poco de mayonesa de aquafaba que me sobró de la receta de las patatas rellenas de la semana pasada.",
+			"categoria": "Tacos",
+			"duracion": "45min",
+			"dificultad": "Fácil",
+			"preparacion": " 1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
+			"ingredientes": [
+				{
+					"ingrediente": "200 gr de Alubias pintas cocidas",
+					"fotoIngrediente": "http://cocinaparatorpes.com/wp-content/uploads/judias-pintas-con-arroz.jpg"
+				},
+				{
+					"ingrediente": "1/2 aguacate maduro",
+					"fotoIngrediente": "https://i0.wp.com/www.todocooking.com/wp-content/uploads/2015/07/aguacates-maduros-02.jpg?fit=800%2C600&ssl=1"
+				},
+				{
+					"ingrediente": "4 tortillas de maíz",
+					"fotoIngrediente": "https://www.enbuenasmanos.com/wp-content/uploads/854883.jpg"
+				},
+				{
+					"ingrediente": "1 tomate",
+					"fotoIngrediente": "https://previews.123rf.com/images/duplass/duplass1404/duplass140400012/27254284-glass-bowl-de-tomates-picados-con-vista-superior-aislado-m%C3%A1s-de-blanco.jpg"
+				},
+				{
+					"ingrediente": "Olivas verdes",
+					"fotoIngrediente": "https://i0.wp.com/ecofincalofavaret.com/wp-content/uploads/2013/10/SAM_0410.jpg"
+				},
+				{
+					"ingrediente": "Pepinillos",
+					"fotoIngrediente": "https://www.saboresdemihuerto.com/wp-content/uploads/2016/04/pepinillos-horizontal.jpg"
+				},
+				{
+					"ingrediente": "Un puñado de lechuga iceberg",
+					"fotoIngrediente": "https://i.blogs.es/827511/iceberg1/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
 		{
 			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
 			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",

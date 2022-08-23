@@ -1,9 +1,42 @@
+// ignore_for_file: avoid_function_literals_in_foreach_calls
+
 import 'package:flutter/material.dart';
+//estilos
 import 'package:recipely/src/styles/styles.dart';
 
-Widget textoReceta(TextStyle estilos) {
+List<Widget> recetasListado(
+    BuildContext context, List<dynamic> recetasPopulares) {
+  final List<Widget> listadoRecetas = [];
+
+  recetasPopulares.forEach((receta) {
+    final listadoWidgetProvisional =
+        _cuerpoRecetaListado(context, titlesRecipeStyle, receta);
+    listadoRecetas.add(listadoWidgetProvisional);
+  });
+  return listadoRecetas;
+}
+
+Widget _cuerpoRecetaListado(
+    BuildContext context, TextStyle estilos, Map<String, dynamic> receta) {
   return Column(
     children: <Widget>[
+      const SizedBox(
+        height: 20.0,
+      ),
+      GestureDetector(
+        onTap: () {
+          Navigator.pushNamed(context, "detalle");
+        },
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(10.0),
+          child: Image(
+            image: NetworkImage(receta['foto']),
+            fit: BoxFit.fill,
+            width: 380.0,
+            height: 140.0,
+          ),
+        ),
+      ),
       Container(
         alignment: AlignmentDirectional.topStart,
         margin: const EdgeInsets.only(left: 30.0, top: 0.0),
@@ -11,12 +44,12 @@ Widget textoReceta(TextStyle estilos) {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              'Lorem Uashsar Sahd',
+              receta['titulo'],
               textAlign: TextAlign.left,
               style: estilos,
             ),
             Text(
-              'lorep ipsum sad sa dsa gasg asdg dsa gdsjfdasgv wqkjhdajksfas avjhzxvkjxzv.',
+              receta['descripcion'],
               textAlign: TextAlign.left,
               style: descripRecipeStyle,
             ),
@@ -34,7 +67,7 @@ Widget textoReceta(TextStyle estilos) {
                         Container(
                           margin: const EdgeInsets.only(left: 5.0),
                           child: Text(
-                            '45 min',
+                            receta['duracion'],
                             style: TextStyle(
                                 fontFamily: 'Avenir',
                                 fontWeight: FontWeight.bold,
@@ -53,7 +86,7 @@ Widget textoReceta(TextStyle estilos) {
                         Container(
                           margin: const EdgeInsets.only(left: 5.0),
                           child: Text(
-                            'Medio',
+                            receta['dificultad'],
                             style: TextStyle(
                                 fontFamily: 'Avenir',
                                 fontWeight: FontWeight.bold,
