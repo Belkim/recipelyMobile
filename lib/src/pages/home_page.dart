@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
                 children: <Widget>[
                   sliderPopulares(),
                   titles('Categorías', titlesStyle),
-                  sliderCategorias(),
+                  SliderCategorias(),
                   titles('Recetas Populares', titlesStyle),
                   //Procesamos el future del provider
                   FutureBuilder(

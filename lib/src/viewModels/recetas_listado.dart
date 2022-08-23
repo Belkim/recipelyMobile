@@ -32,7 +32,7 @@ Widget _cuerpoRecetaListado(
           child: Image(
             image: NetworkImage(receta['foto']),
             fit: BoxFit.fill,
-            width: 380.0,
+            width: 300.0,
             height: 140.0,
           ),
         ),

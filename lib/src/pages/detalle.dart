@@ -27,7 +27,7 @@ class DetallePage extends StatelessWidget {
               ),
               const SizedBox(height: 20.0),
               titles("Ingredientes", titlesStyle),
-              sliderCategorias(),
+              SliderCategorias(),
               titles("Preparación", titlesStyle),
               _textoDescripcion(descripcion)
             ]))
