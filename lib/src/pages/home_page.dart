@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
                     builder: (BuildContext context,
                         AsyncSnapshot<List<dynamic>> snapshot) {
                       return Column(
-                          children: recetasListado(context, snapshot.data));
+                          children: recetasListado(context, snapshot.data!));
                     },
                   ),
                   //recetasListado(context),
