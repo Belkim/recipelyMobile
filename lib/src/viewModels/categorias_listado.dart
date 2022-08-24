@@ -4,6 +4,7 @@ import 'package:recipely/src/provider/categoriasProvider.dart';
 List<Widget> categoriasListado(BuildContext context) {
   final List<Widget> listadoCategoria = [];
   final List<dynamic> categorias = categoriasProvider.categorias;
+  // ignore: avoid_function_literals_in_foreach_calls
   categorias.forEach((categoria) {
     final Widget widgetProv = _imagenCategoria(context, categoria);
     listadoCategoria.add(widgetProv);
@@ -15,7 +16,7 @@ List<Widget> categoriasListado(BuildContext context) {
 Widget _imagenCategoria(BuildContext context, Map<String, dynamic> categoria) {
   return GestureDetector(
       onTap: () {
-        Navigator.pushNamed(context, "categoria");
+        Navigator.pushNamed(context, "categoria", arguments: categoria);
       },
       child: Stack(
         children: [
