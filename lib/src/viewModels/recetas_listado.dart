@@ -25,7 +25,7 @@ Widget _cuerpoRecetaListado(
       ),
       GestureDetector(
         onTap: () {
-          Navigator.pushNamed(context, "detalle");
+          Navigator.pushNamed(context, "detalle", arguments: receta);
         },
         child: ClipRRect(
           borderRadius: BorderRadius.circular(10.0),

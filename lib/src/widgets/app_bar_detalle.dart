@@ -1,27 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:recipely/src/styles/styles.dart';
 
-Widget appBarDetalle(String title) {
+Widget appBarDetalle(String foto) {
   return SliverAppBar(
     backgroundColor: colorBG,
     expandedHeight: 200.0,
     floating: false,
     pinned: true,
-    title: Text(
-      title,
-      style: TextStyle(
-        fontFamily: 'PlayfairDisplay-Bold',
-        fontWeight: FontWeight.bold,
-        color: colorTitle,
-      ),
-    ),
     elevation: 20.0,
     iconTheme: IconThemeData(color: colorIconsAppBar),
-    flexibleSpace: const FlexibleSpaceBar(
+    flexibleSpace: FlexibleSpaceBar(
         background: FadeInImage(
-            placeholder: AssetImage("assets/receta1.png"),
-            image: AssetImage("assets/receta1.png"),
-            fadeInDuration: Duration(milliseconds: 150),
+            placeholder: NetworkImage(foto),
+            image: NetworkImage(foto),
+            fadeInDuration: const Duration(milliseconds: 150),
             fit: BoxFit.cover)),
   );
 }

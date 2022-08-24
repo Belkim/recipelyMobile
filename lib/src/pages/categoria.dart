@@ -19,16 +19,16 @@ class CategoriaPage extends StatelessWidget {
         backgroundColor: colorBG,
         body: CustomScrollView(
           slivers: <Widget>[
-            appBarCategoria("Recetas"),
+            appBarCategoria("Recetas de " + categoria["nombre"]),
             SliverList(
                 delegate: SliverChildListDelegate([
               titles(categoria["nombre"], titlesStyleCategoria),
               //?El swiper está comentado para ver si se lo deja o no
               sliderPopulares(),
-              titles("Lista de Recetas", titlesStyleCategoria),
+              titles("Lista de " + categoria["nombre"], titlesStyleCategoria),
               FutureBuilder(
                 future: categoriasProvider.cargarCategoria(categoria["nombre"]),
-                initialData: [],
+                initialData: const [],
                 builder: (BuildContext context, AsyncSnapshot snapshot) {
                   return Column(
                     children: recetasListado(context, snapshot.data!),

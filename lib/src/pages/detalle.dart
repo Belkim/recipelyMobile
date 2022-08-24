@@ -12,11 +12,13 @@ class DetallePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final Map<String, dynamic> receta =
+        ModalRoute.of(context)!.settings.arguments as Map<String, dynamic>;
     return Scaffold(
         backgroundColor: colorBG,
         body: CustomScrollView(
           slivers: <Widget>[
-            appBarDetalle(""),
+            appBarDetalle(receta["foto"]!),
             SliverList(
                 delegate: SliverChildListDelegate([
               Padding(
