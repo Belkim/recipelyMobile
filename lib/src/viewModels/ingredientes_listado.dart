@@ -33,6 +33,7 @@ Widget _imagenIngrediente(Map<String, dynamic> ingrediente) {
           alignment: Alignment.bottomLeft,
           padding: const EdgeInsets.all(20.0),
           child: Text(
+            //parametro q recibo ["nombre en el JSON"]
             ingrediente["ingrediente"],
             style: const TextStyle(
                 color: Colors.white,
