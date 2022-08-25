@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 //Colores
 const colorBG = Color.fromRGBO(244, 252, 255, 1.0);
-const colorTitle = Color.fromRGBO(15, 55, 91, 1);
+const colorTitle = Color.fromARGB(106, 15, 56, 91);
 const colorDescRecipes = Color.fromRGBO(183, 195, 206, 1);
 const colorIcons = Color.fromRGBO(243, 198, 36, 1);
 const colorIconsAppBar = Color.fromRGBO(183, 195, 206, 1);

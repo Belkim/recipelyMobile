@@ -1,8 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:recipely/src/provider/recetasprovider.dart';
 //Estilos
 import 'package:recipely/src/styles/styles.dart';
+import 'package:recipely/src/viewModels/recetas_buscador_resultados.dart';
 
 class RecetasSearchDelegate extends SearchDelegate {
+  @override
+  ThemeData appBarTheme(BuildContext context) {
+    final ThemeData theme = Theme.of(context);
+    return theme.copyWith(
+        primaryColor: theme.primaryColorLight,
+        primaryIconTheme: theme.primaryIconTheme,
+        primaryTextTheme: theme.primaryTextTheme,
+        inputDecorationTheme: theme.inputDecorationTheme.copyWith(
+            hintStyle:
+                const TextStyle(color: Color.fromARGB(209, 255, 255, 255))));
+  }
+
   @override
   List<Widget>? buildActions(BuildContext context) {
     return [
@@ -25,7 +39,26 @@ class RecetasSearchDelegate extends SearchDelegate {
 
   @override
   Widget buildResults(BuildContext context) {
-    return Text("Hola res");
+    return FutureBuilder(
+      future: recetasProvider.cargarRecetasPopulares(),
+      initialData: const [],
+      builder: (BuildContext context, AsyncSnapshot<List<dynamic>> snapshot) {
+        List<dynamic> recetas = snapshot.data!;
+        //receta q escribio
+        var recetaBuscada = query.toLowerCase();
+
+        return CustomScrollView(
+          slivers: [
+            SliverList(
+                delegate: SliverChildListDelegate([
+              Column(
+                  children:
+                      recetasListadoBuscador(context, recetas, recetaBuscada))
+            ]))
+          ],
+        );
+      },
+    );
   }
 
   @override
