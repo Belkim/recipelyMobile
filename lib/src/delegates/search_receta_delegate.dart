@@ -32,7 +32,7 @@ class RecetasSearchDelegate extends SearchDelegate {
   Widget buildSuggestions(BuildContext context) {
     return Container(
       padding: const EdgeInsets.all(10.0),
-      child: Text(
+      child: const Text(
         "Busca la receta que necesitas...",
         style: descripRecipeStyle,
       ),

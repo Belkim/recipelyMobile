@@ -14,16 +14,17 @@ Drawer menuLateral(context) {
                         fit: BoxFit.cover)),
                 child: Container(
                     alignment: Alignment.center,
-                    child: Text("RECIPELY", style: estiloTextoMenuLateral))),
+                    child:
+                        const Text("RECIPELY", style: estiloTextoMenuLateral))),
             ListTile(
-              leading: Icon(Icons.fastfood, color: colorIcons),
+              leading: const Icon(Icons.fastfood, color: colorIcons),
               title: const Text("Categorias"),
               onTap: () {
                 Navigator.pushNamed(context, "categoria");
               },
             ),
             ListTile(
-              leading: Icon(Icons.help, color: colorIcons),
+              leading: const Icon(Icons.help, color: colorIcons),
               title: const Text("Ayuda"),
               onTap: () {
                 Navigator.pushNamed(context, "categoria");
@@ -31,7 +32,8 @@ Drawer menuLateral(context) {
             ),
             const SizedBox(height: 435.0),
             ListTile(
-              leading: Icon(Icons.account_circle_outlined, color: colorIcons),
+              leading:
+                  const Icon(Icons.account_circle_outlined, color: colorIcons),
               title: const Text("USUARIO"),
               onTap: () {
                 Navigator.pushNamed(context, "categoria");

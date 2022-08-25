@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:recipely/src/styles/styles.dart';
 //widgets
 import 'package:recipely/src/widgets/app_bar_detalle.dart';
-import 'package:recipely/src/widgets/slider_categorias.dart';
 import 'package:recipely/src/widgets/slider_ingredientes.dart';
 import 'package:recipely/src/widgets/titles.dart';
 
@@ -66,12 +65,12 @@ Widget _cuerpoReceta(Map<String, dynamic> receta, TextStyle estilos) {
                 flex: 1,
                 child: Row(
                   children: <Widget>[
-                    Icon(Icons.alarm, color: colorIcons),
+                    const Icon(Icons.alarm, color: colorIcons),
                     Container(
                       margin: const EdgeInsets.only(left: 5.0),
                       child: Text(
                         receta['duracion'],
-                        style: TextStyle(
+                        style: const TextStyle(
                             fontFamily: 'Avenir',
                             fontWeight: FontWeight.bold,
                             color: colorTitle,
@@ -85,12 +84,12 @@ Widget _cuerpoReceta(Map<String, dynamic> receta, TextStyle estilos) {
                 flex: 2,
                 child: Row(
                   children: <Widget>[
-                    Icon(Icons.auto_graph, color: colorIcons),
+                    const Icon(Icons.auto_graph, color: colorIcons),
                     Container(
                       margin: const EdgeInsets.only(left: 5.0),
                       child: Text(
                         receta['dificultad'],
-                        style: TextStyle(
+                        style: const TextStyle(
                             fontFamily: 'Avenir',
                             fontWeight: FontWeight.bold,
                             color: colorTitle,

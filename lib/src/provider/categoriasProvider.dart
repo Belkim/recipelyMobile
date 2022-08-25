@@ -1,4 +1,6 @@
-import 'dart:convert';
+// ignore_for_file: file_names
+
+import 'dart:convert' show jsonDecode;
 
 import 'package:flutter/services.dart' show rootBundle;
 

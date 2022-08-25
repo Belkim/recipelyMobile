@@ -8,7 +8,7 @@ Widget appBarDetalle(String foto) {
     floating: false,
     pinned: true,
     elevation: 20.0,
-    iconTheme: IconThemeData(color: colorIconsAppBar),
+    iconTheme: const IconThemeData(color: colorIconsAppBar),
     flexibleSpace: FlexibleSpaceBar(
         background: FadeInImage(
             placeholder: NetworkImage(foto),

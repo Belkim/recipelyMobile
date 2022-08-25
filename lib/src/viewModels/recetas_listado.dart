@@ -1,4 +1,4 @@
-// ignore_for_file: avoid_function_literals_in_foreach_calls
+// ignore_for_file: avoid_function_literals_in_foreach_calls, avoid_unnecessary_containers
 
 import 'package:flutter/material.dart';
 //estilos
@@ -63,12 +63,12 @@ Widget _cuerpoRecetaListado(
                     flex: 1,
                     child: Row(
                       children: <Widget>[
-                        Icon(Icons.alarm, color: colorIcons),
+                        const Icon(Icons.alarm, color: colorIcons),
                         Container(
                           margin: const EdgeInsets.only(left: 5.0),
                           child: Text(
                             receta['duracion'],
-                            style: TextStyle(
+                            style: const TextStyle(
                                 fontFamily: 'Avenir',
                                 fontWeight: FontWeight.bold,
                                 color: colorTitle,
@@ -82,12 +82,12 @@ Widget _cuerpoRecetaListado(
                     flex: 2,
                     child: Row(
                       children: <Widget>[
-                        Icon(Icons.auto_graph, color: colorIcons),
+                        const Icon(Icons.auto_graph, color: colorIcons),
                         Container(
                           margin: const EdgeInsets.only(left: 5.0),
                           child: Text(
                             receta['dificultad'],
-                            style: TextStyle(
+                            style: const TextStyle(
                                 fontFamily: 'Avenir',
                                 fontWeight: FontWeight.bold,
                                 color: colorTitle,

@@ -11,6 +11,8 @@ import 'package:recipely/src/widgets/slider_populares.dart';
 import 'package:recipely/src/widgets/titles.dart';
 
 class CategoriaPage extends StatelessWidget {
+  const CategoriaPage({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     Map<String, dynamic> categoria =

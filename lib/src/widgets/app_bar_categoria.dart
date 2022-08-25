@@ -8,12 +8,12 @@ Widget appBarCategoria(String title) {
       pinned: true,
       title: Text(
         title,
-        style: TextStyle(
+        style: const TextStyle(
           fontFamily: 'PlayfairDisplay-Bold',
           fontWeight: FontWeight.bold,
           color: colorTitle,
         ),
       ),
       elevation: 0.0,
-      iconTheme: IconThemeData(color: colorIconsAppBar));
+      iconTheme: const IconThemeData(color: colorIconsAppBar));
 }

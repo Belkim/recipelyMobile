@@ -12,6 +12,7 @@ import 'package:recipely/src/widgets/titles.dart';
 //viewModels
 import 'package:recipely/src/viewModels/recetas_listado.dart';
 
+// ignore: use_key_in_widget_constructors
 class HomePage extends StatelessWidget {
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey();
 
@@ -35,7 +36,7 @@ class HomePage extends StatelessWidget {
                   //Procesamos el future del provider
                   FutureBuilder(
                     future: recetasProvider.cargarRecetasPopulares(),
-                    initialData: [],
+                    initialData: const [],
                     builder: (BuildContext context,
                         AsyncSnapshot<List<dynamic>> snapshot) {
                       return Column(
