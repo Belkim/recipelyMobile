@@ -4,11 +4,11 @@ import 'package:recipely/src/styles/styles.dart';
 //widgets
 import 'package:recipely/src/widgets/app_bar_detalle.dart';
 import 'package:recipely/src/widgets/slider_categorias.dart';
+import 'package:recipely/src/widgets/slider_ingredientes.dart';
 import 'package:recipely/src/widgets/titles.dart';
 
 class DetallePage extends StatelessWidget {
-  final String descripcion =
-      "La descripción del proceso de preparación de lo que sea que se vaya a hacer ashdfjlhasglas as gas ga g asgbanbga bamb as,m ";
+  const DetallePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -24,18 +24,88 @@ class DetallePage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.only(
                     top: 10.0, right: 8.0, bottom: 8.0, left: 12.0),
-                child: Text("Hola"),
+                child: _cuerpoReceta(receta, titlesRecipeStyleDetalle),
                 //textoReceta(titlesRecipeStyleDetalle),
               ),
               const SizedBox(height: 20.0),
               titles("Ingredientes", titlesStyle),
-              SliderCategorias(),
+              sliderIngredientes(receta["ingredientes"]),
               titles("Preparación", titlesStyle),
-              _textoDescripcion(descripcion)
+              _textoDescripcion(receta["preparacion"])
             ]))
           ],
         ));
   }
+}
+
+Widget _cuerpoReceta(Map<String, dynamic> receta, TextStyle estilos) {
+  return Container(
+    alignment: AlignmentDirectional.topStart,
+    margin: const EdgeInsets.only(left: 30.0, top: 0.0),
+    child: Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: <Widget>[
+        Text(
+          receta['titulo'],
+          textAlign: TextAlign.left,
+          style: estilos,
+        ),
+        Text(
+          receta['descripcion'],
+          textAlign: TextAlign.left,
+          style: descripRecipeStyle,
+        ),
+        const SizedBox(
+          height: 5.0,
+        ),
+        // ignore: avoid_unnecessary_containers
+        Container(
+          child: Row(
+            children: <Widget>[
+              Expanded(
+                flex: 1,
+                child: Row(
+                  children: <Widget>[
+                    Icon(Icons.alarm, color: colorIcons),
+                    Container(
+                      margin: const EdgeInsets.only(left: 5.0),
+                      child: Text(
+                        receta['duracion'],
+                        style: TextStyle(
+                            fontFamily: 'Avenir',
+                            fontWeight: FontWeight.bold,
+                            color: colorTitle,
+                            fontSize: 14.0),
+                      ),
+                    )
+                  ],
+                ),
+              ),
+              Expanded(
+                flex: 2,
+                child: Row(
+                  children: <Widget>[
+                    Icon(Icons.auto_graph, color: colorIcons),
+                    Container(
+                      margin: const EdgeInsets.only(left: 5.0),
+                      child: Text(
+                        receta['dificultad'],
+                        style: TextStyle(
+                            fontFamily: 'Avenir',
+                            fontWeight: FontWeight.bold,
+                            color: colorTitle,
+                            fontSize: 14.0),
+                      ),
+                    )
+                  ],
+                ),
+              )
+            ],
+          ),
+        )
+      ],
+    ),
+  );
 }
 
 Widget _textoDescripcion(String texto) {
