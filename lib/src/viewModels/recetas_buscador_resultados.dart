@@ -15,10 +15,23 @@ List<Widget> recetasListadoBuscador(
           _cuerpoRecetaListado(context, titlesRecipeStyle, receta);
       listadoRecetas.add(listadoWidgetProvisional);
     } else {
-      listadoRecetas.add(const Text("No se encontró ninguna receta"));
+      if (listadoRecetas.isEmpty) {
+        listadoRecetas.add(const Text("No se encontró ninguna receta"));
+      }
     }
   });
   return listadoRecetas;
+}
+
+Widget _sinReceta() {
+  return Column(
+    children: const <Widget>[
+      SizedBox(
+        height: 20.0,
+      ),
+      Image(image: NetworkImage(""))
+    ],
+  );
 }
 
 Widget _cuerpoRecetaListado(
