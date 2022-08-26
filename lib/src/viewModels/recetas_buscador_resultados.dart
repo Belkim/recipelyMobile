@@ -16,7 +16,7 @@ List<Widget> recetasListadoBuscador(
       listadoRecetas.add(listadoWidgetProvisional);
     } else {
       if (listadoRecetas.isEmpty) {
-        listadoRecetas.add(const Text("No se encontró ninguna receta"));
+        listadoRecetas.add(_sinReceta());
       }
     }
   });
@@ -27,9 +27,13 @@ Widget _sinReceta() {
   return Column(
     children: const <Widget>[
       SizedBox(
-        height: 20.0,
+        height: 50.0,
       ),
-      Image(image: NetworkImage(""))
+      Image(
+        image: NetworkImage(
+            "https://github.com/Belkim/recipelyMobile/blob/main/assets/404%20error.png?raw=true"),
+        height: 500.0,
+      )
     ],
   );
 }

@@ -1,5 +1,7 @@
 //para correr el programa sin el error del null safety flutter run --no-sound-null-safety
 import 'package:flutter/material.dart';
+//firebase
+import 'package:firebase_core/firebase_core.dart';
 //pages
 import 'package:recipely/src/pages/categoria.dart';
 import 'package:recipely/src/pages/detalle.dart';
@@ -7,7 +9,9 @@ import 'package:recipely/src/pages/home_page.dart';
 //estilos
 import 'package:recipely/src/styles/styles.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
 
