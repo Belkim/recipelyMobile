@@ -44,45 +44,69 @@
 			]
 		},
 		{
-			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",
-			"descripcion": "¡Muy buenas a tod@s! Hoy vuelvo con una receta que os presenté la semana pasada por Instagram (que si no me sigues por ahí, no sé a qué esperas) ;-). Traigo unos tacos vegetarianos de alubias, combinados con tomate, aguacate, lechuga picada, pepinillos laminados y un poco de mayonesa de aquafaba que me sobró de la receta de las patatas rellenas de la semana pasada.",
+			"titulo": "HAMBURGUESA PROTEICA DE ALUBIAS Y SOJA TEXTURIZADA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2022/01/burger-proteica-alubias-soja-vegana-recetas.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy vengo con un recetón improvisado: una hamburguesa proteica vegana hecha a partir de alubias rojas y soja texturizada, además de alguna que otra verdurita. Como podréis imaginar, es una receta muy económica y que además de una tanda podéis sacar muchísimas buger. Con esta receta os salen 6 hamburguesas grandes.",
 			"categoria": "Tacos",
-			"duracion": "45min",
-			"dificultad": "Fácil",
+			"duracion": "60min",
+			"dificultad": "Media",
 			"preparacion": " 1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
 			"ingredientes": [
 				{
-					"ingrediente": "200 gr de Alubias pintas cocidas",
-					"fotoIngrediente": "http://cocinaparatorpes.com/wp-content/uploads/judias-pintas-con-arroz.jpg"
+					"ingrediente": "400 gr de Alubias pintas pintas",
+					"fotoIngrediente": "https://cdn.deliberry.com/images/151741/resize/600/600/3.jpg"
 				},
 				{
-					"ingrediente": "1/2 aguacate maduro",
-					"fotoIngrediente": "https://i0.wp.com/www.todocooking.com/wp-content/uploads/2015/07/aguacates-maduros-02.jpg?fit=800%2C600&ssl=1"
+					"ingrediente": "1 cebolla",
+					"fotoIngrediente": "https://comisariatopopular.com/wp-content/uploads/2020/03/cebolla-roja.png"
 				},
 				{
-					"ingrediente": "4 tortillas de maíz",
-					"fotoIngrediente": "https://www.enbuenasmanos.com/wp-content/uploads/854883.jpg"
+					"ingrediente": "1/2 pimiento rojo",
+					"fotoIngrediente": "https://frutyleg.com/wp-content/uploads/2021/06/PIMIENTO-ROJO-1.jpg"
 				},
 				{
-					"ingrediente": "1 tomate",
-					"fotoIngrediente": "https://previews.123rf.com/images/duplass/duplass1404/duplass140400012/27254284-glass-bowl-de-tomates-picados-con-vista-superior-aislado-m%C3%A1s-de-blanco.jpg"
+					"ingrediente": "4 champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
 				},
 				{
-					"ingrediente": "Olivas verdes",
-					"fotoIngrediente": "https://i0.wp.com/ecofincalofavaret.com/wp-content/uploads/2013/10/SAM_0410.jpg"
-				},
-				{
-					"ingrediente": "Pepinillos",
-					"fotoIngrediente": "https://www.saboresdemihuerto.com/wp-content/uploads/2016/04/pepinillos-horizontal.jpg"
-				},
-				{
-					"ingrediente": "Un puñado de lechuga iceberg",
-					"fotoIngrediente": "https://i.blogs.es/827511/iceberg1/1366_2000.jpg"
+					"ingrediente": "1/2 bol soja texturizada",
+					"fotoIngrediente": "https://www.paulinacocina.net/wp-content/uploads/2022/03/soja-texturizada.jpg"
 				},
 				{
 					"ingrediente": "Aceite de oliva",
 					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Salsa de soja",
+					"fotoIngrediente": "https://alimec.com.ec/mc-cormick/wp-content/uploads/2017/05/salsa-de-soya-w.png"
+				},
+				{
+					"ingrediente": "Pan rallado",
+					"fotoIngrediente": "https://www.goredforwomen.org/-/media/Images/Healthy-Living/Healthy-Eating/HomemadeBreadcrumbs.jpg"
+				},
+				{
+					"ingrediente": "Panko (opcional)",
+					"fotoIngrediente": "https://ichiban.ec/wp-content/uploads/2020/05/Panko-Ichiban-150-g-1.jpg"
+				},
+				{
+					"ingrediente": "Pimentón ahumado",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/71mLQrFe+zL._SX425_.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2013/05/pimienta-1-500x334.jpg"
+				},
+				{
+					"ingrediente": "Curry",
+					"fotoIngrediente": "https://alimec.com.ec/mc-cormick/wp-content/uploads/2017/05/curry-w.png"
+				},
+				{
+					"ingrediente": "Pimentón picante",
+					"fotoIngrediente": "https://www.abc.com.py/resizer/xF7t59ljoWasOzDb3HaWeqfOtnk=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/5ALS5IPXQBCNTM42QCGLXKYB3I.jpg"
+				},
+				{
+					"ingrediente": "Ajo en grano",
+					"fotoIngrediente": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/040/363/products/ajo-en-grano-ahumado-50g4-eb6204120bb565bfe315716230944235-480-0.jpg"
 				}
 			]
 		},
