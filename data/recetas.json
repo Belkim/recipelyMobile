@@ -715,54 +715,177 @@
 	],
 	"Ensaladas": [
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "BOWL ENSALADA DE ARROZ NEGRO CON AJOACEITE (ALIOLI) VEGANO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/10/arroz-negro-ajoaceite-vegano-aguacate-setas-verduras.png",
+			"descripcion": "¡Hola a tod@s! Seguimos con las recetas de arroces. Después de poner el listón bastante alto con la Paella de verduras tradicional que nos marcamos la semana pasada, hoy vengo con un arroz negro con verduras y una versión rápida y vegana del delicioso ajoaceite o alioli.",
+			"categoria": "Ensaladas",
+			"duracion": "35min",
+			"dificultad": "Fácil",
+			"preparacion": "Empezaremos picando la cebolla y laminando 2 ajos. A continuación, lo salteamos en una sartén engrasada con un poquito de aceite de oliva. Cuando empiece a dorar, añadimos 1/3 parte de la mezcla de setas y los ajos tiernos picados en láminas. Lo dejamos a fuego medio-bajo, removiendo periódicamente, para que los vegetales se hagan bien. A continuación, con las setas bien doradas, añadimos el arroz negro. Lo salteamos por 5 minutos, removiendo periódicamente, y a continuación añadimos agua. Empezaremos añadiendo 300 ml de agua (el doble que de arroz), pero este arroz requiere mucha más agua para alcanzar su punto. Mientras tanto, podremos a cocer las coles de bruselas, unos 10-20 minutos. Hasta que estén tiernas. El tiempo puede variar en función de si son frescas o congeladas.Cuando los bocados ya estén listos, los colocamos en el bowl junto con el arroz, las coles de bruselas, los tomates cherry en mitades, un poquito de alioli vegano, un puñado de canónigos y 1 aguacate laminado.",
+			"ingredientes": [
+				{
+					"ingrediente": "150 gramos de arroz negro",
+					"fotoIngrediente": "https://okdiario.com/img/recetas/2017/02/09/arroz-salvaje-2.jpg"
+				},
+				{
+					"ingrediente": "Coles de bruselas",
+					"fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/11/coles-de-bruselas-salteadas-1.jpg"
+				},
+				{
+					"ingrediente": "1 cebolla",
+					"fotoIngrediente": "https://www.salud.mapfre.es/media/2016/07/cebolla-fibra-antioxidantes-3-1280x720.jpg"
+				},
+				{
+					"ingrediente": "3 ajos tiernos",
+					"fotoIngrediente": "https://i.blogs.es/a584fa/ajetes/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "200 gr de mezcla de: champiñones, portobello, shiitake y shimeji",
+					"fotoIngrediente": "https://antojandoando.com/wp-content/uploads/2015/11/portobello-feat-pq.jpg"
+				},
+				{
+					"ingrediente": "Tomates cherry",
+					"fotoIngrediente": "https://www.thespruceeats.com/thmb/31HUKUOn7s8v6aErtVaOEKj3rzY=/3567x2378/filters:no_upscale():max_bytes(150000):strip_icc()/oven-dried-cherry-tomatoes-recipe-1809680-step-01-1-32e6bed9e42e4eaaa9360acc96b91fe6.JPG"
+				},
+				{
+					"ingrediente": "Canónigos frescos",
+					"fotoIngrediente": "https://www.hogarmania.com/archivos/201803/6151-ensalada-de-canonigos-remolacha-y-queso-fresco-xl-1280x720x80xX.jpg"
+				},
+				{
+					"ingrediente": "Aguacate",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_16_9/azblob/semilla-aguacate.jpg.webp?itok=jgdsKqJU"
+				},
+				{
+					"ingrediente": "2 ajos",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_1_1/azblob/ajos.jpg.webp?itok=1AItGwmc"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "ENSALADA DE PASTA Y RÚCULA CON LENTEJAS, TOFU, CHERRY Y PISTACHOS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/01/recetas-vegetarianas-sin-carne-ensalada-pasta-lentejas-tofu1.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy traigo una receta vegana más bien poco otoñal, pero es que las Ensaladas de Pasta son un crush para mi. Ya la visteis el otro día en Instagram. En esta ocasión os traigo una que improvisé hace un par de días: Ensalada de pasta con rúcula, lentejas, tofu en taquitos y cherrys, además de unos pistachos y picatostes, para darle un contraste crujiente al plato.",
+			"categoria": "Ensaladas",
+			"duracion": "25min",
+			"dificultad": "Fácil",
+			"preparacion": "Cocemos la pasta en una olla con abundante agua, durante unos 8 minutos o hasta que la pasta este al dente. Cuando la pasta esté lista, la filtramos del agua y la pasamos por agua fría, para romper la cocción. Reservamos. Mientras tanto, cortamos el tofu en cubos y lo colocamos en la plancha. Lo bañamos generosamente con salsa de soja y lo vamos tostando por todos los costados. Mantenemos a fuego medio. Cuando esté bastante bastante tostado, añadimos los tomates cherry, para tostarlos por ambos lados también.Cuando esté listo, apagamos el fuego. La pasta, el tofu, los tomates, los pistachos, los picatostes y añadimos una pizca de aceite de oliva y orégano. Removemos.¡Y listo para comer!",
+			"ingredientes": [
+				{
+					"ingrediente": "200 gr de pasta para ensalada",
+					"fotoIngrediente": "https://images.aws.nestle.recipes/resized/e55a7c8673a7dc2e6e97a0c41d810944_ensalada_rusa_708_600.jpg"
+				},
+				{
+					"ingrediente": "100 gr de lentejas cocidas",
+					"fotoIngrediente": "https://gastronomiaycia.republica.com/wp-content/uploads/2014/06/lentejas_thermomix.jpg"
+				},
+				{
+					"ingrediente": "2 puñados de rúcula",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2013/05/rucula-500x334.jpg"
+				},
+				{
+					"ingrediente": "80 gr de tofu duro",
+					"fotoIngrediente": "https://www.muyjapones.com/wp-content/uploads/2020/04/Trozos-de-tofu.jpg"
+				},
+				{
+					"ingrediente": "Tomates Cherry",
+					"fotoIngrediente": "https://www.thespruceeats.com/thmb/31HUKUOn7s8v6aErtVaOEKj3rzY=/3567x2378/filters:no_upscale():max_bytes(150000):strip_icc()/oven-dried-cherry-tomatoes-recipe-1809680-step-01-1-32e6bed9e42e4eaaa9360acc96b91fe6.JPG"
+				},
+				{
+					"ingrediente": "Pistachos",
+					"fotoIngrediente": "https://www.seguroscatalanaoccidente.com/content/published/api/v1.1/assets/CONTFFE7C608435A4FAFABBC835C3F60B859/Large?cb=_cache_f9d9&channelToken=219555cd30b54b3bbf0d0d28addf8e10&format=webp"
+				},
+				{
+					"ingrediente": "Picatostes",
+					"fotoIngrediente": "https://cdn.elcocinerocasero.com/imagen/receta/1000/2017-03-22-10-40-49/picatostes-caseros.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Orégano",
+					"fotoIngrediente": "https://images.hola.com/imagenes/cocina/noticiaslibros/20220216204656/oregano-recetas-propiedades/1-51-514/interior-oregano-adobe-a.jpg"
+				}
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "ENSALADA DE CUSCÚS Y AGUACATE",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/08/ensalada-cuscus-recetas-verano-veganas-vegetarianas-saludables4.jpg",
+			"descripcion": "Hoy traigo la primera receta desde la nueva cocina del piso de Valencia. Os tengo que decir que durante las próximas semanas notaréis muchos cambios en el tipo de foto y en la regularidad de los posts porque necesito adaptarme al nuevo piso y poder montar mi escenario habitual para fotografiar los platos (y para eso necesito aún construir una mesa, jajaja). ¡Así que os pido una disculpa! Lo que sí puedo decir es que estoy muy contenta con la nueva cocina, porque además de tener ese estilo antiguo que tanto me gusta, es muy luminosa, y eso me facilita mucho el hecho de haceros las fotos del paso a paso, si queréis un día de estos os la enseño por stories.",
+			"categoria": "Ensaladas",
+			"duracion": "40min",
+			"dificultad": "Fácil",
+			"preparacion": "Picamos en cubos el calabacín y el pimiento, y lo salteamos en la sartén con un poquito de aceite de oliva. Esperamos a que se dore ligeramente y añadimos los champiñones laminados.Salteamos hasta que esté dorado y añadimos las pasas. Doramos por 2 minutos más y apagamos el fuego. Por otro lado, medimos 1/2 vaso de caldo vegetal y lo ponemos en una olla a hervir. A continuación, cuando esté en ebullición, apagamos el fuego y añadimos 1/2 vaso de cuscús.Dejamos que el cuscús absorba el caldo y reservamos. Añadimos las verduras a la olla, el tomate natural cortado en cubos, la lechuga en tiras y aliñamos con un chorro largo de limón y una pizca de sal y albahaca. Retiramos y dejamos templar.¡Y listo! Ya tenemos nuestra ensalada de cuscús lista.",
+			"ingredientes": [
+				{ "ingrediente": "1/2 vaso de cuscús", "fotoIngrediente": "" },
+				{ "ingrediente": "Lechuga", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 vaso de caldo", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 pimiento rojo", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 calabacín", "fotoIngrediente": "" },
+				{ "ingrediente": "1 puñado de champiñones", "fotoIngrediente": "" },
+				{ "ingrediente": "1 tomate", "fotoIngrediente": "" },
+				{ "ingrediente": "1 puñado de uvas pasas", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 limón", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 aguacate", "fotoIngrediente": "" },
+				{ "ingrediente": "una pizca de sal", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de oliva", "fotoIngrediente": "" },
+				{ "ingrediente": "Albahaca", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "ENSALADA DE MIJO CON BONIATO Y PATATA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/02/receta-ensalada-mijo-boniato-patata-vegana-2.jpg",
+			"descripcion": "Hoy os traigo una increíblemente deliciosa Ensalada de Mijo. Sé que es un poco raro que os traiga la receta del sábado en viernes ¡pero mañana nos vamos a pasar el fin de semana a Casa Albets! Y no quería haceros esperar hasta el domingo. ¿Os acordáis que ya os hablé de este hotel vegano? Cuando fui a la inauguración os hice un post en el blog de viajes donde os explicaba un poco más del lugar. Pues ahora que vamos a ir con los perros os traeré otro post con un review más personal :-) Así que por eso he adelantado un poquitín la receta de esta semana.",
+			"categoria": "Ensaladas",
+			"duracion": "40min",
+			"dificultad": "Media",
+			"preparacion": "En primer lugar empezaremos poniendo a pre-calentar el horno a 200 grados. Seguimos, ahora cortando en cubos pequeños las patatas y el boniato. Los volcamos sobre una bandeja y lo salpimentamos con pimienta, sal y orégano. Engrasamos con un chorrito de aceite de oliva y removemos bien los vegetales. Lo introducimos en el horno y lo dejamos hasta que la patata y el boniato se hayan asado. Mientras tanto, vamos a cocer el mijo. Para ello, ponemos a hervir 3 tazas de agua y añadimos 1 taza de mijo. Lo dejamos cocer a fuego bajo-medio durante unos 15 minutos. (O siguiendo las indicaciones del paquete). Apagamos cuando el agua se haya consumido por completo. Ahora, salteamos unos champiñones laminados en la sartén con un chorrito de aceite de oliva, mientras las patatas y el boniato acaban de hacerse.Cuando el boniato y las patatas ya estén hechas, retiramos la bandeja sin apagar el horno. Ahora, volcamos dentro el mijo, las 5 cucharadas soperas de garbanzos cocidos, los champiñones dorados, una pizca de curry, abundante pimienta negra, un chorrito de limón, otro chorrito de aceite de oliva, sal y abundante perejil picado. Removemos bien y volvemos a introducir en el horno durante 5 o 10 minutos, hasta que el mijo esté un poquito más seco y dorado. Retiramos del horno, y añadimos trozos de lechuga romana y demás brotes, así como col lombarda al gusto.¡Servir caliente!",
+			"ingredientes": [
+				{ "ingrediente": "1 taza de mijo", "fotoIngrediente": "" },
+				{ "ingrediente": "3 tazas de agua", "fotoIngrediente": "" },
+				{ "ingrediente": "1 boniato pequeño", "fotoIngrediente": "" },
+				{ "ingrediente": "3 patatas medianas", "fotoIngrediente": "" },
+				{ "ingrediente": "3 puñados de champiñones", "fotoIngrediente": "" },
+				{
+					"ingrediente": "5 cucharadas soperas de garbanzos cocidos",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "Lechuga, brotes verdes, col lombarda",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "Aceite de Oliva", "fotoIngrediente": "" },
+				{ "ingrediente": "Orégano", "fotoIngrediente": "" },
+				{ "ingrediente": "Perejil", "fotoIngrediente": "" },
+				{ "ingrediente": "Curry", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimienta negra", "fotoIngrediente": "" },
+				{ "ingrediente": "Limón", "fotoIngrediente": "" },
+				{ "ingrediente": "Sal", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "ENSALADA DE QUINOA Y MANGO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2017/08/ensalada-quinoa-recetas-veganas-2.jpg",
+			"descripcion": "Lo reconozco: la primera vez que probé esta Quinoa no me gustó nada. Me pareció insípida, con una textura bastante mala y totalmente prescindible. Pero claramente la culpa era mía, no tenía ni idea de cómo cocinarla. Anteriormente ya había probado la Quinoa Hinchada, que es muy fácil de usar y especialmente buena para desayunos y meriendas (hidratas, mezclas, listo). Hace un par de veranos me hice adicta a esa Quinoa y no podía dejar de tomarla, me encantaba.",
+			"categoria": "Ensaladas",
+			"duracion": "15min",
+			"dificultad": "Fácil",
+			"preparacion": "Empezaremos dejando la Quinoa en remojo mientras nos encargamos los vegetales. Para continuar, picamos en cubos el Mango, el Tomate y el calabacín. El aguacate lo vaciamos y machacamos. Reservamos. Picamos la espinaca en trozos pequeños, reservamos. Ponemos a hervir una olla pequeña con agua, para cocer la quinoa. Colamos la Quinoa con un colador muy fino para retirar el agua y lavamos con abundante agua. Añadimos la Quinoa a la olla y la cocemos durante el tiempo que indique el paquete, que suelen ser unos 15 minutos.Cuando ya esté cocida, la retiramos de la olla y la volvemos a lavar con abundante agua fría. Seguidamente, la añadimos a un bol y la mezclamos con el aguacate machacado, una pizca de sal, lima y aceite de oliva. Añadimos el resto de vegetales y volvemos a mezclar. ¡Y listo!",
+			"ingredientes": [
+				{ "ingrediente": "1/2 taza de Quinoa", "fotoIngrediente": "" },
+				{ "ingrediente": "Un calabacín mediano", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 Mango", "fotoIngrediente": "" },
+				{ "ingrediente": "1 Aguacate maduro", "fotoIngrediente": "" },
+				{ "ingrediente": "Un puñado de espinacas", "fotoIngrediente": "" },
+				{ "ingrediente": "1 tomate", "fotoIngrediente": "" },
+				{ "ingrediente": "Lima", "fotoIngrediente": "" },
+				{ "ingrediente": "Sal", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de Oliva", "fotoIngrediente": "" }
+			]
 		}
 	],
 	"Carnes Vegetales": [
