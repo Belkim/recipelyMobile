@@ -166,6 +166,218 @@
 			]
 		},
 		{
+			"titulo": "CROQUETAS DE GARBANZO AL CURRY CON SALSA DE QUESO Y KÉFIR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2022/02/croquetas-garbanzos-veganas-salsa-queso-kefir.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy os traigo una receta fácil y deliciosa para implementar de una forma diferente las legumbres en tu alimentación: estas croquetas de garbanzo con una salsa de queso vegano y kéfir de anarcado. Deliciosa.",
+			"categoria": "Croquetas",
+			"duracion": "45min",
+			"dificultad": "Media",
+			"preparacion": "En una sartén salteamos los ajos, la cebolla y las setas con un chorrito de aceite de oliva. Todo picado finamente. Cuando esté listo, lo volcamos en un bol y añadimos los garbanzos cocidos con generoso curry (la cantidad de curry puede variar dependiendo de la intensidad y calidad de la especia). No tengas miedo de probar la mezcla si no sabes cuánto añadir. Seguimos añadiendo un toque de pimienta negra, ajo en polvo y sal al gusto. Añadimos otro chorrito de aceite de oliva a la masa y con un tenedor machacamos bien todo, hasta que quede una pasta densa.Por último, freímos o salteamos las croquetas en una sartén con aceite. ¡Y listo! Sirve las croquetas con la salsa de queso fundida.",
+			"ingredientes": [
+				{
+					"ingrediente": "400gr garbanzos cocidos",
+					"fotoIngrediente": "https://a2.soysuper.com/4832c49acb32b274273722865f82ecaa.1500.0.0.0.wmark.0b50319d.jpg"
+				},
+				{
+					"ingrediente": "Cebolla 2",
+					"fotoIngrediente": "https://www.fructusterrum.com/wp-content/uploads/2020/07/cebolla-roja-1.jpg"
+				},
+				{
+					"ingrediente": "Ajos 3",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_1_1/azblob/ajos.jpg.webp?itok=1AItGwmc"
+				},
+				{
+					"ingrediente": "3 champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "300ml de yogurt",
+					"fotoIngrediente": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/articulos/recomendaciones-yogures.jpg"
+				},
+				{
+					"ingrediente": "Queso vegano",
+					"fotoIngrediente": "https://t2.rg.ltmcdn.com/es/posts/0/5/5/queso_vegano_de_papa_y_zanahoria_66550_orig.jpg"
+				},
+				{
+					"ingrediente": "2 cdas soperas de Harina de garbanzo",
+					"fotoIngrediente": "https://blog.pepebar.com/wp-content/uploads/2018/03/harina-de-garbanzo.png"
+				},
+				{
+					"ingrediente": "1/2 taza agua Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2020/03/05/aceite-oliva-beneficios-1-kYhB--620x349@abc.jpg"
+				},
+				{
+					"ingrediente": "Curry en polvo",
+					"fotoIngrediente": "https://www.recetasderechupete.com/wp-content/uploads/2021/04/Curry-en-polvo-6.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/718TzI9DBIL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				}
+			]
+		},
+		{
+			"titulo": "CROQUETAS VEGANAS DE SEITÁN CON CHAMPIÑONES",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2019/05/croquetas_vegetarianas_veganas_seitan_champi%C3%B1ones.jpg",
+			"descripcion": "¡Hola, hola! ¿Como estáis?  ¡Hoy os traigo las croquetas veganas de seitán que ayer os enseñé por Instastories! Estas croquetas las preparé con un Seitán casero que preparó mi compañera de piso. Ella lo hizo siguiendo la receta de mi libro, pero también podéis usar un Seitán comprado (carrefour, tiendas ecológicas y algún supermercado más) o siguiendo esta receta que os dejo por aquí.",
+			"categoria": "Croquetas",
+			"duracion": "105min",
+			"dificultad": "Difícil",
+			"preparacion": "",
+			"ingredientes": [
+				{
+					"ingrediente": "1 lámina gruesa de seitán",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/2022-05/seita%CC%81n-que-es%C2%A9iStock.jpg"
+				},
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "1/2 cebolla",
+					"fotoIngrediente": "https://www.salud.mapfre.es/media/2016/07/cebolla-fibra-antioxidantes-3-1280x720.jpg"
+				},
+				{
+					"ingrediente": "2 puñados de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "3 cucharadas soperas de harina trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Una pizca de sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Aceite para girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "BOWL DE CROQUETAS DE GARBANZO Y ENSALADA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/03/croquetas-garbanzo-recetas-veganas-faciles-veganismo5-2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy os escribo desde una situación de lo más surrealista y después de llevar ya 10 días de cuarentena debido a todo lo que está ocurriendo en España. En Instagram estoy intentando aportar contenido variado y algún que otro directo para que nos entretengamos junt@s, así que os espero por allí. También hemos estado organizando el ‘Patio de vecinas Fest’, un festival de charlas, clases y talleres en streaming para amenizar la cuarentena lo máximo posible.",
+			"categoria": "Croquetas",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "En una batidora, ponemos dos ajos partidos por la mitad, un chorro generoso de aceite de oliva, un pellizco generoso de semillas de sésamo (esto es opcional) y los garbanzos cocidos. A continuación, especiamos con 1 cdita. de comino, 1 cdita. de pimentón dulce, 1/2 de pimentón picante y ajo en polvo al gusto. Batimos con la batidora hasta conseguir una pasta densa, cremosa y homogénea. Añadimos otro chorrito de aceite de oliva y volvemos a triturar. En un plato hondo a parte, llenamos la mitad de su capacidad con pan rallado, la otra mitad con harina y especiamos con pimentón dulce. Mezclamos.Y listo!",
+			"ingredientes": [
+				{
+					"ingrediente": "400 gr de garbanzos cocidos",
+					"fotoIngrediente": "https://www.comedera.com/wp-content/uploads/2022/08/garbanzos.jpg"
+				},
+				{
+					"ingrediente": "2 dientes de ajo",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/01/dientes-ajo-768x480.jpg"
+				},
+				{
+					"ingrediente": "Pimentón dulce",
+					"fotoIngrediente": "https://tiaecuador.vtexassets.com/arquivos/ids/192960/252435000.jpg?v=637844441515700000"
+				},
+				{
+					"ingrediente": "Pimentón picante",
+					"fotoIngrediente": "https://lahuertadelavilla.es/524-thickbox_default/pimenton-picante-especias-carmencita.jpg"
+				},
+				{
+					"ingrediente": "Comino en polvo",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/71FG87o2nWL._SX425_.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Aceite de girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "CROQUETAS VEGANAS DE SETAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2015/12/croquetas_veganas_setas1000_2.jpg",
+			"descripcion": "¿Habéis visto que pedazo de croquetas veganas? La semana pasada sé que no estuve aquí y lo siento, l@s que me seguís por Facebook o Instagram sabéis que fue por un muy buen motivo: y es que después de 2000 kilómetros de viaje, tenemos nuevo miembro en la familia. Se llama Bony y en Instagram ya podéis ver su carita.",
+			"categoria": "Croquetas",
+			"duracion": "52min",
+			"dificultad": "Difícil",
+			"preparacion": "Lo primero que haremos será lavar y picar bien finitos los champiñones, los orejones y las cebollitas. Luego, cogeremos una sartén grande, luego veremos por qué. Vamos a engrasar la base de una sartén con un chorrito de aceite de oliva y sofreír todos los ingredientes. Vamos a especiarlo con un poquito de pimienta negra y herbamare o sal. Dejamos la sartén a fuego medio y removemos de vez en cuando para que no se pegue. Cuando ya esté doradito, lo retiramos del fuego y lo dejamos reposar en la sartén. Ahora toca hacer la bechamel para la masa: en una olla de tamaño medio mezclamos en frío dos tazas de leche de soja sin azúcar y las cuatro cucharadas soperas (rasas) de harina. Mezclamos bien (a mi me gusta hacerlo con unas varillas) y cuando ya esté sin grumos, encendemos el fuego medio-alto y lo llevamos a ebullición, removiendo continuamente. Ahora toca añadir una pizca de sal o herbamare, un chorro largo de aceite de oliva y una buena porción de nuez moscada en polvo. Cuando empiece a espesar, dejamos de remover por unos segundos. A los pocos segundos empezarán a crearse pompas de aire dentro de la bechamel, por entrar en ebullición. En ese momento volvemos a remover activamente hasta que esté bastante espesa, como si fuera una crema. En este instante ponemos a fuego medio-alto la sartén con el sofrito y volcamos ahí dentro toda la bechamel. Mezclamos muy muy bien, para que la bechamel se complemente con el sofrito, y cuando ya esté definitivamente espesa la crema, apagamos el fuego. Aún caliente, lo volcamos en una fuente planita y lo dejamos reposar hasta que entre en temperatura ambiente. Cuando ya no esté caliente, lo metemos en la nevera durante al menos 20 minutos. Esto nos ayudará a que la masa espese y sea más fácil manejarla. Cuanto más ratito la dejes, mejor. Ya habiendo retirado la masa de la nevera, intenta mantener la tentación de comértela a cucharadas. ¡Merece la pena esperar! De momento toca preparar un platito hondo con una montaña de pan rallado. Con la ayuda de dos cucharas soperas, vamos a ir cogiendo masa y haciendo forma cilíndrica de las croquetas. Luego, la soltamos sobre el pan rallado y le damos varias vueltas. Es importante darle vueltas sobre el pan rallado y apretarlas bien con tus manos mientras le das forma. Esto hará que no se hagan quebradizas y queden bien compactas. Repite este proceso con toda la masa, te saldrán unas 25 croquetas veganas de tamaño medio. Para cocinarlas, yo te recomiendo que las hagas a la sartén con poco aceite, utilizar  demasiado hará que sean más grasientas y menos sanas, y eso no es lo que queremos, porque si lo haces como yo te explico verás que no es necesario :-) : Pon una sartén pequeña a calentar con un chorro de aceite largo que engrase bien la base. No te pases, ¡no queremos una balsa de aceite! Sólo es para que no se peguen. Deja que el aceite caliente muy bien, pero sin que se queme. Luego, sueltalas en la sartén y dale vueltas rápidamente. Puedes agitar la sartén ligeramente para ayudar a que no se peguen. Deja que se doren por todos los costados y retíralas del calor. Verás que así quedan crujientitas por fuera y súper cremosas por dentro.",
+			"ingredientes": [
+				{
+					"ingrediente": "150 gramos de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "100 gramos de setas tipo orejones",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/styles/open_graph_image/public/2021-12/setas%20de%20cardo.jpg?itok=EyZ3Kbyi"
+				},
+				{
+					"ingrediente": "9 cebollitas pequeñas",
+					"fotoIngrediente": "https://previews.123rf.com/images/gankat/gankat1704/gankat170400213/76104851-fondo-de-cebollas-peque%C3%B1as-listas-para-plantar-semillas-concepto-agr%C3%ADcolamente.jpg"
+				},
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "4 cucharadas rasas de harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2022/01/22/pimienta-negra-k1FI--1024x512@abc.jpg"
+				},
+				{
+					"ingrediente": "Nuez moscada",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/811fMqITzlL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Herbamare o sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
+		{
 			"titulo": "Pancakes de Calabaza y Sirope",
 			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/pancakes-calabaza-veganos-faciles-receta-vegetariana-sin-huevo2.jpg",
 			"descripcion": "Pues estas tortitas son una pasada. La masa queda esponjosa y súper sabrosa, y no llevan huevo. La esponjosidad se la da la levadura, y el sabor una mezcla de calabaza cocida y canela, que acaba teniendo un regustito dulzón que, en combinación con el sirope de ágave, es una fantasía. Hacer tortitas caseras no es nada difícil, pero sí os recomiendo que uséis una sartén antiadherente y tengáis el aceite de oliva a mano. Se puede hacer con prácticamente cualquier sartén, pero si es anti-adherente te puedes ahorrar muchos problemas. A mi me salen rápido y sin problema desde que uso sartenes buenas. Con las que tenía antes que me pegaban, se rompían, era imposible darles la vuelta… Parece una tontería, ¡pero no lo es! Podéis ver que tengo una sección enorme de recetas de pancakes / tortitas veganas, así que os recomiendo que le echéis un vistazo a todas las diferentes recetas de pancakes para que escojáis la que más os guste.",
@@ -211,16 +423,24 @@
 			"foto": "https://recetasveganas.net/wp-content/uploads/2016/02/recetasveganas_falafel.jpg"
 		},
 		{
+			"nombre": "Ensaladas",
+			"foto": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/legumbres_que_son.jpg"
+		},
+		{
+			"nombre": "Carnes Vegetales",
+			"foto": "https://www.consumer.es/app/uploads/2021/04/tipos-carne-vegetal.jpg"
+		},
+		{
+			"nombre": "Bebidas",
+			"foto": "https://azsstatic.com/341/conversions/bebidas-mas-saludables-default.jpg"
+		},
+		{
 			"nombre": "Postres",
 			"foto": "https://i.blogs.es/1c733d/postres/1366_2000.jpg"
 		},
 		{
 			"nombre": "Pastas",
 			"foto": "https://casadiromavlc.com/wp-content/uploads/2019/08/tipos-de-pastas-y-salsas-cover-1080x675.jpg"
-		},
-		{
-			"nombre": "Legumbres",
-			"foto": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/legumbres_que_son.jpg"
 		}
 	],
 
@@ -279,6 +499,374 @@
 					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
 				}
 			]
+		},
+		{
+			"titulo": "CROQUETAS DE GARBANZO AL CURRY CON SALSA DE QUESO Y KÉFIR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2022/02/croquetas-garbanzos-veganas-salsa-queso-kefir.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy os traigo una receta fácil y deliciosa para implementar de una forma diferente las legumbres en tu alimentación: estas croquetas de garbanzo con una salsa de queso vegano y kéfir de anarcado. Deliciosa.",
+			"categoria": "Croquetas",
+			"duracion": "45min",
+			"dificultad": "Media",
+			"preparacion": "En una sartén salteamos los ajos, la cebolla y las setas con un chorrito de aceite de oliva. Todo picado finamente. Cuando esté listo, lo volcamos en un bol y añadimos los garbanzos cocidos con generoso curry (la cantidad de curry puede variar dependiendo de la intensidad y calidad de la especia). No tengas miedo de probar la mezcla si no sabes cuánto añadir. Seguimos añadiendo un toque de pimienta negra, ajo en polvo y sal al gusto. Añadimos otro chorrito de aceite de oliva a la masa y con un tenedor machacamos bien todo, hasta que quede una pasta densa.Por último, freímos o salteamos las croquetas en una sartén con aceite. ¡Y listo! Sirve las croquetas con la salsa de queso fundida.",
+			"ingredientes": [
+				{
+					"ingrediente": "400gr garbanzos cocidos",
+					"fotoIngrediente": "https://a2.soysuper.com/4832c49acb32b274273722865f82ecaa.1500.0.0.0.wmark.0b50319d.jpg"
+				},
+				{
+					"ingrediente": "Cebolla 2",
+					"fotoIngrediente": "https://www.fructusterrum.com/wp-content/uploads/2020/07/cebolla-roja-1.jpg"
+				},
+				{
+					"ingrediente": "Ajos 3",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_1_1/azblob/ajos.jpg.webp?itok=1AItGwmc"
+				},
+				{
+					"ingrediente": "3 champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "300ml de yogurt",
+					"fotoIngrediente": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/articulos/recomendaciones-yogures.jpg"
+				},
+				{
+					"ingrediente": "Queso vegano",
+					"fotoIngrediente": "https://t2.rg.ltmcdn.com/es/posts/0/5/5/queso_vegano_de_papa_y_zanahoria_66550_orig.jpg"
+				},
+				{
+					"ingrediente": "2 cdas soperas de Harina de garbanzo",
+					"fotoIngrediente": "https://blog.pepebar.com/wp-content/uploads/2018/03/harina-de-garbanzo.png"
+				},
+				{
+					"ingrediente": "1/2 taza agua Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2020/03/05/aceite-oliva-beneficios-1-kYhB--620x349@abc.jpg"
+				},
+				{
+					"ingrediente": "Curry en polvo",
+					"fotoIngrediente": "https://www.recetasderechupete.com/wp-content/uploads/2021/04/Curry-en-polvo-6.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/718TzI9DBIL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				}
+			]
+		},
+		{
+			"titulo": "CROQUETAS VEGANAS DE SEITÁN CON CHAMPIÑONES",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2019/05/croquetas_vegetarianas_veganas_seitan_champi%C3%B1ones.jpg",
+			"descripcion": "¡Hola, hola! ¿Como estáis?  ¡Hoy os traigo las croquetas veganas de seitán que ayer os enseñé por Instastories! Estas croquetas las preparé con un Seitán casero que preparó mi compañera de piso. Ella lo hizo siguiendo la receta de mi libro, pero también podéis usar un Seitán comprado (carrefour, tiendas ecológicas y algún supermercado más) o siguiendo esta receta que os dejo por aquí.",
+			"categoria": "Croquetas",
+			"duracion": "105min",
+			"dificultad": "Difícil",
+			"preparacion": "",
+			"ingredientes": [
+				{
+					"ingrediente": "1 lámina gruesa de seitán",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/2022-05/seita%CC%81n-que-es%C2%A9iStock.jpg"
+				},
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "1/2 cebolla",
+					"fotoIngrediente": "https://www.salud.mapfre.es/media/2016/07/cebolla-fibra-antioxidantes-3-1280x720.jpg"
+				},
+				{
+					"ingrediente": "2 puñados de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "3 cucharadas soperas de harina trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Una pizca de sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Aceite para girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "BOWL DE CROQUETAS DE GARBANZO Y ENSALADA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/03/croquetas-garbanzo-recetas-veganas-faciles-veganismo5-2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy os escribo desde una situación de lo más surrealista y después de llevar ya 10 días de cuarentena debido a todo lo que está ocurriendo en España. En Instagram estoy intentando aportar contenido variado y algún que otro directo para que nos entretengamos junt@s, así que os espero por allí. También hemos estado organizando el ‘Patio de vecinas Fest’, un festival de charlas, clases y talleres en streaming para amenizar la cuarentena lo máximo posible.",
+			"categoria": "Croquetas",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "En una batidora, ponemos dos ajos partidos por la mitad, un chorro generoso de aceite de oliva, un pellizco generoso de semillas de sésamo (esto es opcional) y los garbanzos cocidos. A continuación, especiamos con 1 cdita. de comino, 1 cdita. de pimentón dulce, 1/2 de pimentón picante y ajo en polvo al gusto. Batimos con la batidora hasta conseguir una pasta densa, cremosa y homogénea. Añadimos otro chorrito de aceite de oliva y volvemos a triturar. En un plato hondo a parte, llenamos la mitad de su capacidad con pan rallado, la otra mitad con harina y especiamos con pimentón dulce. Mezclamos.Y listo!",
+			"ingredientes": [
+				{
+					"ingrediente": "400 gr de garbanzos cocidos",
+					"fotoIngrediente": "https://www.comedera.com/wp-content/uploads/2022/08/garbanzos.jpg"
+				},
+				{
+					"ingrediente": "2 dientes de ajo",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/01/dientes-ajo-768x480.jpg"
+				},
+				{
+					"ingrediente": "Pimentón dulce",
+					"fotoIngrediente": "https://tiaecuador.vtexassets.com/arquivos/ids/192960/252435000.jpg?v=637844441515700000"
+				},
+				{
+					"ingrediente": "Pimentón picante",
+					"fotoIngrediente": "https://lahuertadelavilla.es/524-thickbox_default/pimenton-picante-especias-carmencita.jpg"
+				},
+				{
+					"ingrediente": "Comino en polvo",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/71FG87o2nWL._SX425_.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Aceite de girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "CROQUETAS VEGANAS DE SETAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2015/12/croquetas_veganas_setas1000_2.jpg",
+			"descripcion": "¿Habéis visto que pedazo de croquetas veganas? La semana pasada sé que no estuve aquí y lo siento, l@s que me seguís por Facebook o Instagram sabéis que fue por un muy buen motivo: y es que después de 2000 kilómetros de viaje, tenemos nuevo miembro en la familia. Se llama Bony y en Instagram ya podéis ver su carita.",
+			"categoria": "Croquetas",
+			"duracion": "52min",
+			"dificultad": "Difícil",
+			"preparacion": "Lo primero que haremos será lavar y picar bien finitos los champiñones, los orejones y las cebollitas. Luego, cogeremos una sartén grande, luego veremos por qué. Vamos a engrasar la base de una sartén con un chorrito de aceite de oliva y sofreír todos los ingredientes. Vamos a especiarlo con un poquito de pimienta negra y herbamare o sal. Dejamos la sartén a fuego medio y removemos de vez en cuando para que no se pegue. Cuando ya esté doradito, lo retiramos del fuego y lo dejamos reposar en la sartén. Ahora toca hacer la bechamel para la masa: en una olla de tamaño medio mezclamos en frío dos tazas de leche de soja sin azúcar y las cuatro cucharadas soperas (rasas) de harina. Mezclamos bien (a mi me gusta hacerlo con unas varillas) y cuando ya esté sin grumos, encendemos el fuego medio-alto y lo llevamos a ebullición, removiendo continuamente. Ahora toca añadir una pizca de sal o herbamare, un chorro largo de aceite de oliva y una buena porción de nuez moscada en polvo. Cuando empiece a espesar, dejamos de remover por unos segundos. A los pocos segundos empezarán a crearse pompas de aire dentro de la bechamel, por entrar en ebullición. En ese momento volvemos a remover activamente hasta que esté bastante espesa, como si fuera una crema. En este instante ponemos a fuego medio-alto la sartén con el sofrito y volcamos ahí dentro toda la bechamel. Mezclamos muy muy bien, para que la bechamel se complemente con el sofrito, y cuando ya esté definitivamente espesa la crema, apagamos el fuego. Aún caliente, lo volcamos en una fuente planita y lo dejamos reposar hasta que entre en temperatura ambiente. Cuando ya no esté caliente, lo metemos en la nevera durante al menos 20 minutos. Esto nos ayudará a que la masa espese y sea más fácil manejarla. Cuanto más ratito la dejes, mejor. Ya habiendo retirado la masa de la nevera, intenta mantener la tentación de comértela a cucharadas. ¡Merece la pena esperar! De momento toca preparar un platito hondo con una montaña de pan rallado. Con la ayuda de dos cucharas soperas, vamos a ir cogiendo masa y haciendo forma cilíndrica de las croquetas. Luego, la soltamos sobre el pan rallado y le damos varias vueltas. Es importante darle vueltas sobre el pan rallado y apretarlas bien con tus manos mientras le das forma. Esto hará que no se hagan quebradizas y queden bien compactas. Repite este proceso con toda la masa, te saldrán unas 25 croquetas veganas de tamaño medio. Para cocinarlas, yo te recomiendo que las hagas a la sartén con poco aceite, utilizar  demasiado hará que sean más grasientas y menos sanas, y eso no es lo que queremos, porque si lo haces como yo te explico verás que no es necesario :-) : Pon una sartén pequeña a calentar con un chorro de aceite largo que engrase bien la base. No te pases, ¡no queremos una balsa de aceite! Sólo es para que no se peguen. Deja que el aceite caliente muy bien, pero sin que se queme. Luego, sueltalas en la sartén y dale vueltas rápidamente. Puedes agitar la sartén ligeramente para ayudar a que no se peguen. Deja que se doren por todos los costados y retíralas del calor. Verás que así quedan crujientitas por fuera y súper cremosas por dentro.",
+			"ingredientes": [
+				{
+					"ingrediente": "150 gramos de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "100 gramos de setas tipo orejones",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/styles/open_graph_image/public/2021-12/setas%20de%20cardo.jpg?itok=EyZ3Kbyi"
+				},
+				{
+					"ingrediente": "9 cebollitas pequeñas",
+					"fotoIngrediente": "https://previews.123rf.com/images/gankat/gankat1704/gankat170400213/76104851-fondo-de-cebollas-peque%C3%B1as-listas-para-plantar-semillas-concepto-agr%C3%ADcolamente.jpg"
+				},
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "4 cucharadas rasas de harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2022/01/22/pimienta-negra-k1FI--1024x512@abc.jpg"
+				},
+				{
+					"ingrediente": "Nuez moscada",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/811fMqITzlL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Herbamare o sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		}
+	],
+	"Ensaladas": [
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		}
+	],
+	"Carnes Vegetales": [
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		}
+	],
+	"Bebidas": [
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
 		}
 	],
 	"Postres": [
@@ -320,6 +908,98 @@
 					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/06/29/5e9980e44b547.jpeg"
 				}
 			]
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		}
+	],
+	"Pastas": [
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
 		}
 	]
 }
