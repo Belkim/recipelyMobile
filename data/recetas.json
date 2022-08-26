@@ -890,54 +890,130 @@
 	],
 	"Carnes Vegetales": [
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "FILETES DE SOJA Y PATATAS CON SALSA DE YOGUR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/09/filetes_soja_salsa_yogur_vegana_recetas_saludables.jpg",
+			"descripcion": "¡Hola a todas! Hoy os traigo una improvisación de la comida de ayer que fue top. Pero antes quería daros un notición ¡acabo de estrenar mi propio podcast! El podcast se llama ‘La singular’ y ya lo podéis encontrar en Spotify, YouTube, Ivoox, Amazon Music, Apple Podcast y más.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "20min",
+			"dificultad": "Fácil",
+			"preparacion": "Mezclamos todos los ingredientes para la salsa de yogur y lo dejamos reposando. Ahora, hidratamos los filetes de soja durante 5 minutos con agua templada o caliente. Mientras, lavamos y cortamos en cuartos las patatas y las ponemos a cocer hasta que estén tiernas. Cuando estén tiernos los bocados, escurrimos y presionamos ligeramente los filetes para quitar el exceso de agua.En una sartén antiadherente, calentamos un chorrito de aceite de sésamo (o de oliva) y pasamos vuelta y vuelta los bocados. Ahora, echamos por encima una pizca de pimentón de la vera, ajo en polvo, un chorrito muy pequeño de salsa de soja doramos. Mantenemos a fuego medio y doramos bien, añadiendo un segundo chorro de aceite, en este caso de oliva. Repetimos el proceso con todos los bocados.Ahora, simplemente saltemos también las patatas para darles un acabado más crujiente. ¡Y listo! Servimos todo con la salsa de yogur por encima.",
+			"ingredientes": [
+				{ "ingrediente": "Filetes de soja deshidratada", "fotoIngrediente": "" },
+				{ "ingrediente": "2 patatas medianas", "fotoIngrediente": "" },
+				{ "ingrediente": "Salsa de soja", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimentón de la vera", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de oliva", "fotoIngrediente": "" },
+				{ "ingrediente": "Ajo en polvo", "fotoIngrediente": "" },
+				{ "ingrediente": "Agua", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de sésamo", "fotoIngrediente": "" },
+				{ "ingrediente": "Salsa de yogur", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "SANJACOBOS VEGANOS DE SEITÁN",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/06/sanjacobo-seitan-recetas-vegetarianas-faciles3.jpg",
+			"descripcion": "¡Hola a todas! Hoy traigo una de esas recetas veganas que son pura fantasía: Sanjacobos veganos de seitán, rellenos de queso vegano estilo mozarella.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "Cortamos el seitán en rodajas finas o medias de un tamaño similar. Las disponemos una al lado de la otra, y en el centro, procurando dejar un pequeño borde, rellenamos con queso vegano en lonchas (o rallado) que sea para fundir.Reservamos las lonchas de seitán y, por otra parte, preparamos en un bol la mezcla que nos ayudará a sustituir el huevo. Para ello, mezclamos 1/2 taza de agua y 2 cdas soperas rasas. Batimos bien con la ayuda de un tenedor, hasta que no queden grumos. Ahora, cogemos el bloque de seitán relleno de queso, lo mojamos bien en la mezcla de harina de garbanzo y lo pasamos vuelta y vuelta por harina de trigo o harina para rebozar. Volvemos a mojar en la mezcla y a rebozar en la harina de trigo. Presionando bien, rebozando por los laterales, para que quede bien sellado. Por último, mojamos una última vez en la mezcla líquida y ahora lo empanamos en pan rallado. Presiona bien el Sanjacobo de seitán para sellar bien el rebozado. Por último, lo freímos en 1 o 2 dedos de aceite hasta dorar bien por todos los costados :-). ¡A disfrutar! ",
+			"ingredientes": [
+				{ "ingrediente": "Seitán", "fotoIngrediente": "" },
+				{
+					"ingrediente": "Queso vegano para fundir (yo usé violife)",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "Harina de trigo o harina para rebozar",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "1/2 taza de agua", "fotoIngrediente": "" },
+				{
+					"ingrediente": "1 cdas soperas de Harina de garbanzo",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "Pan rallado con ajo y,,perejil", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de Oliva", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "NO POLLO A LA CERVEZA (CON HEURA)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/04/no-pollo-horno-cerveza-receta-vegetariana.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy traigo una receta básica basiquísima, más que fácil, perfecta para principiantes y toda persona que quiera introducirse a la cocina vegetariana / vegana. Un horneado de No pollo a la cerveza, usando pollo vegetal de la marca Heura. Efectivamente, he juntado en una receta las dos cosas que más te gustan de la vida: la cerveza y la Heura.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "55min",
+			"dificultad": "Media",
+			"preparacion": "Si tienes Heura congelada, descongélala previamente dejándola fuera del congelador hasta que quede más tierna. (Si vas a usar Seitán o Tofu, procura que sean tiras gruesas para que no se queden tiesas en el horno). Mientras tanto, pre-cocemos las patatas cortadas en cubos, hasta que queden tiernas. Así conseguiremos un resultado óptimo en textura tras hornearlo. Por otro lado, cortamos en láminas las 2 cebollas, las tiras el pimiento y las 2 zanahorias, laminamos el tomate y lo colocamos todo dentro de la bandeja. A continuación, metemos en la bandeja las patatas cocidas y la Heura. Añadimos generoso pimentón dulce, ajo en polvo, perejil y romero. Ahora, añadimos un toque ligero de pimienta negra y sal al gusto. Bañamos todo con un chorro generoso de aceite de oliva, 1/2 vaso de cerveza, un chorro de 1/2 limón y removemos. Removemos muy muy bien. Colocamos en el centro 1/2 cabeza de ajos y engrasamos con otro chorrito de aceite de oliva. Horneamos a 180 grados, encendido por arriba y por abajo, unos 20 minutos o hasta que las patatas y la Heura ya se vean doradas. ¡A disfrutar este pedazo de receta!",
+			"ingredientes": [
+				{
+					"ingrediente": "1 caja de Heura sabor mediterráneo",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "1/2 taza de cerveza", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 cabeza de ajo", "fotoIngrediente": "" },
+				{ "ingrediente": "2 cebollas", "fotoIngrediente": "" },
+				{ "ingrediente": "1 tomate grande", "fotoIngrediente": "" },
+				{ "ingrediente": "1 pimiento rojo", "fotoIngrediente": "" },
+				{ "ingrediente": "2 zanahoria", "fotoIngrediente": "" },
+				{ "ingrediente": "3 o 4 patatas pre-cocidas", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de oliva", "fotoIngrediente": "" },
+				{ "ingrediente": "Limón", "fotoIngrediente": "" },
+				{ "ingrediente": "Sal", "fotoIngrediente": "" },
+				{ "ingrediente": "Perejil", "fotoIngrediente": "" },
+				{ "ingrediente": "Ajo en polvo", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimienta negra", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimentón dulce", "fotoIngrediente": "" },
+				{ "ingrediente": "Romero", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "LÁGRIMAS DE «POLLO» VEGETAL (HEURA CRISPY NO-CHICKEN)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/12/lagrimas-de-pollo-vegano-crispy-chicken-vegetariano2.jpg",
+			"descripcion": "¡Hola a tod@s! Hoy traigo una receta exprés de una versión 100% vegetal de las «lágrimas de pollo» (un concepto que me parece de lo más creppy, por cierto 😅). Un plato bastante típico de mi país que consiste en pequeños trozos de pollo rebozado. Hoy vamos a hacerlo vegetal. Mismo sabor, misma textura sin involucrar ningún animal en nuestros platos.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "30min",
+			"dificultad": "Media",
+			"preparacion": "Empezaremos descongelando la caja de bocados de Heura. Seguidamente, las sazonamos con pimentón dulce y un toque de pimentón picante y mezclamos bien. Ahora, preparamos un bol pequeño con 2 cdas de harina de garbanzo o no-egg. Añadimos 1 cdita pequeña de pimentón dulce y 1/2 de taza de agua. Mezclamos bien hasta que no queden grumos. Ahora, por otra parte, preparamos un bol con harina de trigo y otro bol con abundante panko. Cogemos los bocados de Huera y los sumergimos bien en la mezcla de agua. Seguidamente lo pasamos por harina, para rebozar bien. Volvemos a sumergir en la mezcla de agua y ahora lo pasamos por panko y, sin volver a mojar, por harina. Repetimos este proceso hasta terminar con todos los bocados de Heura. Ahora, en una sartén preferentemente antiadherente, ponemos 2 dedos de aceite de girasol y calentamos a fuego medio, hasta que el aceite empiece a burbujear. Despúes, incorporamos las lágrimas de pollo (heura) en la sartén hasta dorar por ambos lados, retiramos. Y listo para comer! Puedes servirlos con alguna salsa o hummus para mojar.",
+			"ingredientes": [
+				{
+					"ingrediente": "1 caja de Heura en bocados originales",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "Pimentón dulce", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimentón picante", "fotoIngrediente": "" },
+				{ "ingrediente": "Harina de trigo", "fotoIngrediente": "" },
+				{ "ingrediente": "Panko", "fotoIngrediente": "" },
+				{ "ingrediente": "No-egg o harina de garbanzo", "fotoIngrediente": "" },
+				{ "ingrediente": "Agua", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de girasol", "fotoIngrediente": "" }
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "CRISPY TOFU CON NOODLES EN SALSA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/crispy-tofu-filetes-crujientes-veganos-recetas-faciles-sin-carne6.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy vengo con una receta que fue fruto de la improvisación, pero que llevaba años queriendo probar… ¡Porque no he parado de verla por redes sociales! Os traigo el paso a paso para preparar Crispy Tofu con noodles en salsa casera. Os traigo mi propia versión de estos filetes de tofu rebozados, que como veis tiene un aspecto espectacular y crujiente. Pues ya veréis cuando probéis este sabor espectacular… ¡Porque es brutal!",
+			"categoria": "Carnes Vegetales",
+			"duracion": "40min",
+			"dificultad": "Media",
+			"preparacion": "Cortamos los 400 gr de tofu en filetes gruesos (un dedo de grosor, aprox). Opcionalmente, podemos cortar los bordes para darles una forma ovalada. Los envolvemos en un trapo limpio y presionamos suavemente para retirar todo el líquido. Los sacamos del trapo húmedo, volvemos a envolverlos con otro trapo seco y presionamos ligeramente. Los dejamos secar ahí por 10 minutos.Con los filetes ya secos, los colocamos en un plato hondo y cubrimos con generosa salsa de soja, pimentón dulce que cubra ligeramente la superficie (observa las fotos de abajo), comino que cubra 1/3 del filete y curry que cubra 1/4 de filete. Con una espátula, repartimos bien las especias, que deberían estar mezcladas con la salsa de soja que hemos puesto anteriormente. Ahora, le damos la vuelta y repetimos el proceso de especiado. Dejamos macerar allí por 30 minutos, dándole vuelta cada 5-8 minutos para que hidrate bien por ambos lados. Si fuera necesario, añade más salsa de soja. Pasada la media hora, en un plato hondo, mezclamos 2 cditas pequeñas de harina de garbanzo, 1 cdita de pimentón dulce con 1/3 de taza de agua y dos pellizcos de sal negra. Batimos bien y reservamos. Por otra parte, en otro plato hondo, mezclamos generoso panko con la misma cantidad de harina de trigo. Mezclamos.Cogemos los filetes, los sumergimos en la mezcla de harina de garbanzo por ambos lados. Ahora, lo rebozamos vuelta y vuelta por la mezcla de panko con harina de trigo. Presionamos ligeramente por ambos lados, para procurar que se adhiera. Dejamos el filete en un plato limpio, reposando. Repetimos el proceso con todos los filetes de tofu que tengamos macerando. Cuando estén todos los filetes rebozados, volvemos al primer filete rebozado (que ya tendrá el rebozado algo adherido y seco) y lo sumergimos ligeramente, rápido y por ambos lados, en la mezcla de harina de garbanzo y agua. Vamos a darle un segundo rebozado. Así que después de sumergirlo, volvemos a pasarlo por el panko + harina de trigo, procurando que se adhiera bien por todos los costados. Repetimos el proceso con todos los filetes y los reservamos.En una sartén antiadherente, colocamos 1 dedo de aceite de girasol y lo calentamos a fuego medio. Cuando esté caliente, manteniendo el fogón a fuerza media, ligeramente baja, y freímos el Crispy tofu por ambos lados, hasta que quede bien tostado y crujiente. ¡Y LISTO! Ya tienes tus filetes de tofu listos",
+			"ingredientes": [
+				{ "ingrediente": "400 gr de Tofu firme", "fotoIngrediente": "" },
+				{
+					"ingrediente": "2 cditas. pequeñas de harina de garbanzo",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "Panko para rebozar", "fotoIngrediente": "" },
+				{ "ingrediente": "Harina de trigo", "fotoIngrediente": "" },
+				{ "ingrediente": "Salsa de soja", "fotoIngrediente": "" },
+				{ "ingrediente": "1/3 taza de agua", "fotoIngrediente": "" },
+				{ "ingrediente": "Curry en polvo", "fotoIngrediente": "" },
+				{ "ingrediente": "Comino en polvo", "fotoIngrediente": "" },
+				{ "ingrediente": "Pimentón Dulce en polvo", "fotoIngrediente": "" },
+				{ "ingrediente": "Sal negra", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de girasol", "fotoIngrediente": "" },
+				{ "ingrediente": "Para los noodles", "fotoIngrediente": "" },
+				{ "ingrediente": "300 gr de noodles de trigo", "fotoIngrediente": "" }
+			]
 		}
 	],
 	"Bebidas": [
