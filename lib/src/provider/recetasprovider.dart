@@ -7,6 +7,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 class _RecetasProvider {
   List<dynamic> recetas = [];
+  List<dynamic> recetasPopulares = [];
   FirebaseFirestore firestore = FirebaseFirestore.instance;
 
 //cargar desde cloud-firestore
@@ -24,6 +25,22 @@ class _RecetasProvider {
             });
     recetas = recetasTempList;
     return recetas;
+  }
+
+  Future<List<dynamic>> cargarRecetasPopulares() async {
+    final List<dynamic> recetasPopularesTempList = [];
+    await firestore
+        .collection("recetasPopulares")
+        .get()
+        .then((QuerySnapshot querySnapshot) => {
+              querySnapshot.docs.forEach((doc) {
+                Map<String, dynamic> recetasMap =
+                    doc.data() as Map<String, dynamic>;
+                recetasPopularesTempList.add(recetasMap);
+              })
+            });
+    recetasPopulares = recetasPopularesTempList;
+    return recetasPopulares;
   }
 
 //cargar la lista desde el json

@@ -1,10 +1,10 @@
 {
-	"recetasPopulares": [
+	"recetas": [
 		{
 			"titulo": "TACOS VEGETARIANOS DE ALUBIA (SIN CARNE)",
 			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/recetas-tacos-sin-carne-vegetariano-alubias-aguacate-tomate-olivas2.jpg",
 			"descripcion": "¡Muy buenas a tod@s! Hoy vuelvo con una receta que os presenté la semana pasada por Instagram (que si no me sigues por ahí, no sé a qué esperas) ;-). Traigo unos tacos vegetarianos de alubias, combinados con tomate, aguacate, lechuga picada, pepinillos laminados y un poco de mayonesa de aquafaba que me sobró de la receta de las patatas rellenas de la semana pasada.",
-			"categoria": "Tacos",
+			"categoria": "Carnes Vegetales",
 			"duracion": "45min",
 			"dificultad": "Fácil",
 			"preparacion": "1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
@@ -47,7 +47,7 @@
 			"titulo": "HAMBURGUESA PROTEICA DE ALUBIAS Y SOJA TEXTURIZADA",
 			"foto": "https://recetasveganas.net/wp-content/uploads/2022/01/burger-proteica-alubias-soja-vegana-recetas.jpg",
 			"descripcion": "¡Muy buenas a todas! Hoy vengo con un recetón improvisado: una hamburguesa proteica vegana hecha a partir de alubias rojas y soja texturizada, además de alguna que otra verdurita. Como podréis imaginar, es una receta muy económica y que además de una tanda podéis sacar muchísimas buger. Con esta receta os salen 6 hamburguesas grandes.",
-			"categoria": "Tacos",
+			"categoria": "Carnes Vegetales",
 			"duracion": "60min",
 			"dificultad": "Media",
 			"preparacion": "1. En una sartén a fuego medio, engrasada con un chorrito de aceite de oliva, calentamos las tortillas por ambos lados, hasta conseguir que cojan una textura algo más rígida y ligeramente tostada. Verás que están casi listas cuando ya hayan hecho burbujas y se empiecen a poner en un tono marrón. No deben quedar demasiado duras o se romperán. 2.Cuando las tortillas ya estén calientes y listas, mi recomendación es doblarlas por la mitad y meterlas en una taza para que mantengan su forma en 'u' mientras templan. Así se quedarán con esa forma. 3. En un bol, mezclamos el tomate picado en cubos, unos cuantos pepinillos cortados en rodajas, medio aguacate cortado también en cubos, 200gr de alubias cocidas, un puñado de lechuga picada en láminas y mezclamos bien.",
@@ -957,6 +957,32 @@
 					"fotoIngrediente": "http://cdn.shopify.com/s/files/1/0597/1407/6829/products/3379140211926_ca0e9f55-add3-41c7-b6e4-a4f2cc379e65.jpg?v=1636186062"
 				}
 			]
+		}
+	],
+	"recetasPopulares": [
+		{
+			"nombre": "Croquetas Veganas de Champiñones y Berenjena",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/11/croquetas_veganas_caseras_champinones_berenjena_vegetariana8.jpg"
+		},
+		{
+			"nombre": "BOWL ENSALADA DE ARROZ NEGRO CON AJOACEITE (ALIOLI) VEGANO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/10/arroz-negro-ajoaceite-vegano-aguacate-setas-verduras.png"
+		},
+		{
+			"nombre": "FILETES DE SOJA Y PATATAS CON SALSA DE YOGUR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/09/filetes_soja_salsa_yogur_vegana_recetas_saludables.jpg"
+		},
+		{
+			"nombre": "COCKTAIL DE KOMBUCHA Y FRUTA (KOMTAIL)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/coctail-casero-saludable-kombucha-vegano-recetas-bebidas-fiestas.jpg"
+		},
+		{
+			"nombre": "Pancakes de Calabaza y Sirope",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/pancakes-calabaza-veganos-faciles-receta-vegetariana-sin-huevo2.jpg"
+		},
+		{
+			"nombre": "PASTA CON «BACON» VEGANO DE BONIATO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2022/01/pasta-nata-bacon-boniato-recetas-veganas-faciles.jpg"
 		}
 	],
 	"categorias": [

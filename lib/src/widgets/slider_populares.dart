@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:recipely/src/provider/recetasprovider.dart';
+import 'package:recipely/src/viewModels/recetas_populares_listado.dart';
 
 // ignore: camel_case_types, use_key_in_widget_constructors
 class sliderPopulares extends StatelessWidget {
@@ -13,10 +15,16 @@ class sliderPopulares extends StatelessWidget {
       height: 250.0,
       child: Swiper(
         itemBuilder: (BuildContext context, int index) {
-          return PageView(
-            controller: controller,
-            children: <Widget>[_tarjeta(), _tarjeta(), _tarjeta(), _tarjeta()],
-          );
+          return FutureBuilder(
+              future: recetasProvider.cargarRecetasPopulares(),
+              initialData: const [],
+              builder: (BuildContext context,
+                  AsyncSnapshot<List<dynamic>> snapshot) {
+                return PageView(
+                    controller: controller,
+                    children: recetasPopularesListado(context)
+                );
+              });
         },
         itemCount: 2,
         //itemWidth: 600.0,
@@ -25,15 +33,4 @@ class sliderPopulares extends StatelessWidget {
       ),
     );
   }
-}
-
-Widget _tarjeta() {
-  return Container(
-    margin: const EdgeInsets.only(left: 25.0),
-    alignment: AlignmentDirectional.centerEnd,
-    child: const Image(
-      image: AssetImage('assets/recipe-slider1.png'),
-      fit: BoxFit.fill,
-    ),
-  );
 }
