@@ -2269,14 +2269,26 @@
 			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "PASTA VEGETARIANA: SALSA DE BRÓCOLI Y GUISANTES CON SETAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/06/pasta-salsa-brocoli-vegetariano-recetas-veganismo-setas-facil2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy os traigo un plato de pasta de lo más fácil, pensado para cocineros principiantes. Os hablo de esta Pasta vegetariana con salsa de brócoli y guisantes, acompañada de un salteado de setas.",
+			"categoria": "Pastas",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "Mientras cuece el brócoli y los guisantes congelados en abundante agua hirviendo, en una sartén a parte, salteamos con un chorrito de aceite de oliva 2 ajos laminados y cebolla bien picada. Cuando poche ligeramente, añadimos el puerro laminado, las setas shiitake laminadas y el calabacín en tiras. Salteamos hasta dorar y añadimos un puñadito de los guisantes que teníamos reservados. Salteamos hasta que estén listos. Cuando esté listo, reservamos. Cuando el brócoli ya esté cocido, retiramos los ingredientes y ponemos a cocer en abundante agua hirviendo los macarrones.Colocamos en el vaso de una batidora el brócoli junto con los guisantes, 1 ajo crudo, un pellizco de sal, un chorro generoso de aceite de oliva y otro chorro de agua. Trituramos y añadimos más agua y otro chorro de aceite en función de si quieres una salsa más cremosa o más densa. Eso es totalmente a gustos :-) Mezclamos los macarrones cocidos con el salteado y la salsa... ¡Y listo para disfrutar!",
+			"ingredientes": [
+				{ "ingrediente": "250 gr de macarrones integrales", "fotoIngrediente": "" },
+				{ "ingrediente": "1 cebolla", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 puerro", "fotoIngrediente": "" },
+				{ "ingrediente": "3 ajos", "fotoIngrediente": "" },
+				{ "ingrediente": "5 setas shiitake", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 cabeza de brócoli", "fotoIngrediente": "" },
+				{ "ingrediente": "300 gr de guisantes congelados", "fotoIngrediente": "" },
+				{ "ingrediente": "1/3 calabacín mediano", "fotoIngrediente": "" },
+				{ "ingrediente": "Agua", "fotoIngrediente": "" },
+				{ "ingrediente": "Aceite de oliva", "fotoIngrediente": "" },
+				{ "ingrediente": "Sal", "fotoIngrediente": "" }
+			]
 		}
 	]
 }
