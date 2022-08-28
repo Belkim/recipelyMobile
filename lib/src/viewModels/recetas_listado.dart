@@ -4,11 +4,10 @@ import 'package:flutter/material.dart';
 //estilos
 import 'package:recipely/src/styles/styles.dart';
 
-List<Widget> recetasListado(
-    BuildContext context, List<dynamic> recetasPopulares) {
+List<Widget> recetasListado(BuildContext context, List<dynamic> recetas) {
   final List<Widget> listadoRecetas = [];
 
-  recetasPopulares.forEach((receta) {
+  recetas.forEach((receta) {
     final listadoWidgetProvisional =
         _cuerpoRecetaListado(context, titlesRecipeStyle, receta);
     listadoRecetas.add(listadoWidgetProvisional);

@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
                   sliderPopulares(),
                   titles('Categorías', titlesStyle),
                   SliderCategorias(),
-                  titles('Recetas Populares', titlesStyle),
+                  titles('Recetas', titlesStyle),
                   //Procesamos el future del provider
                   FutureBuilder(
                     future: recetasProvider.cargarRecetas(),

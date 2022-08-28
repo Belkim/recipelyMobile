@@ -1,10 +1,9 @@
 // ignore_for_file: avoid_function_literals_in_foreach_calls
 
-import 'dart:convert';
-
+//import 'dart:convert';
+//import 'package:firebase_core/firebase_core.dart';
+//import 'package:flutter/services.dart' show rootBundle;
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/services.dart' show rootBundle;
 
 class _RecetasProvider {
   List<dynamic> recetas = [];

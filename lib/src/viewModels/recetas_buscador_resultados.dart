@@ -10,16 +10,17 @@ List<Widget> recetasListadoBuscador(
 
   recetas.forEach((receta) {
     var titulo = receta["titulo"].toString().toLowerCase();
-    if (titulo.contains(recetaBuscada)) {
-      final listadoWidgetProvisional =
-          _cuerpoRecetaListado(context, titlesRecipeStyle, receta);
-      listadoRecetas.add(listadoWidgetProvisional);
-    } else {
+    if (titulo.isEmpty || !titulo.contains(recetaBuscada)) {
       if (listadoRecetas.isEmpty) {
         listadoRecetas.add(_sinReceta());
       }
+    } else if (titulo.contains(recetaBuscada)) {
+      final listadoWidgetProvisional =
+          _cuerpoRecetaListado(context, titlesRecipeStyle, receta);
+      listadoRecetas.add(listadoWidgetProvisional);
     }
   });
+
   return listadoRecetas;
 }
 
