@@ -1,0 +1,218 @@
+"Bebidas": [
+		{
+			"titulo": "COCKTAIL DE KOMBUCHA Y FRUTA (KOMTAIL)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/coctail-casero-saludable-kombucha-vegano-recetas-bebidas-fiestas.jpg",
+			"descripcion": "Últimamente me he aficionado bastante a la Kombucha, aunque reconozco que ha sido después de estar un tiempo probando marcas que, sinceramente, no me gustaron nada. El caso es que se habla mucho de los beneficios de la Kombucha a nivel digestivo, así que decidí volver a probarla y la verdad es que llevo dos o tres meses bebiéndola semanalmente, hasta anteayer que se me ocurrió ¿por qué no le damos una vuelta a esta bebida y creamos algo un poco más divertido? Además de que tengo la sección de bebidas bastante abandonada… Así que os traigo una receta rápida y fácil para hacer un Cocktail de Kombucha.",
+			"categoria": "Bebidas",
+			"duracion": "15min",
+			"dificultad": "Fácil",
+			"preparacion": "Comenzaremos cortando la piña por la mitad, cortamos con un cuchillo el margen interior de la piña dejando 1 cm de margen. Después, cortamos en cubos el interior y lo retiramos con una cuchara. Llenamos con la Kombucha y colocamos los arándanos congelados, los cubos de piña que hemos retirado del interior, unos cubos de hielo pequeños y una rodaja de naranja.Por último, añadimos una rodajita de mango y para decorar: chía blanca (opcional), coco rallado y una pajita reutilizable, yo usé una de bambú.",
+			"ingredientes": [
+				{ "ingrediente": "1/2 piña", "fotoIngrediente": "" },
+				{ "ingrediente": "1 kombucha ", "fotoIngrediente": "" },
+				{
+					"ingrediente": "1 puñado de arándanos congelados",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "Hielo", "fotoIngrediente": "" },
+				{ "ingrediente": "1 trocito de mango", "fotoIngrediente": "" },
+				{ "ingrediente": "Coco rallado", "fotoIngrediente": "" },
+				{ "ingrediente": "1 rodaja de naranja", "fotoIngrediente": "" },
+				{ "ingrediente": "Chía blanca", "fotoIngrediente": "" }
+			]
+		},
+		{
+			"titulo": "MILKSHAKE VEGANO DE CHOCOLATE Y CEREZAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2017/07/milkshake-chocolate-cereza-vegano-1.jpg",
+			"descripcion": "Os prometo que la semana que viene os traigo una receta salada. ¡Buenos días a todos! No sé qué me pasa estas semanas pero acabo de darme cuenta de que últimamente sólo he subido recetas dulces, pero ya tengo pensada la receta de el próximo sábado y os va a encantar. Y sí. Es salada.",
+			"categoria": "Bebidas",
+			"duracion": "135min",
+			"dificultad": "Media",
+			"preparacion": "El primer paso será congelar las 4 bananas y la 1/2 taza de cerezas, en trozos, como mínimo durante 2 horas. Mientras tanto, vamos a fundir el chocolate para crear el fondo y los laterales con chocolate helado. Para ello,cogemos las 4 onzas de chocolate y, junto con un chorrito muy pequeño de leche vegetal, lo metemos en una olla y lo mantenemos a fuego bajo, removiendo constantemente, hasta que se funda por completo.Cuando ya esté fundido, apagamos el fuego y con la ayuda de una cuchara impregnamos todo el fondo y los laterales más bajos de nuestro vaso con el chocolate. Además, de manera opcional, podemos dejar escurrir un poco de chocolate en la boca del vaso, tal y como os muestro en la foto de arriba. Luego, lo guardamos en la nevera. Cuando ya tengamos las frutas congeladas, repartimos las Bananas en dos partes iguales. Seguidamente, cogemos una de las mitades y la volcamos sobre un recipiente para triturar. A este recipiente le añadimos las 3 cucharadas soperas de cacao, una pizca de canela (opcional), y 1/3 de taza de leche vegetal.Con la batidora de mano, trituramos todo hasta que quede lo más homogéneo posible. Luego, lo volcamos en el vaso y lo reservamos nuevamente en la nevera.Ahora vamos a preparar la parte de cereza siguiendo el mismo procedimiento: volcamos el resto de la banana en un recipiente para triturar y lo mezclamos con las cerezas y 1/3 de taza de leche vegetal. Si fuera necesario, añadimos algún edulcorante. Tituramos todo hasta que quede lo más homogéneo posible. Retiramos nuestro milkshake vegano de chocolate de la nevera y volcamos la capa de cereza encima. Para terminar, por encima, añadimos los toppings que más nos gusten: virutas de chocolate, trozos de almendras... ¡Y listo! Es importante servir el Milkshake bien frío.",
+			"ingredientes": [
+				{
+					"ingrediente": "4 Bananas maduras (cuanto más maduras están, más dulces son)",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "3 cucharadas soperas de Cacao (os recomiendo que sea un cacao dulce, uno que sea soluble, de lo contrario puede amargar)",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "1/2 taza de Cerezas", "fotoIngrediente": "" },
+				{
+					"ingrediente": "4 onzas de Chocolate (sin leche)",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "1 taza de Leche Vegetal (Yo usé de Almendras)",
+					"fotoIngrediente": ""
+				}
+			]
+		},
+		{
+			"titulo": "BATIDO DE ESPINACAS Y ZANAHORIA (UNA PIEL SALUDABLE)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2016/05/batido_detox_verde_recetavegana2.jpg",
+			"descripcion": "¡Muy buenos días a tod@s otro sábado más!.Este sábado estoy muy contenta de traeros un batido súper nutritivo y PERFECTO PARA EL VERANO :-) Creo que hacía más de un año que no subía un batido a la página, y ya tocaba. Ahora que llega el verano a España a mi me apetecen cosas fresquitas, saludables, naturales y ligeras, aunque muy nutritivas.",
+			"categoria": "Bebidas",
+			"duracion": "15min",
+			"dificultad": "Fácil",
+			"preparacion": " El procedimiento es tan simple como lavar bien los vegetales y batirlos. Si añadimos el topping, simplemente lo espolvoreamos por encima. ¡Y ya está! Si esperabais más pasos, siento decepcionaros. Siguiendo los consejos de Jolly Yoli, os recomiendo que peléis la manzana si esta no es orgánica, para evitar pesticidas. Yo batí lo verde por un lado y las zanahorias por otro (una taza de leche vegetal para cada cosa), porque quería que los colores se mezclaran de diferente manera, ¡pero eso es simple decoración!",
+			"ingredientes": [
+				{ "ingrediente": "Un bol de espinacas", "fotoIngrediente": "" },
+				{
+					"ingrediente": "Dos tazas de leche vegetal (yo usé leche de avena sin,,azúcar)",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "3/4 de bol de canónigos", "fotoIngrediente": "" },
+				{ "ingrediente": "Tres zanahorias grandes", "fotoIngrediente": "" },
+				{
+					"ingrediente": "Una o dos manzanas dulces (depende de lo dulce que lo quieras)",
+					"fotoIngrediente": ""
+				}
+			]
+		},
+		{
+			"titulo": "BATIDO DE FRESAS Y YOGURT DE SOJA (VEGANO)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2013/05/juice-114628_640.jpg",
+			"descripcion": "¡Bienvenidos al verano y bienvenidos al calor! Pocas cosas me apetecen más cuando llega el calor la fruta en cantidades enormes, batidos fresquitos, yogures helados…  Por eso hoy os traigo una receta bastante recurrente para mi en estos días: un batido de fresas y yogurt de soja servido en frío ¡muy frío!",
+			"categoria": "Bebidas",
+			"duracion": "5min",
+			"dificultad": "Fácil",
+			"preparacion": "Lavamos y cortamos las frutas y las metemos en un recipiente para triturar, junto a la leche vegetal y al yogur. Lo trituramos hasta dejar una crema homogénea. Lo colocamos en un recipiente y ya lo podemos servir. ¡Disfrútalo fresquito!",
+			"ingredientes": [
+				{ "ingrediente": "1 puñado de Fresas", "fotoIngrediente": "" },
+				{ "ingrediente": "1/2 puñado de Fambuesas", "fotoIngrediente": "" },
+				{ "ingrediente": "1 Melocotón bien maduro", "fotoIngrediente": "" },
+				{
+					"ingrediente": "1 o 2 yogures vegetales (yo usé yogurt de soja)",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "1 vaso de leche vegetal fría", "fotoIngrediente": "" }
+			]
+		}
+	],
+	"Postres": [
+		{
+			"titulo": "Pancakes de Calabaza y Sirope",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/pancakes-calabaza-veganos-faciles-receta-vegetariana-sin-huevo2.jpg",
+			"descripcion": "Pues estas tortitas son una pasada. La masa queda esponjosa y súper sabrosa, y no llevan huevo. La esponjosidad se la da la levadura, y el sabor una mezcla de calabaza cocida y canela, que acaba teniendo un regustito dulzón que, en combinación con el sirope de ágave, es una fantasía. Hacer tortitas caseras no es nada difícil, pero sí os recomiendo que uséis una sartén antiadherente y tengáis el aceite de oliva a mano. Se puede hacer con prácticamente cualquier sartén, pero si es anti-adherente te puedes ahorrar muchos problemas. A mi me salen rápido y sin problema desde que uso sartenes buenas. Con las que tenía antes que me pegaban, se rompían, era imposible darles la vuelta… Parece una tontería, ¡pero no lo es! Podéis ver que tengo una sección enorme de recetas de pancakes / tortitas veganas, así que os recomiendo que le echéis un vistazo a todas las diferentes recetas de pancakes para que escojáis la que más os guste.",
+			"categoria": "Postres",
+			"duracion": "15min",
+			"dificultad": "Fácil",
+			"preparacion": "1. En primer lugar, pelamos y cortamos la calabaza en cubos pequeños. Ponemos a cocer los trozos en abundante agua. 2. Por otra parte, en un bol, mezclamos todos los ingredientes secos: la harina, la levadura, y la canela. 3. Cuando la calabaza ya esté cocida (se podrá atravesar fácilmente con un tenedor), la añadimos al bol (reservando una pequeña porción para decoración superior) junto con el sirope de ágave y la taza de leche vegetal. 4. Con una batidora de mano, trituramos la masa hasta conseguir una crema homogénea y fluida. 5. Engrasamos con aceite de oliva una sartén pequeña y la ponemos a calentar a fuego medio-alto. 6. Cuando esté caliente, bajamos el fuego a potencia media-baja y añadimos una porción generosa de masa. 7. Esperamos a que la masa se dore por abajo (lo notaréis porque  empezará a hacer burbujitas) volteamos y doramos por el otro costado. 8. Repetimos el proceso hasta terminar con toda la masa.",
+			"ingredientes": [
+				{
+					"ingrediente": "250 gramos de calabaza",
+					"fotoIngrediente": "https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/09/16/calabaza.jpeg"
+				},
+				{
+					"ingrediente": "1 taza de harina",
+					"fotoIngrediente": "https://i.blogs.es/95d4c3/harina-trigo-tipos/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "1 taza de leche vegetal",
+					"fotoIngrediente": "https://babycocina.com/wp-content/uploads/2021/01/Leches-vegetales-veganas.jpeg"
+				},
+				{
+					"ingrediente": "½ cucharadita de levadura",
+					"fotoIngrediente": "https://www.levapan.com.ec/wp-content/uploads/2018/01/Levadura-activa-seca-La-Reposterita.jpg"
+				},
+				{
+					"ingrediente": "1 cucharadita de canela en polvo",
+					"fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/images/2017/10/canelapolvo.jpg"
+				},
+				{
+					"ingrediente": "2 cucharadas soperas de sirope de ágave + extra.",
+					"fotoIngrediente": "https://www.consumer.es/app/uploads/2019/07/img_sirope-de-agave-hd.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/06/29/5e9980e44b547.jpeg"
+				}
+			]
+		},
+		{
+			"titulo": "‘GALLETAS DANESAS DE MANTEQUILLA’ VEGANAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/galletas-danesas-mantequilla-receta-vegana-dulce.jpg",
+			"descripcion": "¡Hola a tod@s! Hoy os traigo una receta fruto de la casualidad, la improvisación y la falta de ingredientes en mi casa… Si me seguís en Instagram lo sabréis. Que por casualidad me ha devuelto una de mis galletas favoritas de mi infancia: las galletas danesas de mantequilla (pero ahora veganas).",
+			"categoria": "Postres",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "Empezaremos fundiendo las 2 cditas pequeñas de margarina vegetal con 2 cdas soperas de aceite de coco en el microondas o una olla pequeña. Seguidamente, añadimos 1 cdita pequeña y 1/2 de azúcar glass. Mezclamos muy muy bien. Ahora, añadimos la leche condensada de coco, que la habremos tenido reposando en nevera un rato. Añadimos también 1 cdita pequeña de vainilla líquida. Mezclamos bien con la ayuda de unas varillas hasta que quede todo bien integrado.Continuamos añadiendo la 1/2 cdita de levadura en polvo y 3/4 taza de maicena, poco a poco, mientras vamos removiendo con unas varillas. Cuando las varillas ya no puedan amasar, pasamos a un tenedor o con las manos. Debe quedar una masa suave y moldeable. Ahora, cogemos pequeñas porciones y le damos forma de bola. Repetimos el proceso con toda la masa y la colocamos en una bandeja grande, con papel de horno puesto. Mientras, pre-calentamos el horno a 180 grados, por abajo, durante 10 minutos. Chafamos ligeramente las galletas con un tenedor o la palma de la mano, y las colocamos bien separadas entre ellas (duplicarán su tamaño, así que dale espacio para que no se peguen entre ellas). Introducimos las galletas a altura media en el horno, y las horneamos durante 10-15 minutos. Pasado ese rato, activamos el modo horneado por abajo y encima, a 180 grados también. Horneamos hasta dorar ambos costados, que tardara unos 8-10 min más, entre 20 y 25 minutos en total. Intenta estar atento/a pero abriendo la puerta del horno lo mínimo posible. Déjalas templar antes de comerlas ¡y listo! Puedes servirlas con un poquito de azúcar glass decorando por encima.",
+			"ingredientes": [
+				{ "ingrediente": "3/4 taza de maicena", "fotoIngrediente": "" },
+				{
+					"ingrediente": "2 cdas pequeñas de margarina vegetal ",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "2 cdas soperas de aceite de coco",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "125 ml de leche de coco condensada reposada en nevera",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "1 cdita pequeña de vainilla líquida",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "1 cdita de azúcar glass", "fotoIngrediente": "" },
+				{
+					"ingrediente": "3/4 cdita pequeña de levadura en polvo",
+					"fotoIngrediente": ""
+				}
+			]
+		},
+		{
+			"titulo": "COCO CONDENSADA (SIN HUEVO)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/bizcocho-sin-huevo-vegano-facil-fresas-receta-vainilla.jpg",
+			"descripcion": "Hoy os traigo un bizcocho sin huevo, súper fácil, hecho con trocitos de fresa. Este bizcocho tiene un sabor suave a vainilla y azahar, porque está pensado para que lleve un súper topping encima. En este caso, además de trocitos de fresa, le puse una maravillosa leche de coco condensada de la marca Nature’s Charm (recordad que tengo descuento con el código ‘SOYVEGANAJENNY‘). Una gozada dulce, aunque de consumo puntual, obvio.",
+			"categoria": "Postres",
+			"duracion": "60min",
+			"dificultad": "Difícil",
+			"preparacion": "Por un lado, mezclamos los 3/4 de taza de leche de soja con 1/4 de margarina vegetal fundida. Añadimos entre 2 y 4 cdas soperas de vainilla, 2 cditas pequeñas de azahar, entre 2 y 4 cdas soperas de sirope de ágave. Mezclamos bien con un tenedor o unas varillas, y reservamos. Por otro lado, en un bol grande ponemos la taza y media de harina para bizcochos con un toque generoso de canela. Añadimos la parte líquida a la harina y mezclamos bien, con un tenedor o las varillas. Hasta que todo se integre bien. No batas demasiado tiempo, solo lo justo para que quede una masa homogénea y sin grumos. Mientras, ponemos a pre-calentar el horno a 180 grados, encendido por arriba y por abajo sin ventilador. Ahora, añadimos 6 fresas cortadas en taquitos pequeños y mezclamos.Engrasamos bien el molde con la margarina, tanto en su base como por los laterales. Esto es importante. Metemos el molde en el horno, a media altura. Lo dejamos a 180º por unos 35 minutos, aunque el tiempo puede variar en función de si el horno es muy viejo o muy nuevo. Intenta no abrir el horno antes de los 25 minutos para evitar que el bizcocho baje. Nota: Puedes hacer la prueba del palillo, cuando ya veas que está dorado por arriba, clavando un palito hasta el final y viendo si sale seco. Si sale seco, suele ser indicador de que ya está bien horneado. Tienes que saber que la prueba del palito puede hacer que tu bizcocho baje un poquito. Cuando ya esté bien horneado, retiramos del horno y lo dejamos templar durante unos 10 minutos. No desmoldes el bizcocho muy caliente porque se podría romper. Una vez desmoldado, decora con el chocolate negro fundido o la leche de coco condensada y decora con fresas enteras y un poquito de azúcar glass. Nota: te recomiendo que lo emplates justo antes de servir, ya que el bizcocho se humedece cuando lo bañas en el chocolate o la leche condensada.",
+			"ingredientes": [
+				{
+					"ingrediente": "Taza y 1/2 de harina para bizcochos",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "1/4 de taza de margarina vegetal + extra para engrasar el molde",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "3/4 de taza de leche de soja", "fotoIngrediente": "" },
+				{
+					"ingrediente": "Entre 2 y 4 cdas soperas de sirope de ágave o tu edulcorante favorito",
+					"fotoIngrediente": ""
+				},
+				{
+					"ingrediente": "Entre 2 y 4 cdas soperas de vainilla",
+					"fotoIngrediente": ""
+				},
+				{ "ingrediente": "2 cditas pequeñas de azahar", "fotoIngrediente": "" },
+				{ "ingrediente": "Canela", "fotoIngrediente": "" },
+				{ "ingrediente": "Fresas", "fotoIngrediente": "" }
+			]
+		},
+		{
+			"titulo": "GALLETAS DE AVENA Y CHOCOLATE SALUDABLES (TIPO DIGESTIVE)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/09/galletas-avena-caseras-chocolate-sin-huevo-vegano-dulce-recetas-saludables4.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy traigo una de esas que tanto os gustan: una receta saludable para principiantes. Las galletas de avena y chocolate son tan fáciles de preparar que fue una de las primeras cosas que empecé a cocinar en casa cuando no sabía ni cocer espaguetis.",
+			"categoria": "Postres",
+			"duracion": "80min",
+			"dificultad": "Difícil",
+			"preparacion": "Pelamos las dos bananas, las cortamos en rodajas y las machacamos con un tenedor hasta conseguir un puré lo más homogéneo posible. ñadimos 1/2 cdita de levadura en polvo, 3 cdas soperas de panela o tu edulcorante en grano.Continuamos añadiendo 1/2 cdita de canela en polvo, mezclamos bien y seguimos añadiendo 3 cdas soperas de aceite de oliva. Volvemos a mezclar hasta conseguir una pasta homogénea. Añadimos solo 1/2 taza de avena (reservamos la otra media) y mezclamos muy muy bien con la ayuda del tenedor.Ahora, una vez bien mezclado, añadimos la otra mitad de taza de avena en copos. Mezclamos muy bien. [Ahora vamos con el chocolate. Como yo las estoy preparando en temporada de frío, el chocolate tarda mucho en fundir, por lo que voy a empezar ya. Si lo estás preparando en un clima cálido, puedes esperar a hacer este paso a cuando acabes de hornear.]. Así que, mientras tanto, ponemos a fundir el chocolate al baño maría: metemos el chocolate en una taza y la taza en una olla que mantendremos a fuego medio-bajo, en una ebullición suave. Opcionalmente, si queremos suavizar el chocolate, añadimos 1 chorrito de leche vegetal y 1 cdita pequeña de aceite de coco (el leche de coco diluye el sabor intenso a cacao y el aceite de coco devolverá la solidez del chocolate cuando enfríe). Volvemos con las galletas mientras el chocolate funde. Añadimos 2 cdas soperas de harina de trigo (puede ser integral o de avena) y mezclamos.Añadimos otras 2 cucharadas soperas de harina, volvemos a mezclar y listo. En una bandeja para horno, colocamos una cucharada sopera de masa. Ahora, aplanamos la galleta y le damos una forma fina y redondeada. Repetimos este proceso hasta acabar con la masa. Las horneamos, con el fuego encendido por arriba y por abajo, el ventilador prendido, durante 20 minutos mínimo a 180 grados. El tiempo puede variar en función del horno. Pasados los 20 minutos, puedes abrir el horno y comprobar si están doradas ya por debajo. De ser así, puedes retirarlas o simplemente hornearlas 10-15 minutos más. Las dejamos templar. A estas alturas el chocolate debería estar ya fundido. Pasamos el chocolate a un bowl grande y sumergimos las galletas por la parte baja, las retiramos con cuidado y las mojamos hasta la mitad. Las volvemos a poner en el papel de horno y las introducimos en la nevera durante 15 minutos. Si estás en un clima frío, es posible que el chocolate cuaje a temperatura ambiente. Si estás en clima cálido, quizá debas dejarlo más tiempo en la nevera para solidificar bien el chocolate. ¡Y listas para comer!",
+			"ingredientes": []
+		},
+		{
+			"titulo": "",
+			"foto": "",
+			"descripcion": "",
+			"categoria": "",
+			"duracion": "",
+			"dificultad": "",
+			"preparacion": "",
+			"ingredientes": []
+		}
+	],
