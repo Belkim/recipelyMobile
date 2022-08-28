@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
                   titles('Recetas Populares', titlesStyle),
                   //Procesamos el future del provider
                   FutureBuilder(
-                    future: recetasProvider.cargarRecetasPopulares(),
+                    future: recetasProvider.cargarRecetas(),
                     initialData: const [],
                     builder: (BuildContext context,
                         AsyncSnapshot<List<dynamic>> snapshot) {

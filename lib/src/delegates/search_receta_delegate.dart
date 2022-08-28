@@ -40,7 +40,7 @@ class RecetasSearchDelegate extends SearchDelegate {
   @override
   Widget buildResults(BuildContext context) {
     return FutureBuilder(
-      future: recetasProvider.cargarRecetasPopulares(),
+      future: recetasProvider.cargarRecetas(),
       initialData: const [],
       builder: (BuildContext context, AsyncSnapshot<List<dynamic>> snapshot) {
         List<dynamic> recetas = snapshot.data!;
