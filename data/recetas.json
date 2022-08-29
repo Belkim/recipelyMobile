@@ -1592,14 +1592,6 @@
 					"fotoIngrediente": "https://www.cocinavital.mx/wp-content/uploads/2020/10/ajo-en-polvo-634x420.jpg"
 				},
 				{
-					"ingrediente": "Agua",
-					"fotoIngrediente": "https://www.webconsultas.com/sites/default/files/styles/wch_image_schema/public/temas/agua.jpg"
-				},
-				{
-					"ingrediente": "Aceite de sésamo",
-					"fotoIngrediente": "https://www.gadis.es/saludable/wp-content/uploads/2019/12/aceite-de-sesamo-beneficios.jpg"
-				},
-				{
 					"ingrediente": "Salsa de yogur",
 					"fotoIngrediente": "https://www.dietfarma.com/sites/default/files/salsa_de_yogur_2.jpg"
 				}
@@ -1658,32 +1650,8 @@
 					"fotoIngrediente": "https://www.herbolario-elbuho.com/wp-content/uploads/2021/05/HEURA-BOCADOS-SABOR-MEDITERRANEO-160G-min.jpg"
 				},
 				{
-					"ingrediente": "1/2 taza de cerveza",
-					"fotoIngrediente": "https://us.123rf.com/450wm/stevanovicigor/stevanovicigor1212/stevanovicigor121200102/16916635-media-taza-llena-de-cerveza-fr%C3%ADa-una-nueva-luz.jpg?ver=6"
-				},
-				{
-					"ingrediente": "1/2 cabeza de ajo",
-					"fotoIngrediente": "https://img.freepik.com/fotos-premium/media-cabeza-ajo-tres-dientes-sueltos-colocados-sobre-superficie-azul_226758-718.jpg"
-				},
-				{
-					"ingrediente": "2 cebollas",
-					"fotoIngrediente": "https://t1.uc.ltmcdn.com/es/posts/2/5/5/composicion_nutricional_de_la_cebolla_morada_46552_1_600.jpg"
-				},
-				{
-					"ingrediente": "1 tomate grande",
-					"fotoIngrediente": "https://agriculturers.com/wp-content/uploads/2015/02/PAY-The-Gigantoma.jpg"
-				},
-				{
 					"ingrediente": "1 pimiento rojo",
 					"fotoIngrediente": "https://cuantas-calorias.org/wp-content/uploads/2017/01/pimiento-rojo-1.jpg"
-				},
-				{
-					"ingrediente": "2 zanahoria",
-					"fotoIngrediente": "http://tododefrutasyverduras.weebly.com/uploads/5/5/6/9/55692091/6278362_orig.png"
-				},
-				{
-					"ingrediente": "3 o 4 patatas pre-cocidas",
-					"fotoIngrediente": "https://www.cocinavital.mx/wp-content/uploads/2017/03/truco-cocer-papas-microondas-1.jpg"
 				},
 				{
 					"ingrediente": "Aceite de oliva",
@@ -1692,10 +1660,6 @@
 				{
 					"ingrediente": "Limón",
 					"fotoIngrediente": "https://www.prensalibre.com/wp-content/uploads/2018/12/37e6b304-8849-4039-bb86-09eb430f3e67.jpg?quality=52&w=619&h=464&crop=1"
-				},
-				{
-					"ingrediente": "Sal",
-					"fotoIngrediente": "https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/IMG_9776a.jpg?v=1585095921"
 				},
 				{
 					"ingrediente": "Perejil",
@@ -1712,10 +1676,6 @@
 				{
 					"ingrediente": "Pimentón dulce",
 					"fotoIngrediente": "https://jetextramar.com/wp-content/uploads/2022/01/entrada-piment%C3%B3n-dulce.jpg"
-				},
-				{
-					"ingrediente": "Romero",
-					"fotoIngrediente": "https://t2.ev.ltmcdn.com/es/posts/3/9/2/propiedades_del_romero_para_que_sirve_y_como_prepararlo_3293_orig.jpg"
 				}
 			]
 		},
@@ -1776,24 +1736,8 @@
 					"fotoIngrediente": "https://t2.uc.ltmcdn.com/es/posts/7/2/1/tofu_que_es_propiedades_y_recetas_52127_600.jpg"
 				},
 				{
-					"ingrediente": "2 cditas. pequeñas de harina de garbanzo",
-					"fotoIngrediente": "https://www.healthifyme.com/blog/wp-content/uploads/2022/08/shutterstock_1646006743-1.jpg"
-				},
-				{
 					"ingrediente": "Panko para rebozar",
 					"fotoIngrediente": "https://1.bp.blogspot.com/-8AgYr4pBIks/XuNareKMMHI/AAAAAAAArj4/LvNdiQ5CVF4V4AQopy3DB0TCMFpCOeiSwCLcBGAsYHQ/s900/DSC_0145.JPG"
-				},
-				{
-					"ingrediente": "Harina de trigo",
-					"fotoIngrediente": "https://www.nutricienta.com/imagenes/alimentos/alimento-nutricienta-harina-de-trigo.jpg"
-				},
-				{
-					"ingrediente": "Salsa de soja",
-					"fotoIngrediente": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/ingredientes/ingrediente-salsa-soja.jpg"
-				},
-				{
-					"ingrediente": "1/3 taza de agua",
-					"fotoIngrediente": "https://foto.askix.com/upload/f/3d/f3d8da024efac5662e26f4121d1c0947.jpg"
 				},
 				{
 					"ingrediente": "Curry en polvo",
