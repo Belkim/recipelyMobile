@@ -1,218 +1,815 @@
-"Bebidas": [
+"Croquetas": [
 		{
-			"titulo": "COCKTAIL DE KOMBUCHA Y FRUTA (KOMTAIL)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/coctail-casero-saludable-kombucha-vegano-recetas-bebidas-fiestas.jpg",
-			"descripcion": "Últimamente me he aficionado bastante a la Kombucha, aunque reconozco que ha sido después de estar un tiempo probando marcas que, sinceramente, no me gustaron nada. El caso es que se habla mucho de los beneficios de la Kombucha a nivel digestivo, así que decidí volver a probarla y la verdad es que llevo dos o tres meses bebiéndola semanalmente, hasta anteayer que se me ocurrió ¿por qué no le damos una vuelta a esta bebida y creamos algo un poco más divertido? Además de que tengo la sección de bebidas bastante abandonada… Así que os traigo una receta rápida y fácil para hacer un Cocktail de Kombucha.",
-			"categoria": "Bebidas",
-			"duracion": "15min",
-			"dificultad": "Fácil",
-			"preparacion": "Comenzaremos cortando la piña por la mitad, cortamos con un cuchillo el margen interior de la piña dejando 1 cm de margen. Después, cortamos en cubos el interior y lo retiramos con una cuchara. Llenamos con la Kombucha y colocamos los arándanos congelados, los cubos de piña que hemos retirado del interior, unos cubos de hielo pequeños y una rodaja de naranja.Por último, añadimos una rodajita de mango y para decorar: chía blanca (opcional), coco rallado y una pajita reutilizable, yo usé una de bambú.",
+			"titulo": "Croquetas Veganas de Champiñones y Berenjena",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/11/croquetas_veganas_caseras_champinones_berenjena_vegetariana8.jpg",
+			"descripcion": "Hoy les traigo la receta de las croquetas veganas de champiñones y berenjena. Estas croquetas las preparé el sábado para aprovechar unas verduras que tenía oxidándose. La verdad es que no tenía pensado traerla como receta, pero ya que me puse pensé que podía ser buena idea enseñaros que en realidad, unas croquetas sirven perfectamente para aprovechar todas las verduras que quedan en el fondo de la nevera. Aunque las preparé el sábado, decidí dejar la masa reposando todo el día y la noche para que el domingo fuera más fácil hacerlas. Yo soy bastante mala haciendo croquetas, sinceramente. He hecho muy pocas veces en mi vida. Por eso en la receta veréis que os recomiendo dejar reposar la masa toda la noche, y aunque no es imprescindible, ayuda mucho. Mi madre siempre las hacía así. Si vais con prisa, os recomiendo que al menos respetéis la media hora de reposo en el congelador cuando la croqueta ya está hecha. Merece la pena, facilita mucho a la hora de freír.",
+			"categoria": "Croquetas",
+			"duracion": "25min",
+			"dificultad": "Medio",
+			"preparacion": "1. Picamos finamente la cebolla, la berenjena y los champiñones. 2. Engrasamos una olla con un chorrito de aceite de oliva, calentamos y salteamos la cebolla. Cuando la cebolla esté ligeramente dorada, añadimos la berenjena y los champiñones. 3. Dejamos saltear por unos minutos hasta dorar, y añadimos una pizca de sal. Yo elegí una sal de setas y ajo. 4. Cuando los vegetales estén dorados, añadimos una taza de leche de soja y removemos. 5. Seguidamente añadimos dos cucharadas soperas de harina (de trigo, espelta...) y mantenemos a fuego medio, sin dejar de remover, hasta que la crema espese. 6. Cuando espese, apagamos fuego y volcamos la masa sobre una bandeja plana y dejamos templar. 7. Con la masa ya templada, la tapamos con un trapo y la metemos en la nevera. Yo prefiero dejarla una noche de reposo, pero si no, podéis dejarla al menos 2 horitas para que espese. Si no, os será más difícil darle la forma. Cuando ya haya pasado el tiempo de reposo, recuperamos la masa y la dejamos recuperar temperatura mientras preparamos un plato con abundante pan rallado al que le añadiremos una pizca de ajo, sal y perejil. 8. Mezclamos el pan rallado. 9. Cogemos dos cucharadas soperas y, con una de ellas, cogemos una porción de masa de tamaño moderado. Después, la vamos pasando de una cuchara a otra, presionando la masa, hasta que consigamos darle una forma cilíndrica y algo más apretada. 10. La volcamos encima del pan rallado y la rebozamos. 11. Seguidamente, la cogemos con las manos y la presionamos ligeramente para darle esa forma cilíndrica. No te preocupes si al principio te cuesta darle bien la forma, es normal. 12. Recomendado: Cuando ya estén hechas, las colocamos sobre un plato limpio y las introducimos en el congelador por 20 o 30 minutos. Así la croqueta cogerá cuerpo y fuerza y no se deshará en la sartén. La forma queda perfecta hasta para los más pricipiantes. Las retiramos y justo después las freímos, sin dejarlas reposar. 13. Finalmente, ponemos aceite de girasol en la base de una sartén pequeña. Yo solo pongo 1/2 dedo de alto de aceite, porque no es necesario más. 14. Encendemos el fuego a potencia media y dejamos calentar el aceite. Cuando lo notemos caliente, colocamos las croquetas en el aceite y las doramos por debajo. Se dorarán muy rápido, así que les damos la vuelta en seguida para dorarlas por todos los costados. 15. Aunque no deberían haber absorbido mucho aceite (la idea de tenerlas poco tiempo en la sartén es esa) las servimos dejándolas reposar unos segundos para que expulsen el aceite, si lo hubiera. 16. ¡Y listo! Recuerda servirlas calientes.",
 			"ingredientes": [
-				{ "ingrediente": "1/2 piña", "fotoIngrediente": "" },
-				{ "ingrediente": "1 kombucha ", "fotoIngrediente": "" },
 				{
-					"ingrediente": "1 puñado de arándanos congelados",
-					"fotoIngrediente": ""
+					"ingrediente": "4 puñados de champiñones (unos 125 gramos)",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
 				},
-				{ "ingrediente": "Hielo", "fotoIngrediente": "" },
-				{ "ingrediente": "1 trocito de mango", "fotoIngrediente": "" },
-				{ "ingrediente": "Coco rallado", "fotoIngrediente": "" },
-				{ "ingrediente": "1 rodaja de naranja", "fotoIngrediente": "" },
-				{ "ingrediente": "Chía blanca", "fotoIngrediente": "" }
+				{
+					"ingrediente": "1/2 cebolla",
+					"fotoIngrediente": "https://comisariatopopular.com/wp-content/uploads/2020/03/cebolla-roja.png"
+				},
+				{
+					"ingrediente": "1/3 de berenjena",
+					"fotoIngrediente": "https://www.objetivobienestar.com/uploads/s1/98/68/28/10-recetas-con-berenjena.jpeg"
+				},
+				{
+					"ingrediente": "1 taza de leche de soja sin azúcar (o una leche vegetal no dulce)",
+					"fotoIngrediente": "https://www.hazteveg.com/img/recipes/full/201808/R20-13382.jpg"
+				},
+				{
+					"ingrediente": "2 cdas. soperas de harina (trigo, espelta...)",
+					"fotoIngrediente": "https://dam.cocinafacil.com.mx/wp-content/uploads/2021/09/harinas-refinadas.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado (puedes rebozar con harina sin gluten)",
+					"fotoIngrediente": "https://okdiario.com/img/2018/10/11/pan-rallado.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Perejil en polvo",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/71PDl2wM0HL._SX679_.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/09/17/5e99839c080be.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de Oliva",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/06/29/5e9980e44b547.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de Girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				}
 			]
 		},
 		{
-			"titulo": "MILKSHAKE VEGANO DE CHOCOLATE Y CEREZAS",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2017/07/milkshake-chocolate-cereza-vegano-1.jpg",
-			"descripcion": "Os prometo que la semana que viene os traigo una receta salada. ¡Buenos días a todos! No sé qué me pasa estas semanas pero acabo de darme cuenta de que últimamente sólo he subido recetas dulces, pero ya tengo pensada la receta de el próximo sábado y os va a encantar. Y sí. Es salada.",
-			"categoria": "Bebidas",
-			"duracion": "135min",
+			"titulo": "CROQUETAS DE GARBANZO AL CURRY CON SALSA DE QUESO Y KÉFIR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2022/02/croquetas-garbanzos-veganas-salsa-queso-kefir.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy os traigo una receta fácil y deliciosa para implementar de una forma diferente las legumbres en tu alimentación: estas croquetas de garbanzo con una salsa de queso vegano y kéfir de anarcado. Deliciosa.",
+			"categoria": "Croquetas",
+			"duracion": "45min",
 			"dificultad": "Media",
-			"preparacion": "El primer paso será congelar las 4 bananas y la 1/2 taza de cerezas, en trozos, como mínimo durante 2 horas. Mientras tanto, vamos a fundir el chocolate para crear el fondo y los laterales con chocolate helado. Para ello,cogemos las 4 onzas de chocolate y, junto con un chorrito muy pequeño de leche vegetal, lo metemos en una olla y lo mantenemos a fuego bajo, removiendo constantemente, hasta que se funda por completo.Cuando ya esté fundido, apagamos el fuego y con la ayuda de una cuchara impregnamos todo el fondo y los laterales más bajos de nuestro vaso con el chocolate. Además, de manera opcional, podemos dejar escurrir un poco de chocolate en la boca del vaso, tal y como os muestro en la foto de arriba. Luego, lo guardamos en la nevera. Cuando ya tengamos las frutas congeladas, repartimos las Bananas en dos partes iguales. Seguidamente, cogemos una de las mitades y la volcamos sobre un recipiente para triturar. A este recipiente le añadimos las 3 cucharadas soperas de cacao, una pizca de canela (opcional), y 1/3 de taza de leche vegetal.Con la batidora de mano, trituramos todo hasta que quede lo más homogéneo posible. Luego, lo volcamos en el vaso y lo reservamos nuevamente en la nevera.Ahora vamos a preparar la parte de cereza siguiendo el mismo procedimiento: volcamos el resto de la banana en un recipiente para triturar y lo mezclamos con las cerezas y 1/3 de taza de leche vegetal. Si fuera necesario, añadimos algún edulcorante. Tituramos todo hasta que quede lo más homogéneo posible. Retiramos nuestro milkshake vegano de chocolate de la nevera y volcamos la capa de cereza encima. Para terminar, por encima, añadimos los toppings que más nos gusten: virutas de chocolate, trozos de almendras... ¡Y listo! Es importante servir el Milkshake bien frío.",
+			"preparacion": "En una sartén salteamos los ajos, la cebolla y las setas con un chorrito de aceite de oliva. Todo picado finamente. Cuando esté listo, lo volcamos en un bol y añadimos los garbanzos cocidos con generoso curry (la cantidad de curry puede variar dependiendo de la intensidad y calidad de la especia). No tengas miedo de probar la mezcla si no sabes cuánto añadir. Seguimos añadiendo un toque de pimienta negra, ajo en polvo y sal al gusto. Añadimos otro chorrito de aceite de oliva a la masa y con un tenedor machacamos bien todo, hasta que quede una pasta densa.Por último, freímos o salteamos las croquetas en una sartén con aceite. ¡Y listo! Sirve las croquetas con la salsa de queso fundida.",
 			"ingredientes": [
 				{
-					"ingrediente": "4 Bananas maduras (cuanto más maduras están, más dulces son)",
-					"fotoIngrediente": ""
+					"ingrediente": "400gr garbanzos cocidos",
+					"fotoIngrediente": "https://a2.soysuper.com/4832c49acb32b274273722865f82ecaa.1500.0.0.0.wmark.0b50319d.jpg"
 				},
 				{
-					"ingrediente": "3 cucharadas soperas de Cacao (os recomiendo que sea un cacao dulce, uno que sea soluble, de lo contrario puede amargar)",
-					"fotoIngrediente": ""
-				},
-				{ "ingrediente": "1/2 taza de Cerezas", "fotoIngrediente": "" },
-				{
-					"ingrediente": "4 onzas de Chocolate (sin leche)",
-					"fotoIngrediente": ""
+					"ingrediente": "Cebolla 2",
+					"fotoIngrediente": "https://www.fructusterrum.com/wp-content/uploads/2020/07/cebolla-roja-1.jpg"
 				},
 				{
-					"ingrediente": "1 taza de Leche Vegetal (Yo usé de Almendras)",
-					"fotoIngrediente": ""
-				}
-			]
-		},
-		{
-			"titulo": "BATIDO DE ESPINACAS Y ZANAHORIA (UNA PIEL SALUDABLE)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2016/05/batido_detox_verde_recetavegana2.jpg",
-			"descripcion": "¡Muy buenos días a tod@s otro sábado más!.Este sábado estoy muy contenta de traeros un batido súper nutritivo y PERFECTO PARA EL VERANO :-) Creo que hacía más de un año que no subía un batido a la página, y ya tocaba. Ahora que llega el verano a España a mi me apetecen cosas fresquitas, saludables, naturales y ligeras, aunque muy nutritivas.",
-			"categoria": "Bebidas",
-			"duracion": "15min",
-			"dificultad": "Fácil",
-			"preparacion": " El procedimiento es tan simple como lavar bien los vegetales y batirlos. Si añadimos el topping, simplemente lo espolvoreamos por encima. ¡Y ya está! Si esperabais más pasos, siento decepcionaros. Siguiendo los consejos de Jolly Yoli, os recomiendo que peléis la manzana si esta no es orgánica, para evitar pesticidas. Yo batí lo verde por un lado y las zanahorias por otro (una taza de leche vegetal para cada cosa), porque quería que los colores se mezclaran de diferente manera, ¡pero eso es simple decoración!",
-			"ingredientes": [
-				{ "ingrediente": "Un bol de espinacas", "fotoIngrediente": "" },
-				{
-					"ingrediente": "Dos tazas de leche vegetal (yo usé leche de avena sin,,azúcar)",
-					"fotoIngrediente": ""
-				},
-				{ "ingrediente": "3/4 de bol de canónigos", "fotoIngrediente": "" },
-				{ "ingrediente": "Tres zanahorias grandes", "fotoIngrediente": "" },
-				{
-					"ingrediente": "Una o dos manzanas dulces (depende de lo dulce que lo quieras)",
-					"fotoIngrediente": ""
-				}
-			]
-		},
-		{
-			"titulo": "BATIDO DE FRESAS Y YOGURT DE SOJA (VEGANO)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2013/05/juice-114628_640.jpg",
-			"descripcion": "¡Bienvenidos al verano y bienvenidos al calor! Pocas cosas me apetecen más cuando llega el calor la fruta en cantidades enormes, batidos fresquitos, yogures helados…  Por eso hoy os traigo una receta bastante recurrente para mi en estos días: un batido de fresas y yogurt de soja servido en frío ¡muy frío!",
-			"categoria": "Bebidas",
-			"duracion": "5min",
-			"dificultad": "Fácil",
-			"preparacion": "Lavamos y cortamos las frutas y las metemos en un recipiente para triturar, junto a la leche vegetal y al yogur. Lo trituramos hasta dejar una crema homogénea. Lo colocamos en un recipiente y ya lo podemos servir. ¡Disfrútalo fresquito!",
-			"ingredientes": [
-				{ "ingrediente": "1 puñado de Fresas", "fotoIngrediente": "" },
-				{ "ingrediente": "1/2 puñado de Fambuesas", "fotoIngrediente": "" },
-				{ "ingrediente": "1 Melocotón bien maduro", "fotoIngrediente": "" },
-				{
-					"ingrediente": "1 o 2 yogures vegetales (yo usé yogurt de soja)",
-					"fotoIngrediente": ""
-				},
-				{ "ingrediente": "1 vaso de leche vegetal fría", "fotoIngrediente": "" }
-			]
-		}
-	],
-	"Postres": [
-		{
-			"titulo": "Pancakes de Calabaza y Sirope",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/pancakes-calabaza-veganos-faciles-receta-vegetariana-sin-huevo2.jpg",
-			"descripcion": "Pues estas tortitas son una pasada. La masa queda esponjosa y súper sabrosa, y no llevan huevo. La esponjosidad se la da la levadura, y el sabor una mezcla de calabaza cocida y canela, que acaba teniendo un regustito dulzón que, en combinación con el sirope de ágave, es una fantasía. Hacer tortitas caseras no es nada difícil, pero sí os recomiendo que uséis una sartén antiadherente y tengáis el aceite de oliva a mano. Se puede hacer con prácticamente cualquier sartén, pero si es anti-adherente te puedes ahorrar muchos problemas. A mi me salen rápido y sin problema desde que uso sartenes buenas. Con las que tenía antes que me pegaban, se rompían, era imposible darles la vuelta… Parece una tontería, ¡pero no lo es! Podéis ver que tengo una sección enorme de recetas de pancakes / tortitas veganas, así que os recomiendo que le echéis un vistazo a todas las diferentes recetas de pancakes para que escojáis la que más os guste.",
-			"categoria": "Postres",
-			"duracion": "15min",
-			"dificultad": "Fácil",
-			"preparacion": "1. En primer lugar, pelamos y cortamos la calabaza en cubos pequeños. Ponemos a cocer los trozos en abundante agua. 2. Por otra parte, en un bol, mezclamos todos los ingredientes secos: la harina, la levadura, y la canela. 3. Cuando la calabaza ya esté cocida (se podrá atravesar fácilmente con un tenedor), la añadimos al bol (reservando una pequeña porción para decoración superior) junto con el sirope de ágave y la taza de leche vegetal. 4. Con una batidora de mano, trituramos la masa hasta conseguir una crema homogénea y fluida. 5. Engrasamos con aceite de oliva una sartén pequeña y la ponemos a calentar a fuego medio-alto. 6. Cuando esté caliente, bajamos el fuego a potencia media-baja y añadimos una porción generosa de masa. 7. Esperamos a que la masa se dore por abajo (lo notaréis porque  empezará a hacer burbujitas) volteamos y doramos por el otro costado. 8. Repetimos el proceso hasta terminar con toda la masa.",
-			"ingredientes": [
-				{
-					"ingrediente": "250 gramos de calabaza",
-					"fotoIngrediente": "https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/09/16/calabaza.jpeg"
+					"ingrediente": "Ajos 3",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_1_1/azblob/ajos.jpg.webp?itok=1AItGwmc"
 				},
 				{
-					"ingrediente": "1 taza de harina",
-					"fotoIngrediente": "https://i.blogs.es/95d4c3/harina-trigo-tipos/1366_2000.jpg"
+					"ingrediente": "3 champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
 				},
 				{
-					"ingrediente": "1 taza de leche vegetal",
-					"fotoIngrediente": "https://babycocina.com/wp-content/uploads/2021/01/Leches-vegetales-veganas.jpeg"
+					"ingrediente": "300ml de yogurt",
+					"fotoIngrediente": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/articulos/recomendaciones-yogures.jpg"
 				},
 				{
-					"ingrediente": "½ cucharadita de levadura",
-					"fotoIngrediente": "https://www.levapan.com.ec/wp-content/uploads/2018/01/Levadura-activa-seca-La-Reposterita.jpg"
+					"ingrediente": "Queso vegano",
+					"fotoIngrediente": "https://t2.rg.ltmcdn.com/es/posts/0/5/5/queso_vegano_de_papa_y_zanahoria_66550_orig.jpg"
 				},
 				{
-					"ingrediente": "1 cucharadita de canela en polvo",
-					"fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/images/2017/10/canelapolvo.jpg"
+					"ingrediente": "2 cdas soperas de Harina de garbanzo",
+					"fotoIngrediente": "https://blog.pepebar.com/wp-content/uploads/2018/03/harina-de-garbanzo.png"
 				},
 				{
-					"ingrediente": "2 cucharadas soperas de sirope de ágave + extra.",
-					"fotoIngrediente": "https://www.consumer.es/app/uploads/2019/07/img_sirope-de-agave-hd.jpg"
+					"ingrediente": "1/2 taza agua Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
 				},
 				{
 					"ingrediente": "Aceite de oliva",
-					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/06/29/5e9980e44b547.jpeg"
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2020/03/05/aceite-oliva-beneficios-1-kYhB--620x349@abc.jpg"
+				},
+				{
+					"ingrediente": "Curry en polvo",
+					"fotoIngrediente": "https://www.recetasderechupete.com/wp-content/uploads/2021/04/Curry-en-polvo-6.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/718TzI9DBIL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
 				}
 			]
 		},
 		{
-			"titulo": "‘GALLETAS DANESAS DE MANTEQUILLA’ VEGANAS",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/galletas-danesas-mantequilla-receta-vegana-dulce.jpg",
-			"descripcion": "¡Hola a tod@s! Hoy os traigo una receta fruto de la casualidad, la improvisación y la falta de ingredientes en mi casa… Si me seguís en Instagram lo sabréis. Que por casualidad me ha devuelto una de mis galletas favoritas de mi infancia: las galletas danesas de mantequilla (pero ahora veganas).",
-			"categoria": "Postres",
+			"titulo": "CROQUETAS VEGANAS DE SEITÁN CON CHAMPIÑONES",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2019/05/croquetas_vegetarianas_veganas_seitan_champi%C3%B1ones.jpg",
+			"descripcion": "¡Hola, hola! ¿Como estáis?  ¡Hoy os traigo las croquetas veganas de seitán que ayer os enseñé por Instastories! Estas croquetas las preparé con un Seitán casero que preparó mi compañera de piso. Ella lo hizo siguiendo la receta de mi libro, pero también podéis usar un Seitán comprado (carrefour, tiendas ecológicas y algún supermercado más) o siguiendo esta receta que os dejo por aquí.",
+			"categoria": "Croquetas",
+			"duracion": "105min",
+			"dificultad": "Difícil",
+			"preparacion": "",
+			"ingredientes": [
+				{
+					"ingrediente": "1 lámina gruesa de seitán",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/2022-05/seita%CC%81n-que-es%C2%A9iStock.jpg"
+				},
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "1/2 cebolla",
+					"fotoIngrediente": "https://www.salud.mapfre.es/media/2016/07/cebolla-fibra-antioxidantes-3-1280x720.jpg"
+				},
+				{
+					"ingrediente": "2 puñados de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
+				},
+				{
+					"ingrediente": "3 cucharadas soperas de harina trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Una pizca de sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Aceite para girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "BOWL DE CROQUETAS DE GARBANZO Y ENSALADA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/03/croquetas-garbanzo-recetas-veganas-faciles-veganismo5-2.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy os escribo desde una situación de lo más surrealista y después de llevar ya 10 días de cuarentena debido a todo lo que está ocurriendo en España. En Instagram estoy intentando aportar contenido variado y algún que otro directo para que nos entretengamos junt@s, así que os espero por allí. También hemos estado organizando el ‘Patio de vecinas Fest’, un festival de charlas, clases y talleres en streaming para amenizar la cuarentena lo máximo posible.",
+			"categoria": "Croquetas",
 			"duracion": "35min",
 			"dificultad": "Media",
-			"preparacion": "Empezaremos fundiendo las 2 cditas pequeñas de margarina vegetal con 2 cdas soperas de aceite de coco en el microondas o una olla pequeña. Seguidamente, añadimos 1 cdita pequeña y 1/2 de azúcar glass. Mezclamos muy muy bien. Ahora, añadimos la leche condensada de coco, que la habremos tenido reposando en nevera un rato. Añadimos también 1 cdita pequeña de vainilla líquida. Mezclamos bien con la ayuda de unas varillas hasta que quede todo bien integrado.Continuamos añadiendo la 1/2 cdita de levadura en polvo y 3/4 taza de maicena, poco a poco, mientras vamos removiendo con unas varillas. Cuando las varillas ya no puedan amasar, pasamos a un tenedor o con las manos. Debe quedar una masa suave y moldeable. Ahora, cogemos pequeñas porciones y le damos forma de bola. Repetimos el proceso con toda la masa y la colocamos en una bandeja grande, con papel de horno puesto. Mientras, pre-calentamos el horno a 180 grados, por abajo, durante 10 minutos. Chafamos ligeramente las galletas con un tenedor o la palma de la mano, y las colocamos bien separadas entre ellas (duplicarán su tamaño, así que dale espacio para que no se peguen entre ellas). Introducimos las galletas a altura media en el horno, y las horneamos durante 10-15 minutos. Pasado ese rato, activamos el modo horneado por abajo y encima, a 180 grados también. Horneamos hasta dorar ambos costados, que tardara unos 8-10 min más, entre 20 y 25 minutos en total. Intenta estar atento/a pero abriendo la puerta del horno lo mínimo posible. Déjalas templar antes de comerlas ¡y listo! Puedes servirlas con un poquito de azúcar glass decorando por encima.",
+			"preparacion": "En una batidora, ponemos dos ajos partidos por la mitad, un chorro generoso de aceite de oliva, un pellizco generoso de semillas de sésamo (esto es opcional) y los garbanzos cocidos. A continuación, especiamos con 1 cdita. de comino, 1 cdita. de pimentón dulce, 1/2 de pimentón picante y ajo en polvo al gusto. Batimos con la batidora hasta conseguir una pasta densa, cremosa y homogénea. Añadimos otro chorrito de aceite de oliva y volvemos a triturar. En un plato hondo a parte, llenamos la mitad de su capacidad con pan rallado, la otra mitad con harina y especiamos con pimentón dulce. Mezclamos.Y listo!",
 			"ingredientes": [
-				{ "ingrediente": "3/4 taza de maicena", "fotoIngrediente": "" },
 				{
-					"ingrediente": "2 cdas pequeñas de margarina vegetal ",
-					"fotoIngrediente": ""
+					"ingrediente": "400 gr de garbanzos cocidos",
+					"fotoIngrediente": "https://www.comedera.com/wp-content/uploads/2022/08/garbanzos.jpg"
 				},
 				{
-					"ingrediente": "2 cdas soperas de aceite de coco",
-					"fotoIngrediente": ""
+					"ingrediente": "2 dientes de ajo",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/01/dientes-ajo-768x480.jpg"
 				},
 				{
-					"ingrediente": "125 ml de leche de coco condensada reposada en nevera",
-					"fotoIngrediente": ""
+					"ingrediente": "Pimentón dulce",
+					"fotoIngrediente": "https://tiaecuador.vtexassets.com/arquivos/ids/192960/252435000.jpg?v=637844441515700000"
 				},
 				{
-					"ingrediente": "1 cdita pequeña de vainilla líquida",
-					"fotoIngrediente": ""
+					"ingrediente": "Pimentón picante",
+					"fotoIngrediente": "https://lahuertadelavilla.es/524-thickbox_default/pimenton-picante-especias-carmencita.jpg"
 				},
-				{ "ingrediente": "1 cdita de azúcar glass", "fotoIngrediente": "" },
 				{
-					"ingrediente": "3/4 cdita pequeña de levadura en polvo",
-					"fotoIngrediente": ""
+					"ingrediente": "Comino en polvo",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/71FG87o2nWL._SX425_.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.ileshop.com.ec/wp-content/uploads/2018/05/1330-056.png"
+				},
+				{
+					"ingrediente": "Harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Aceite de girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
 				}
 			]
 		},
 		{
-			"titulo": "COCO CONDENSADA (SIN HUEVO)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2021/02/bizcocho-sin-huevo-vegano-facil-fresas-receta-vainilla.jpg",
-			"descripcion": "Hoy os traigo un bizcocho sin huevo, súper fácil, hecho con trocitos de fresa. Este bizcocho tiene un sabor suave a vainilla y azahar, porque está pensado para que lleve un súper topping encima. En este caso, además de trocitos de fresa, le puse una maravillosa leche de coco condensada de la marca Nature’s Charm (recordad que tengo descuento con el código ‘SOYVEGANAJENNY‘). Una gozada dulce, aunque de consumo puntual, obvio.",
-			"categoria": "Postres",
-			"duracion": "60min",
+			"titulo": "CROQUETAS VEGANAS DE SETAS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2015/12/croquetas_veganas_setas1000_2.jpg",
+			"descripcion": "¿Habéis visto que pedazo de croquetas veganas? La semana pasada sé que no estuve aquí y lo siento, l@s que me seguís por Facebook o Instagram sabéis que fue por un muy buen motivo: y es que después de 2000 kilómetros de viaje, tenemos nuevo miembro en la familia. Se llama Bony y en Instagram ya podéis ver su carita.",
+			"categoria": "Croquetas",
+			"duracion": "52min",
 			"dificultad": "Difícil",
-			"preparacion": "Por un lado, mezclamos los 3/4 de taza de leche de soja con 1/4 de margarina vegetal fundida. Añadimos entre 2 y 4 cdas soperas de vainilla, 2 cditas pequeñas de azahar, entre 2 y 4 cdas soperas de sirope de ágave. Mezclamos bien con un tenedor o unas varillas, y reservamos. Por otro lado, en un bol grande ponemos la taza y media de harina para bizcochos con un toque generoso de canela. Añadimos la parte líquida a la harina y mezclamos bien, con un tenedor o las varillas. Hasta que todo se integre bien. No batas demasiado tiempo, solo lo justo para que quede una masa homogénea y sin grumos. Mientras, ponemos a pre-calentar el horno a 180 grados, encendido por arriba y por abajo sin ventilador. Ahora, añadimos 6 fresas cortadas en taquitos pequeños y mezclamos.Engrasamos bien el molde con la margarina, tanto en su base como por los laterales. Esto es importante. Metemos el molde en el horno, a media altura. Lo dejamos a 180º por unos 35 minutos, aunque el tiempo puede variar en función de si el horno es muy viejo o muy nuevo. Intenta no abrir el horno antes de los 25 minutos para evitar que el bizcocho baje. Nota: Puedes hacer la prueba del palillo, cuando ya veas que está dorado por arriba, clavando un palito hasta el final y viendo si sale seco. Si sale seco, suele ser indicador de que ya está bien horneado. Tienes que saber que la prueba del palito puede hacer que tu bizcocho baje un poquito. Cuando ya esté bien horneado, retiramos del horno y lo dejamos templar durante unos 10 minutos. No desmoldes el bizcocho muy caliente porque se podría romper. Una vez desmoldado, decora con el chocolate negro fundido o la leche de coco condensada y decora con fresas enteras y un poquito de azúcar glass. Nota: te recomiendo que lo emplates justo antes de servir, ya que el bizcocho se humedece cuando lo bañas en el chocolate o la leche condensada.",
+			"preparacion": "Lo primero que haremos será lavar y picar bien finitos los champiñones, los orejones y las cebollitas. Luego, cogeremos una sartén grande, luego veremos por qué. Vamos a engrasar la base de una sartén con un chorrito de aceite de oliva y sofreír todos los ingredientes. Vamos a especiarlo con un poquito de pimienta negra y herbamare o sal. Dejamos la sartén a fuego medio y removemos de vez en cuando para que no se pegue. Cuando ya esté doradito, lo retiramos del fuego y lo dejamos reposar en la sartén. Ahora toca hacer la bechamel para la masa: en una olla de tamaño medio mezclamos en frío dos tazas de leche de soja sin azúcar y las cuatro cucharadas soperas (rasas) de harina. Mezclamos bien (a mi me gusta hacerlo con unas varillas) y cuando ya esté sin grumos, encendemos el fuego medio-alto y lo llevamos a ebullición, removiendo continuamente. Ahora toca añadir una pizca de sal o herbamare, un chorro largo de aceite de oliva y una buena porción de nuez moscada en polvo. Cuando empiece a espesar, dejamos de remover por unos segundos. A los pocos segundos empezarán a crearse pompas de aire dentro de la bechamel, por entrar en ebullición. En ese momento volvemos a remover activamente hasta que esté bastante espesa, como si fuera una crema. En este instante ponemos a fuego medio-alto la sartén con el sofrito y volcamos ahí dentro toda la bechamel. Mezclamos muy muy bien, para que la bechamel se complemente con el sofrito, y cuando ya esté definitivamente espesa la crema, apagamos el fuego. Aún caliente, lo volcamos en una fuente planita y lo dejamos reposar hasta que entre en temperatura ambiente. Cuando ya no esté caliente, lo metemos en la nevera durante al menos 20 minutos. Esto nos ayudará a que la masa espese y sea más fácil manejarla. Cuanto más ratito la dejes, mejor. Ya habiendo retirado la masa de la nevera, intenta mantener la tentación de comértela a cucharadas. ¡Merece la pena esperar! De momento toca preparar un platito hondo con una montaña de pan rallado. Con la ayuda de dos cucharas soperas, vamos a ir cogiendo masa y haciendo forma cilíndrica de las croquetas. Luego, la soltamos sobre el pan rallado y le damos varias vueltas. Es importante darle vueltas sobre el pan rallado y apretarlas bien con tus manos mientras le das forma. Esto hará que no se hagan quebradizas y queden bien compactas. Repite este proceso con toda la masa, te saldrán unas 25 croquetas veganas de tamaño medio. Para cocinarlas, yo te recomiendo que las hagas a la sartén con poco aceite, utilizar  demasiado hará que sean más grasientas y menos sanas, y eso no es lo que queremos, porque si lo haces como yo te explico verás que no es necesario :-) : Pon una sartén pequeña a calentar con un chorro de aceite largo que engrase bien la base. No te pases, ¡no queremos una balsa de aceite! Sólo es para que no se peguen. Deja que el aceite caliente muy bien, pero sin que se queme. Luego, sueltalas en la sartén y dale vueltas rápidamente. Puedes agitar la sartén ligeramente para ayudar a que no se peguen. Deja que se doren por todos los costados y retíralas del calor. Verás que así quedan crujientitas por fuera y súper cremosas por dentro.",
 			"ingredientes": [
 				{
-					"ingrediente": "Taza y 1/2 de harina para bizcochos",
-					"fotoIngrediente": ""
+					"ingrediente": "150 gramos de champiñones",
+					"fotoIngrediente": "https://img-global.cpcdn.com/recipes/9538cd42ab3bbe35/1200x630cq70/photo.jpg"
 				},
 				{
-					"ingrediente": "1/4 de taza de margarina vegetal + extra para engrasar el molde",
-					"fotoIngrediente": ""
-				},
-				{ "ingrediente": "3/4 de taza de leche de soja", "fotoIngrediente": "" },
-				{
-					"ingrediente": "Entre 2 y 4 cdas soperas de sirope de ágave o tu edulcorante favorito",
-					"fotoIngrediente": ""
+					"ingrediente": "100 gramos de setas tipo orejones",
+					"fotoIngrediente": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/styles/open_graph_image/public/2021-12/setas%20de%20cardo.jpg?itok=EyZ3Kbyi"
 				},
 				{
-					"ingrediente": "Entre 2 y 4 cdas soperas de vainilla",
-					"fotoIngrediente": ""
+					"ingrediente": "9 cebollitas pequeñas",
+					"fotoIngrediente": "https://previews.123rf.com/images/gankat/gankat1704/gankat170400213/76104851-fondo-de-cebollas-peque%C3%B1as-listas-para-plantar-semillas-concepto-agr%C3%ADcolamente.jpg"
 				},
-				{ "ingrediente": "2 cditas pequeñas de azahar", "fotoIngrediente": "" },
-				{ "ingrediente": "Canela", "fotoIngrediente": "" },
-				{ "ingrediente": "Fresas", "fotoIngrediente": "" }
+				{
+					"ingrediente": "2 tazas de leche de soja sin azúcar",
+					"fotoIngrediente": "https://thesweetmolcajete.com/wp-content/uploads/2016/08/como-hacer-leche-de-soya-en-casa_1.jpg"
+				},
+				{
+					"ingrediente": "4 cucharadas rasas de harina de trigo",
+					"fotoIngrediente": "https://www.alimentosmadretierra.com/wp-content/uploads/2020/07/harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y perejil",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/41kyt15RF+L.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://static3.abc.es/media/bienestar/2022/01/22/pimienta-negra-k1FI--1024x512@abc.jpg"
+				},
+				{
+					"ingrediente": "Nuez moscada",
+					"fotoIngrediente": "https://m.media-amazon.com/images/I/811fMqITzlL._SL1500_.jpg"
+				},
+				{
+					"ingrediente": "Herbamare o sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/09/17/5e997c1a2a2e2.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
+			]
+		}
+	],
+	"Ensaladas": [
+		{
+			"titulo": "BOWL ENSALADA DE ARROZ NEGRO CON AJOACEITE (ALIOLI) VEGANO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/10/arroz-negro-ajoaceite-vegano-aguacate-setas-verduras.png",
+			"descripcion": "¡Hola a tod@s! Seguimos con las recetas de arroces. Después de poner el listón bastante alto con la Paella de verduras tradicional que nos marcamos la semana pasada, hoy vengo con un arroz negro con verduras y una versión rápida y vegana del delicioso ajoaceite o alioli.",
+			"categoria": "Ensaladas",
+			"duracion": "35min",
+			"dificultad": "Fácil",
+			"preparacion": "Empezaremos picando la cebolla y laminando 2 ajos. A continuación, lo salteamos en una sartén engrasada con un poquito de aceite de oliva. Cuando empiece a dorar, añadimos 1/3 parte de la mezcla de setas y los ajos tiernos picados en láminas. Lo dejamos a fuego medio-bajo, removiendo periódicamente, para que los vegetales se hagan bien. A continuación, con las setas bien doradas, añadimos el arroz negro. Lo salteamos por 5 minutos, removiendo periódicamente, y a continuación añadimos agua. Empezaremos añadiendo 300 ml de agua (el doble que de arroz), pero este arroz requiere mucha más agua para alcanzar su punto. Mientras tanto, podremos a cocer las coles de bruselas, unos 10-20 minutos. Hasta que estén tiernas. El tiempo puede variar en función de si son frescas o congeladas.Cuando los bocados ya estén listos, los colocamos en el bowl junto con el arroz, las coles de bruselas, los tomates cherry en mitades, un poquito de alioli vegano, un puñado de canónigos y 1 aguacate laminado.",
+			"ingredientes": [
+				{
+					"ingrediente": "150 gramos de arroz negro",
+					"fotoIngrediente": "https://okdiario.com/img/recetas/2017/02/09/arroz-salvaje-2.jpg"
+				},
+				{
+					"ingrediente": "Coles de bruselas",
+					"fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/11/coles-de-bruselas-salteadas-1.jpg"
+				},
+				{
+					"ingrediente": "1 cebolla",
+					"fotoIngrediente": "https://www.salud.mapfre.es/media/2016/07/cebolla-fibra-antioxidantes-3-1280x720.jpg"
+				},
+				{
+					"ingrediente": "3 ajos tiernos",
+					"fotoIngrediente": "https://i.blogs.es/a584fa/ajetes/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "200 gr de mezcla de: champiñones, portobello, shiitake y shimeji",
+					"fotoIngrediente": "https://antojandoando.com/wp-content/uploads/2015/11/portobello-feat-pq.jpg"
+				},
+				{
+					"ingrediente": "Tomates cherry",
+					"fotoIngrediente": "https://www.thespruceeats.com/thmb/31HUKUOn7s8v6aErtVaOEKj3rzY=/3567x2378/filters:no_upscale():max_bytes(150000):strip_icc()/oven-dried-cherry-tomatoes-recipe-1809680-step-01-1-32e6bed9e42e4eaaa9360acc96b91fe6.JPG"
+				},
+				{
+					"ingrediente": "Canónigos frescos",
+					"fotoIngrediente": "https://www.hogarmania.com/archivos/201803/6151-ensalada-de-canonigos-remolacha-y-queso-fresco-xl-1280x720x80xX.jpg"
+				},
+				{
+					"ingrediente": "Aguacate",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_16_9/azblob/semilla-aguacate.jpg.webp?itok=jgdsKqJU"
+				},
+				{
+					"ingrediente": "2 ajos",
+					"fotoIngrediente": "https://statics-cuidateplus.marca.com/cms/styles/ratio_1_1/azblob/ajos.jpg.webp?itok=1AItGwmc"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				}
 			]
 		},
 		{
-			"titulo": "GALLETAS DE AVENA Y CHOCOLATE SALUDABLES (TIPO DIGESTIVE)",
-			"foto": "https://recetasveganas.net/wp-content/uploads/2020/09/galletas-avena-caseras-chocolate-sin-huevo-vegano-dulce-recetas-saludables4.jpg",
-			"descripcion": "¡Muy buenas a tod@s! Hoy traigo una de esas que tanto os gustan: una receta saludable para principiantes. Las galletas de avena y chocolate son tan fáciles de preparar que fue una de las primeras cosas que empecé a cocinar en casa cuando no sabía ni cocer espaguetis.",
-			"categoria": "Postres",
-			"duracion": "80min",
-			"dificultad": "Difícil",
-			"preparacion": "Pelamos las dos bananas, las cortamos en rodajas y las machacamos con un tenedor hasta conseguir un puré lo más homogéneo posible. ñadimos 1/2 cdita de levadura en polvo, 3 cdas soperas de panela o tu edulcorante en grano.Continuamos añadiendo 1/2 cdita de canela en polvo, mezclamos bien y seguimos añadiendo 3 cdas soperas de aceite de oliva. Volvemos a mezclar hasta conseguir una pasta homogénea. Añadimos solo 1/2 taza de avena (reservamos la otra media) y mezclamos muy muy bien con la ayuda del tenedor.Ahora, una vez bien mezclado, añadimos la otra mitad de taza de avena en copos. Mezclamos muy bien. [Ahora vamos con el chocolate. Como yo las estoy preparando en temporada de frío, el chocolate tarda mucho en fundir, por lo que voy a empezar ya. Si lo estás preparando en un clima cálido, puedes esperar a hacer este paso a cuando acabes de hornear.]. Así que, mientras tanto, ponemos a fundir el chocolate al baño maría: metemos el chocolate en una taza y la taza en una olla que mantendremos a fuego medio-bajo, en una ebullición suave. Opcionalmente, si queremos suavizar el chocolate, añadimos 1 chorrito de leche vegetal y 1 cdita pequeña de aceite de coco (el leche de coco diluye el sabor intenso a cacao y el aceite de coco devolverá la solidez del chocolate cuando enfríe). Volvemos con las galletas mientras el chocolate funde. Añadimos 2 cdas soperas de harina de trigo (puede ser integral o de avena) y mezclamos.Añadimos otras 2 cucharadas soperas de harina, volvemos a mezclar y listo. En una bandeja para horno, colocamos una cucharada sopera de masa. Ahora, aplanamos la galleta y le damos una forma fina y redondeada. Repetimos este proceso hasta acabar con la masa. Las horneamos, con el fuego encendido por arriba y por abajo, el ventilador prendido, durante 20 minutos mínimo a 180 grados. El tiempo puede variar en función del horno. Pasados los 20 minutos, puedes abrir el horno y comprobar si están doradas ya por debajo. De ser así, puedes retirarlas o simplemente hornearlas 10-15 minutos más. Las dejamos templar. A estas alturas el chocolate debería estar ya fundido. Pasamos el chocolate a un bowl grande y sumergimos las galletas por la parte baja, las retiramos con cuidado y las mojamos hasta la mitad. Las volvemos a poner en el papel de horno y las introducimos en la nevera durante 15 minutos. Si estás en un clima frío, es posible que el chocolate cuaje a temperatura ambiente. Si estás en clima cálido, quizá debas dejarlo más tiempo en la nevera para solidificar bien el chocolate. ¡Y listas para comer!",
-			"ingredientes": []
+			"titulo": "ENSALADA DE PASTA Y RÚCULA CON LENTEJAS, TOFU, CHERRY Y PISTACHOS",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/01/recetas-vegetarianas-sin-carne-ensalada-pasta-lentejas-tofu1.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy traigo una receta vegana más bien poco otoñal, pero es que las Ensaladas de Pasta son un crush para mi. Ya la visteis el otro día en Instagram. En esta ocasión os traigo una que improvisé hace un par de días: Ensalada de pasta con rúcula, lentejas, tofu en taquitos y cherrys, además de unos pistachos y picatostes, para darle un contraste crujiente al plato.",
+			"categoria": "Ensaladas",
+			"duracion": "25min",
+			"dificultad": "Fácil",
+			"preparacion": "Cocemos la pasta en una olla con abundante agua, durante unos 8 minutos o hasta que la pasta este al dente. Cuando la pasta esté lista, la filtramos del agua y la pasamos por agua fría, para romper la cocción. Reservamos. Mientras tanto, cortamos el tofu en cubos y lo colocamos en la plancha. Lo bañamos generosamente con salsa de soja y lo vamos tostando por todos los costados. Mantenemos a fuego medio. Cuando esté bastante bastante tostado, añadimos los tomates cherry, para tostarlos por ambos lados también.Cuando esté listo, apagamos el fuego. La pasta, el tofu, los tomates, los pistachos, los picatostes y añadimos una pizca de aceite de oliva y orégano. Removemos.¡Y listo para comer!",
+			"ingredientes": [
+				{
+					"ingrediente": "200 gr de pasta para ensalada",
+					"fotoIngrediente": "https://images.aws.nestle.recipes/resized/e55a7c8673a7dc2e6e97a0c41d810944_ensalada_rusa_708_600.jpg"
+				},
+				{
+					"ingrediente": "100 gr de lentejas cocidas",
+					"fotoIngrediente": "https://gastronomiaycia.republica.com/wp-content/uploads/2014/06/lentejas_thermomix.jpg"
+				},
+				{
+					"ingrediente": "2 puñados de rúcula",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2013/05/rucula-500x334.jpg"
+				},
+				{
+					"ingrediente": "80 gr de tofu duro",
+					"fotoIngrediente": "https://www.muyjapones.com/wp-content/uploads/2020/04/Trozos-de-tofu.jpg"
+				},
+				{
+					"ingrediente": "Tomates Cherry",
+					"fotoIngrediente": "https://www.thespruceeats.com/thmb/31HUKUOn7s8v6aErtVaOEKj3rzY=/3567x2378/filters:no_upscale():max_bytes(150000):strip_icc()/oven-dried-cherry-tomatoes-recipe-1809680-step-01-1-32e6bed9e42e4eaaa9360acc96b91fe6.JPG"
+				},
+				{
+					"ingrediente": "Pistachos",
+					"fotoIngrediente": "https://www.seguroscatalanaoccidente.com/content/published/api/v1.1/assets/CONTFFE7C608435A4FAFABBC835C3F60B859/Large?cb=_cache_f9d9&channelToken=219555cd30b54b3bbf0d0d28addf8e10&format=webp"
+				},
+				{
+					"ingrediente": "Picatostes",
+					"fotoIngrediente": "https://cdn.elcocinerocasero.com/imagen/receta/1000/2017-03-22-10-40-49/picatostes-caseros.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.eluniverso.com/resizer/mhs2eTwyaxAUvwXazPV6x3SLV4w=/800x609/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/U6XVEUHK35FUNIJQYFBASUQKVU.jpg"
+				},
+				{
+					"ingrediente": "Orégano",
+					"fotoIngrediente": "https://images.hola.com/imagenes/cocina/noticiaslibros/20220216204656/oregano-recetas-propiedades/1-51-514/interior-oregano-adobe-a.jpg"
+				}
+			]
 		},
 		{
-			"titulo": "",
-			"foto": "",
-			"descripcion": "",
-			"categoria": "",
-			"duracion": "",
-			"dificultad": "",
-			"preparacion": "",
-			"ingredientes": []
+			"titulo": "ENSALADA DE CUSCÚS Y AGUACATE",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/08/ensalada-cuscus-recetas-verano-veganas-vegetarianas-saludables4.jpg",
+			"descripcion": "Hoy traigo la primera receta desde la nueva cocina del piso de Valencia. Os tengo que decir que durante las próximas semanas notaréis muchos cambios en el tipo de foto y en la regularidad de los posts porque necesito adaptarme al nuevo piso y poder montar mi escenario habitual para fotografiar los platos (y para eso necesito aún construir una mesa, jajaja). ¡Así que os pido una disculpa! Lo que sí puedo decir es que estoy muy contenta con la nueva cocina, porque además de tener ese estilo antiguo que tanto me gusta, es muy luminosa, y eso me facilita mucho el hecho de haceros las fotos del paso a paso, si queréis un día de estos os la enseño por stories.",
+			"categoria": "Ensaladas",
+			"duracion": "40min",
+			"dificultad": "Fácil",
+			"preparacion": "Picamos en cubos el calabacín y el pimiento, y lo salteamos en la sartén con un poquito de aceite de oliva. Esperamos a que se dore ligeramente y añadimos los champiñones laminados.Salteamos hasta que esté dorado y añadimos las pasas. Doramos por 2 minutos más y apagamos el fuego. Por otro lado, medimos 1/2 vaso de caldo vegetal y lo ponemos en una olla a hervir. A continuación, cuando esté en ebullición, apagamos el fuego y añadimos 1/2 vaso de cuscús.Dejamos que el cuscús absorba el caldo y reservamos. Añadimos las verduras a la olla, el tomate natural cortado en cubos, la lechuga en tiras y aliñamos con un chorro largo de limón y una pizca de sal y albahaca. Retiramos y dejamos templar.¡Y listo! Ya tenemos nuestra ensalada de cuscús lista.",
+			"ingredientes": [
+				{
+					"ingrediente": "1/2 vaso de cuscús",
+					"fotoIngrediente": "https://elrincondeafi.es/wp-content/uploads/2011/09/cuscus-4.jpg"
+				},
+				{
+					"ingrediente": "Lechuga",
+					"fotoIngrediente": "https://www.abcderecetas.com/wp-content/uploads/2020/07/lechuga-mantequilla.jpg"
+				},
+				{
+					"ingrediente": "1/2 vaso de caldo",
+					"fotoIngrediente": "https://i2.wp.com/davidguibertchef.com/wp-content/uploads/2021/02/Caldo-de-verduras-casero-facil-1-scaled.jpeg?fit=120%2C150&ssl=1"
+				},
+				{
+					"ingrediente": "1/2 pimiento rojo",
+					"fotoIngrediente": "https://cdn02.plentymarkets.com/xlzn8fmweulj/item/images/18872/full/701-594-01-6-0-03.jpg"
+				},
+				{
+					"ingrediente": "1/2 calabacín",
+					"fotoIngrediente": "https://thumbs.dreamstime.com/b/half-green-zucchini-white-background-isolated-38285502.jpg"
+				},
+				{
+					"ingrediente": "1 puñado de champiñones",
+					"fotoIngrediente": "https://thumbs.dreamstime.com/b/pu%C3%B1ado-de-champi%C3%B1ones-13228329.jpg"
+				},
+				{
+					"ingrediente": "1 tomate",
+					"fotoIngrediente": "https://imagenes.heraldo.es/files/image_654_v1/uploads/imagenes/2016/03/31/_1637871958157a68e1e3ez_df000045.jpg"
+				},
+				{
+					"ingrediente": "1 puñado de uvas pasas",
+					"fotoIngrediente": "https://cuidatusaludcondiane.com/wp-content/uploads/2013/01/pasas-de-uva-un-punado-de-frutos-secos-estilo-de-vida-saludable-con-textura_3297480.jpg"
+				},
+				{
+					"ingrediente": "1/2 limón",
+					"fotoIngrediente": "https://previews.123rf.com/images/photoshkolnik/photoshkolnik1601/photoshkolnik160100005/51353854-medio-lim%C3%B3n-c%C3%ADtricos-aislado-en-el-fondo-blanco.jpg"
+				},
+				{
+					"ingrediente": "1/2 aguacate",
+					"fotoIngrediente": "https://img.freepik.com/fotos-premium/medio-aguacate_270100-2116.jpg?w=2000"
+				},
+				{
+					"ingrediente": "una pizca de sal",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2016/09/consecuencias-comer-mucha-sal.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://t2.uc.ltmcdn.com/es/posts/8/8/0/beneficios_del_aceite_de_oliva_para_el_cabello_88_0_600.webp"
+				},
+				{
+					"ingrediente": "Albahaca",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/07/17/5e99796b6c674.jpeg"
+				}
+			]
+		},
+		{
+			"titulo": "ENSALADA DE MIJO CON BONIATO Y PATATA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2018/02/receta-ensalada-mijo-boniato-patata-vegana-2.jpg",
+			"descripcion": "Hoy os traigo una increíblemente deliciosa Ensalada de Mijo. Sé que es un poco raro que os traiga la receta del sábado en viernes ¡pero mañana nos vamos a pasar el fin de semana a Casa Albets! Y no quería haceros esperar hasta el domingo. ¿Os acordáis que ya os hablé de este hotel vegano? Cuando fui a la inauguración os hice un post en el blog de viajes donde os explicaba un poco más del lugar. Pues ahora que vamos a ir con los perros os traeré otro post con un review más personal :-) Así que por eso he adelantado un poquitín la receta de esta semana.",
+			"categoria": "Ensaladas",
+			"duracion": "40min",
+			"dificultad": "Media",
+			"preparacion": "En primer lugar empezaremos poniendo a pre-calentar el horno a 200 grados. Seguimos, ahora cortando en cubos pequeños las patatas y el boniato. Los volcamos sobre una bandeja y lo salpimentamos con pimienta, sal y orégano. Engrasamos con un chorrito de aceite de oliva y removemos bien los vegetales. Lo introducimos en el horno y lo dejamos hasta que la patata y el boniato se hayan asado. Mientras tanto, vamos a cocer el mijo. Para ello, ponemos a hervir 3 tazas de agua y añadimos 1 taza de mijo. Lo dejamos cocer a fuego bajo-medio durante unos 15 minutos. (O siguiendo las indicaciones del paquete). Apagamos cuando el agua se haya consumido por completo. Ahora, salteamos unos champiñones laminados en la sartén con un chorrito de aceite de oliva, mientras las patatas y el boniato acaban de hacerse.Cuando el boniato y las patatas ya estén hechas, retiramos la bandeja sin apagar el horno. Ahora, volcamos dentro el mijo, las 5 cucharadas soperas de garbanzos cocidos, los champiñones dorados, una pizca de curry, abundante pimienta negra, un chorrito de limón, otro chorrito de aceite de oliva, sal y abundante perejil picado. Removemos bien y volvemos a introducir en el horno durante 5 o 10 minutos, hasta que el mijo esté un poquito más seco y dorado. Retiramos del horno, y añadimos trozos de lechuga romana y demás brotes, así como col lombarda al gusto.¡Servir caliente!",
+			"ingredientes": [
+				{
+					"ingrediente": "1 taza de mijo",
+					"fotoIngrediente": "https://thumbs.dreamstime.com/b/mijo-en-una-taza-de-medici%C3%B3n-escalas-electr%C3%B3nicas-con-un-espacio-la-copia-116122204.jpg"
+				},
+				{
+					"ingrediente": "3 tazas de agua",
+					"fotoIngrediente": "https://thumbs.dreamstime.com/b/tazas-de-agua-15992189.jpg"
+				},
+				{
+					"ingrediente": "1 boniato pequeño",
+					"fotoIngrediente": "https://png.pngtree.com/png-vector/20201129/ourlarge/pngtree-viet-nam-purple-sweet-potato-png-image_2403563.jpg"
+				},
+				{
+					"ingrediente": "3 patatas medianas",
+					"fotoIngrediente": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSMPTfq-iLj-rp9XORzp_JFQUbcP8hQcVTg&usqp=CAU"
+				},
+				{
+					"ingrediente": "3 puñados de champiñones",
+					"fotoIngrediente": "https://dam.cocinafacil.com.mx/wp-content/uploads/2022/07/champinones.jpg"
+				},
+				{
+					"ingrediente": "5 cucharadas soperas de garbanzos cocidos",
+					"fotoIngrediente": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToW7jJA71NCzA3S5bz32wuwsytTs_STgnXnA&usqp=CAU"
+				},
+				{
+					"ingrediente": "Lechuga, brotes verdes, col lombarda",
+					"fotoIngrediente": "https://i0.wp.com/ecovegetariano.com/wp-content/uploads/2022/02/62d78-lechugas-y-brotes-tipos.jpg?resize=740%2C423&ssl=1"
+				},
+				{
+					"ingrediente": "Aceite de Oliva",
+					"fotoIngrediente": "https://soycomocomo.es/media/2019/07/aceite-oliva.jpg"
+				},
+				{
+					"ingrediente": "Orégano",
+					"fotoIngrediente": "https://www.cuerpomente.com/medio/2020/08/26/oregano-321033-1280_ddb8bd8d_1200x1200.jpg"
+				},
+				{
+					"ingrediente": "Perejil",
+					"fotoIngrediente": "https://img.europapress.es/fotoweb/fotonoticia_20200408081442_420.jpg"
+				},
+				{
+					"ingrediente": "Curry",
+					"fotoIngrediente": "https://solnatural.bio/views/img/recipesphotos/310.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://www.especiasmixtli.com/uploads/blog-beneficios-a-la-salud-de-la-pimienta-negra-Dise%C3%B1o%20sin%20t%C3%ADtulo%20(22).jpg-1601673793.jpg"
+				},
+				{
+					"ingrediente": "Limón",
+					"fotoIngrediente": "https://dam.cocinafacil.com.mx/wp-content/uploads/2022/01/limones.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://images.ecestaticos.com/z53_8uXpuOPWNRRYelFRt835Buc=/0x108:2116x1299/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7df%2Faae%2F91c%2F7dfaae91cbb94bbd679a49b6f275af4e.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "ENSALADA DE QUINOA Y MANGO",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2017/08/ensalada-quinoa-recetas-veganas-2.jpg",
+			"descripcion": "Lo reconozco: la primera vez que probé esta Quinoa no me gustó nada. Me pareció insípida, con una textura bastante mala y totalmente prescindible. Pero claramente la culpa era mía, no tenía ni idea de cómo cocinarla. Anteriormente ya había probado la Quinoa Hinchada, que es muy fácil de usar y especialmente buena para desayunos y meriendas (hidratas, mezclas, listo). Hace un par de veranos me hice adicta a esa Quinoa y no podía dejar de tomarla, me encantaba.",
+			"categoria": "Ensaladas",
+			"duracion": "15min",
+			"dificultad": "Fácil",
+			"preparacion": "Empezaremos dejando la Quinoa en remojo mientras nos encargamos los vegetales. Para continuar, picamos en cubos el Mango, el Tomate y el calabacín. El aguacate lo vaciamos y machacamos. Reservamos. Picamos la espinaca en trozos pequeños, reservamos. Ponemos a hervir una olla pequeña con agua, para cocer la quinoa. Colamos la Quinoa con un colador muy fino para retirar el agua y lavamos con abundante agua. Añadimos la Quinoa a la olla y la cocemos durante el tiempo que indique el paquete, que suelen ser unos 15 minutos.Cuando ya esté cocida, la retiramos de la olla y la volvemos a lavar con abundante agua fría. Seguidamente, la añadimos a un bol y la mezclamos con el aguacate machacado, una pizca de sal, lima y aceite de oliva. Añadimos el resto de vegetales y volvemos a mezclar. ¡Y listo!",
+			"ingredientes": [
+				{
+					"ingrediente": "1/2 taza de Quinoa",
+					"fotoIngrediente": "https://images.freeimages.com/images/premium/previews/1739/17390091-half-cup-of-uncooked-quinoa.jpg"
+				},
+				{
+					"ingrediente": "Un calabacín mediano",
+					"fotoIngrediente": "https://m.ftscrt.com/food/0d28974c-490f-4f15-aded-b3b4b44523c2_lg_sq.jpg"
+				},
+				{
+					"ingrediente": "1/2 Mango",
+					"fotoIngrediente": "https://www.mango.org/wp-content/uploads/2017/11/houney-variety.jpg"
+				},
+				{
+					"ingrediente": "1 Aguacate maduro",
+					"fotoIngrediente": "https://cdn.shopify.com/s/files/1/0045/0700/9096/products/aguacate-hass-maduro-1-pieza-19894257451167_700x.jpg?v=1603769713"
+				},
+				{
+					"ingrediente": "Un puñado de espinacas",
+					"fotoIngrediente": "https://www.cuerpomente.com/medio/2021/12/02/como-cocinar-espinacas_0950c2cf_900x900.jpg"
+				},
+				{
+					"ingrediente": "1 tomate",
+					"fotoIngrediente": "https://media.istockphoto.com/photos/tomato-isolated-on-white-background-clipping-path-full-depth-of-field-picture-id1136764108?b=1&k=6&m=1136764108&s=612x612&w=0&h=qKhNIYd6K4HIoHcqrhb24XWMp5Bk46Uf_aDt8yBFN34="
+				},
+				{
+					"ingrediente": "Lima",
+					"fotoIngrediente": "https://wikidat.com/img/lima-fruta-88e3b2e8243196759b7e9c50f2361e50.jpg"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/09/17/5e99839c080be.jpeg"
+				},
+				{
+					"ingrediente": "Aceite de Oliva",
+					"fotoIngrediente": "https://www.alo.co/__export/1653094495019/sites/alo/img/2022/05/20/istock-1031301230.jpg_1830745827.jpg"
+				}
+			]
+		}
+	],
+	"Carnes Vegetales": [
+		{
+			"titulo": "FILETES DE SOJA Y PATATAS CON SALSA DE YOGUR",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/09/filetes_soja_salsa_yogur_vegana_recetas_saludables.jpg",
+			"descripcion": "¡Hola a todas! Hoy os traigo una improvisación de la comida de ayer que fue top. Pero antes quería daros un notición ¡acabo de estrenar mi propio podcast! El podcast se llama ‘La singular’ y ya lo podéis encontrar en Spotify, YouTube, Ivoox, Amazon Music, Apple Podcast y más.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "20min",
+			"dificultad": "Fácil",
+			"preparacion": "Mezclamos todos los ingredientes para la salsa de yogur y lo dejamos reposando. Ahora, hidratamos los filetes de soja durante 5 minutos con agua templada o caliente. Mientras, lavamos y cortamos en cuartos las patatas y las ponemos a cocer hasta que estén tiernas. Cuando estén tiernos los bocados, escurrimos y presionamos ligeramente los filetes para quitar el exceso de agua.En una sartén antiadherente, calentamos un chorrito de aceite de sésamo (o de oliva) y pasamos vuelta y vuelta los bocados. Ahora, echamos por encima una pizca de pimentón de la vera, ajo en polvo, un chorrito muy pequeño de salsa de soja doramos. Mantenemos a fuego medio y doramos bien, añadiendo un segundo chorro de aceite, en este caso de oliva. Repetimos el proceso con todos los bocados.Ahora, simplemente saltemos también las patatas para darles un acabado más crujiente. ¡Y listo! Servimos todo con la salsa de yogur por encima.",
+			"ingredientes": [
+				{
+					"ingrediente": "Filetes de soja deshidratada",
+					"fotoIngrediente": "https://www.gastronomiavegana.org/wp-content/uploads/2013/02/dos_soja_texturizada.jpg"
+				},
+				{
+					"ingrediente": "2 patatas medianas",
+					"fotoIngrediente": "https://4.bp.blogspot.com/-1ff24oQWFl4/VecbLB6COaI/AAAAAAAAAhk/9hcLGmOW0k4/s900/IMG_9391.JPG"
+				},
+				{
+					"ingrediente": "Salsa de soja",
+					"fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/02/como-se-hace-la-salsa-de-soya-para-sushi_0.jpg"
+				},
+				{
+					"ingrediente": "Pimentón de la vera",
+					"fotoIngrediente": "https://www.casaperris.com/repositorio/1473771015308ffffffffad6ee627Conetenido.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://www.cocinista.es/download/bancorecursos/ingredientes/ingrediente-aceite-oliva-2.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://www.cocinavital.mx/wp-content/uploads/2020/10/ajo-en-polvo-634x420.jpg"
+				},
+				{
+					"ingrediente": "Agua",
+					"fotoIngrediente": "https://www.webconsultas.com/sites/default/files/styles/wch_image_schema/public/temas/agua.jpg"
+				},
+				{
+					"ingrediente": "Aceite de sésamo",
+					"fotoIngrediente": "https://www.gadis.es/saludable/wp-content/uploads/2019/12/aceite-de-sesamo-beneficios.jpg"
+				},
+				{
+					"ingrediente": "Salsa de yogur",
+					"fotoIngrediente": "https://www.dietfarma.com/sites/default/files/salsa_de_yogur_2.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "SANJACOBOS VEGANOS DE SEITÁN",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/06/sanjacobo-seitan-recetas-vegetarianas-faciles3.jpg",
+			"descripcion": "¡Hola a todas! Hoy traigo una de esas recetas veganas que son pura fantasía: Sanjacobos veganos de seitán, rellenos de queso vegano estilo mozarella.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "35min",
+			"dificultad": "Media",
+			"preparacion": "Cortamos el seitán en rodajas finas o medias de un tamaño similar. Las disponemos una al lado de la otra, y en el centro, procurando dejar un pequeño borde, rellenamos con queso vegano en lonchas (o rallado) que sea para fundir.Reservamos las lonchas de seitán y, por otra parte, preparamos en un bol la mezcla que nos ayudará a sustituir el huevo. Para ello, mezclamos 1/2 taza de agua y 2 cdas soperas rasas. Batimos bien con la ayuda de un tenedor, hasta que no queden grumos. Ahora, cogemos el bloque de seitán relleno de queso, lo mojamos bien en la mezcla de harina de garbanzo y lo pasamos vuelta y vuelta por harina de trigo o harina para rebozar. Volvemos a mojar en la mezcla y a rebozar en la harina de trigo. Presionando bien, rebozando por los laterales, para que quede bien sellado. Por último, mojamos una última vez en la mezcla líquida y ahora lo empanamos en pan rallado. Presiona bien el Sanjacobo de seitán para sellar bien el rebozado. Por último, lo freímos en 1 o 2 dedos de aceite hasta dorar bien por todos los costados :-). ¡A disfrutar! ",
+			"ingredientes": [
+				{
+					"ingrediente": "Seitán",
+					"fotoIngrediente": "https://www.hazteveg.com/img/pages/full/202003/H04-16815.jpg"
+				},
+				{
+					"ingrediente": "Queso vegano para fundir (yo usé violife)",
+					"fotoIngrediente": "https://hazlovegan.com/wp-content/uploads/2021/09/Tortillas-de-verde-veganas-1-1024x683.jpg"
+				},
+				{
+					"ingrediente": "Harina de trigo o harina para rebozar",
+					"fotoIngrediente": "https://st2.depositphotos.com/1000348/6439/i/950/depositphotos_64399139-stock-photo-flour-and-wheat-ears.jpg"
+				},
+				{
+					"ingrediente": "1/2 taza de agua",
+					"fotoIngrediente": "https://superpola.com/site/assets/files/10297/agua-1.425x283.jpg"
+				},
+				{
+					"ingrediente": "1 cdas soperas de Harina de garbanzo",
+					"fotoIngrediente": "https://t1.uc.ltmcdn.com/es/posts/7/9/9/a_cuanto_equivale_una_cucharada_de_harina_en_gramos_23997_orig.jpg"
+				},
+				{
+					"ingrediente": "Pan rallado con ajo y,,perejil",
+					"fotoIngrediente": "https://2.bp.blogspot.com/-OAJl5Hq0bjE/V49jDwz9KJI/AAAAAAAAASs/Dj20T5784x4x8tMK_OP0y0yJiinnHGUCQCLcB/s1600/Pan-AjoyPerejil-Main.jpg"
+				},
+				{
+					"ingrediente": "Aceite de Oliva",
+					"fotoIngrediente": "https://www.caixabankresearch.com/sites/default/files/styles/nocompress_destacado/public/content/image/2022/03/28/91184/p36.jpg?itok=_kC7zapw"
+				}
+			]
+		},
+		{
+			"titulo": "NO POLLO A LA CERVEZA (CON HEURA)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2021/04/no-pollo-horno-cerveza-receta-vegetariana.jpg",
+			"descripcion": "¡Muy buenas a todas! Hoy traigo una receta básica basiquísima, más que fácil, perfecta para principiantes y toda persona que quiera introducirse a la cocina vegetariana / vegana. Un horneado de No pollo a la cerveza, usando pollo vegetal de la marca Heura. Efectivamente, he juntado en una receta las dos cosas que más te gustan de la vida: la cerveza y la Heura.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "55min",
+			"dificultad": "Media",
+			"preparacion": "Si tienes Heura congelada, descongélala previamente dejándola fuera del congelador hasta que quede más tierna. (Si vas a usar Seitán o Tofu, procura que sean tiras gruesas para que no se queden tiesas en el horno). Mientras tanto, pre-cocemos las patatas cortadas en cubos, hasta que queden tiernas. Así conseguiremos un resultado óptimo en textura tras hornearlo. Por otro lado, cortamos en láminas las 2 cebollas, las tiras el pimiento y las 2 zanahorias, laminamos el tomate y lo colocamos todo dentro de la bandeja. A continuación, metemos en la bandeja las patatas cocidas y la Heura. Añadimos generoso pimentón dulce, ajo en polvo, perejil y romero. Ahora, añadimos un toque ligero de pimienta negra y sal al gusto. Bañamos todo con un chorro generoso de aceite de oliva, 1/2 vaso de cerveza, un chorro de 1/2 limón y removemos. Removemos muy muy bien. Colocamos en el centro 1/2 cabeza de ajos y engrasamos con otro chorrito de aceite de oliva. Horneamos a 180 grados, encendido por arriba y por abajo, unos 20 minutos o hasta que las patatas y la Heura ya se vean doradas. ¡A disfrutar este pedazo de receta!",
+			"ingredientes": [
+				{
+					"ingrediente": "1 caja de Heura sabor mediterráneo",
+					"fotoIngrediente": "https://www.herbolario-elbuho.com/wp-content/uploads/2021/05/HEURA-BOCADOS-SABOR-MEDITERRANEO-160G-min.jpg"
+				},
+				{
+					"ingrediente": "1/2 taza de cerveza",
+					"fotoIngrediente": "https://us.123rf.com/450wm/stevanovicigor/stevanovicigor1212/stevanovicigor121200102/16916635-media-taza-llena-de-cerveza-fr%C3%ADa-una-nueva-luz.jpg?ver=6"
+				},
+				{
+					"ingrediente": "1/2 cabeza de ajo",
+					"fotoIngrediente": "https://img.freepik.com/fotos-premium/media-cabeza-ajo-tres-dientes-sueltos-colocados-sobre-superficie-azul_226758-718.jpg"
+				},
+				{
+					"ingrediente": "2 cebollas",
+					"fotoIngrediente": "https://t1.uc.ltmcdn.com/es/posts/2/5/5/composicion_nutricional_de_la_cebolla_morada_46552_1_600.jpg"
+				},
+				{
+					"ingrediente": "1 tomate grande",
+					"fotoIngrediente": "https://agriculturers.com/wp-content/uploads/2015/02/PAY-The-Gigantoma.jpg"
+				},
+				{
+					"ingrediente": "1 pimiento rojo",
+					"fotoIngrediente": "https://cuantas-calorias.org/wp-content/uploads/2017/01/pimiento-rojo-1.jpg"
+				},
+				{
+					"ingrediente": "2 zanahoria",
+					"fotoIngrediente": "http://tododefrutasyverduras.weebly.com/uploads/5/5/6/9/55692091/6278362_orig.png"
+				},
+				{
+					"ingrediente": "3 o 4 patatas pre-cocidas",
+					"fotoIngrediente": "https://www.cocinavital.mx/wp-content/uploads/2017/03/truco-cocer-papas-microondas-1.jpg"
+				},
+				{
+					"ingrediente": "Aceite de oliva",
+					"fotoIngrediente": "https://images.ecestaticos.com/WmWX6IWC-nxb1cKDHcVDkCU6zGs=/3x89:1696x1043/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F071%2Fe1a%2F4ec%2F071e1a4ecde3fb1a62b449152a3cf312.jpg"
+				},
+				{
+					"ingrediente": "Limón",
+					"fotoIngrediente": "https://www.prensalibre.com/wp-content/uploads/2018/12/37e6b304-8849-4039-bb86-09eb430f3e67.jpg?quality=52&w=619&h=464&crop=1"
+				},
+				{
+					"ingrediente": "Sal",
+					"fotoIngrediente": "https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/IMG_9776a.jpg?v=1585095921"
+				},
+				{
+					"ingrediente": "Perejil",
+					"fotoIngrediente": "https://encolombia.com/wp-content/uploads/2022/03/perejil-1024x672-1.jpg"
+				},
+				{
+					"ingrediente": "Ajo en polvo",
+					"fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2017/07/polvoajo.jpg"
+				},
+				{
+					"ingrediente": "Pimienta negra",
+					"fotoIngrediente": "https://kawsaymarket.pe/wp-content/uploads/2022/03/pimienta-negra-molida.webp"
+				},
+				{
+					"ingrediente": "Pimentón dulce",
+					"fotoIngrediente": "https://jetextramar.com/wp-content/uploads/2022/01/entrada-piment%C3%B3n-dulce.jpg"
+				},
+				{
+					"ingrediente": "Romero",
+					"fotoIngrediente": "https://t2.ev.ltmcdn.com/es/posts/3/9/2/propiedades_del_romero_para_que_sirve_y_como_prepararlo_3293_orig.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "LÁGRIMAS DE «POLLO» VEGETAL (HEURA CRISPY NO-CHICKEN)",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/12/lagrimas-de-pollo-vegano-crispy-chicken-vegetariano2.jpg",
+			"descripcion": "¡Hola a tod@s! Hoy traigo una receta exprés de una versión 100% vegetal de las «lágrimas de pollo» (un concepto que me parece de lo más creppy, por cierto 😅). Un plato bastante típico de mi país que consiste en pequeños trozos de pollo rebozado. Hoy vamos a hacerlo vegetal. Mismo sabor, misma textura sin involucrar ningún animal en nuestros platos.",
+			"categoria": "Carnes Vegetales",
+			"duracion": "30min",
+			"dificultad": "Media",
+			"preparacion": "Empezaremos descongelando la caja de bocados de Heura. Seguidamente, las sazonamos con pimentón dulce y un toque de pimentón picante y mezclamos bien. Ahora, preparamos un bol pequeño con 2 cdas de harina de garbanzo o no-egg. Añadimos 1 cdita pequeña de pimentón dulce y 1/2 de taza de agua. Mezclamos bien hasta que no queden grumos. Ahora, por otra parte, preparamos un bol con harina de trigo y otro bol con abundante panko. Cogemos los bocados de Huera y los sumergimos bien en la mezcla de agua. Seguidamente lo pasamos por harina, para rebozar bien. Volvemos a sumergir en la mezcla de agua y ahora lo pasamos por panko y, sin volver a mojar, por harina. Repetimos este proceso hasta terminar con todos los bocados de Heura. Ahora, en una sartén preferentemente antiadherente, ponemos 2 dedos de aceite de girasol y calentamos a fuego medio, hasta que el aceite empiece a burbujear. Despúes, incorporamos las lágrimas de pollo (heura) en la sartén hasta dorar por ambos lados, retiramos. Y listo para comer! Puedes servirlos con alguna salsa o hummus para mojar.",
+			"ingredientes": [
+				{
+					"ingrediente": "1 caja de Heura en bocados originales",
+					"fotoIngrediente": "https://lifestyle.fit/app/uploads/2021/04/bocados-originales-heura.jpg?x=480&quality=40"
+				},
+				{
+					"ingrediente": "Pimentón dulce",
+					"fotoIngrediente": "https://www.abc.com.py/resizer/xF7t59ljoWasOzDb3HaWeqfOtnk=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/5ALS5IPXQBCNTM42QCGLXKYB3I.jpg"
+				},
+				{
+					"ingrediente": "Pimentón picante",
+					"fotoIngrediente": "https://frutossecosalfon.com/wp-content/uploads/2020/04/pimenton-picante-17%E2%82%AC-kg-scaled.jpg"
+				},
+				{
+					"ingrediente": "Harina de trigo",
+					"fotoIngrediente": "https://i.blogs.es/95d4c3/harina-trigo-tipos/1366_2000.jpg"
+				},
+				{
+					"ingrediente": "Panko",
+					"fotoIngrediente": "https://gastronomiaycia.republica.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2010/01/panko.jpg.webp"
+				},
+				{
+					"ingrediente": "No-egg o harina de garbanzo",
+					"fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2021/05/harina-garbanzos.jpg"
+				},
+				{
+					"ingrediente": "Agua",
+					"fotoIngrediente": "https://geoinnova.org/wp-content/uploads/2021/08/agua-1-3.jpg"
+				},
+				{
+					"ingrediente": "Aceite de girasol",
+					"fotoIngrediente": "https://images.hola.com/imagenes/estar-bien/20200306162488/dieta-saludable-aceite-girasol-lb/0-794-875/girasol-crudo-t.jpg"
+				}
+			]
+		},
+		{
+			"titulo": "CRISPY TOFU CON NOODLES EN SALSA",
+			"foto": "https://recetasveganas.net/wp-content/uploads/2020/07/crispy-tofu-filetes-crujientes-veganos-recetas-faciles-sin-carne6.jpg",
+			"descripcion": "¡Muy buenas a tod@s! Hoy vengo con una receta que fue fruto de la improvisación, pero que llevaba años queriendo probar… ¡Porque no he parado de verla por redes sociales! Os traigo el paso a paso para preparar Crispy Tofu con noodles en salsa casera. Os traigo mi propia versión de estos filetes de tofu rebozados, que como veis tiene un aspecto espectacular y crujiente. Pues ya veréis cuando probéis este sabor espectacular… ¡Porque es brutal!",
+			"categoria": "Carnes Vegetales",
+			"duracion": "40min",
+			"dificultad": "Media",
+			"preparacion": "Cortamos los 400 gr de tofu en filetes gruesos (un dedo de grosor, aprox). Opcionalmente, podemos cortar los bordes para darles una forma ovalada. Los envolvemos en un trapo limpio y presionamos suavemente para retirar todo el líquido. Los sacamos del trapo húmedo, volvemos a envolverlos con otro trapo seco y presionamos ligeramente. Los dejamos secar ahí por 10 minutos.Con los filetes ya secos, los colocamos en un plato hondo y cubrimos con generosa salsa de soja, pimentón dulce que cubra ligeramente la superficie (observa las fotos de abajo), comino que cubra 1/3 del filete y curry que cubra 1/4 de filete. Con una espátula, repartimos bien las especias, que deberían estar mezcladas con la salsa de soja que hemos puesto anteriormente. Ahora, le damos la vuelta y repetimos el proceso de especiado. Dejamos macerar allí por 30 minutos, dándole vuelta cada 5-8 minutos para que hidrate bien por ambos lados. Si fuera necesario, añade más salsa de soja. Pasada la media hora, en un plato hondo, mezclamos 2 cditas pequeñas de harina de garbanzo, 1 cdita de pimentón dulce con 1/3 de taza de agua y dos pellizcos de sal negra. Batimos bien y reservamos. Por otra parte, en otro plato hondo, mezclamos generoso panko con la misma cantidad de harina de trigo. Mezclamos.Cogemos los filetes, los sumergimos en la mezcla de harina de garbanzo por ambos lados. Ahora, lo rebozamos vuelta y vuelta por la mezcla de panko con harina de trigo. Presionamos ligeramente por ambos lados, para procurar que se adhiera. Dejamos el filete en un plato limpio, reposando. Repetimos el proceso con todos los filetes de tofu que tengamos macerando. Cuando estén todos los filetes rebozados, volvemos al primer filete rebozado (que ya tendrá el rebozado algo adherido y seco) y lo sumergimos ligeramente, rápido y por ambos lados, en la mezcla de harina de garbanzo y agua. Vamos a darle un segundo rebozado. Así que después de sumergirlo, volvemos a pasarlo por el panko + harina de trigo, procurando que se adhiera bien por todos los costados. Repetimos el proceso con todos los filetes y los reservamos.En una sartén antiadherente, colocamos 1 dedo de aceite de girasol y lo calentamos a fuego medio. Cuando esté caliente, manteniendo el fogón a fuerza media, ligeramente baja, y freímos el Crispy tofu por ambos lados, hasta que quede bien tostado y crujiente. ¡Y LISTO! Ya tienes tus filetes de tofu listos",
+			"ingredientes": [
+				{
+					"ingrediente": "400 gr de Tofu firme",
+					"fotoIngrediente": "https://t2.uc.ltmcdn.com/es/posts/7/2/1/tofu_que_es_propiedades_y_recetas_52127_600.jpg"
+				},
+				{
+					"ingrediente": "2 cditas. pequeñas de harina de garbanzo",
+					"fotoIngrediente": "https://www.healthifyme.com/blog/wp-content/uploads/2022/08/shutterstock_1646006743-1.jpg"
+				},
+				{
+					"ingrediente": "Panko para rebozar",
+					"fotoIngrediente": "https://1.bp.blogspot.com/-8AgYr4pBIks/XuNareKMMHI/AAAAAAAArj4/LvNdiQ5CVF4V4AQopy3DB0TCMFpCOeiSwCLcBGAsYHQ/s900/DSC_0145.JPG"
+				},
+				{
+					"ingrediente": "Harina de trigo",
+					"fotoIngrediente": "https://www.nutricienta.com/imagenes/alimentos/alimento-nutricienta-harina-de-trigo.jpg"
+				},
+				{
+					"ingrediente": "Salsa de soja",
+					"fotoIngrediente": "https://cocinista-vsf.netdna-ssl.com/download/bancorecursos/ingredientes/ingrediente-salsa-soja.jpg"
+				},
+				{
+					"ingrediente": "1/3 taza de agua",
+					"fotoIngrediente": "https://foto.askix.com/upload/f/3d/f3d8da024efac5662e26f4121d1c0947.jpg"
+				},
+				{
+					"ingrediente": "Curry en polvo",
+					"fotoIngrediente": "https://solnatural.bio/views/img/recipesphotos/310.jpg"
+				},
+				{
+					"ingrediente": "Comino en polvo",
+					"fotoIngrediente": "https://i0.wp.com/spiceandcolour.com/wp-content/uploads/2021/06/Comino-en-polvo_1.jpg?fit=1140%2C805&ssl=1"
+				},
+				{
+					"ingrediente": "Pimentón Dulce en polvo",
+					"fotoIngrediente": "https://pepekitchen.com/wp-content/uploads/2009/09/pimenton.jpg"
+				},
+				{
+					"ingrediente": "Sal negra",
+					"fotoIngrediente": "https://laopinion.com/wp-content/uploads/sites/3/2019/12/shutterstock_1039222381-e1576654358231.jpg?quality=60&strip=all&w=1200"
+				},
+				{
+					"ingrediente": "Aceite de girasol",
+					"fotoIngrediente": "https://www.objetivobienestar.com/uploads/s1/16/94/99/4/aceite-de-girasol-por-que-deberias-desterrarlo-de-tu-cocina.jpeg"
+				},
+				{
+					"ingrediente": "Para los noodles",
+					"fotoIngrediente": "https://www.elmundoeats.com/wp-content/uploads/2018/10/Chinese-Egg-Noodles-500x375.jpg"
+				},
+				{
+					"ingrediente": "300 gr de noodles de trigo",
+					"fotoIngrediente": "http://cdn.shopify.com/s/files/1/0597/1407/6829/products/3379140211926_ca0e9f55-add3-41c7-b6e4-a4f2cc379e65.jpg?v=1636186062"
+				}
+			]
 		}
 	],

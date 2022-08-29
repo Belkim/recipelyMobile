@@ -2,10 +2,10 @@
 import 'package:flutter/material.dart';
 //firebase
 import 'package:firebase_core/firebase_core.dart';
+import 'package:recipely/src/auth/screens/signin_screen.dart';
 //pages
 import 'package:recipely/src/pages/categoria.dart';
 import 'package:recipely/src/pages/detalle.dart';
-import 'package:recipely/src/pages/home_page.dart';
 //estilos
 import 'package:recipely/src/styles/styles.dart';
 
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       routes: <String, WidgetBuilder>{
-        '/': (BuildContext context) => HomePage(),
+        '/': (BuildContext context) => const SignInScreen(),
         'categoria': (BuildContext context) => const CategoriaPage(),
         'detalle': (BuildContext context) => const DetallePage(),
       },

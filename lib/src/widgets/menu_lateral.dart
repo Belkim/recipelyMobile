@@ -1,5 +1,10 @@
+// ignore_for_file: avoid_print
+
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:recipely/src/styles/styles.dart';
+
+import '../auth/screens/signin_screen.dart';
 
 Drawer menuLateral(context) {
   return Drawer(
@@ -30,7 +35,7 @@ Drawer menuLateral(context) {
                 Navigator.pushNamed(context, "categoria");
               },
             ),
-            const SizedBox(height: 435.0),
+            const SizedBox(height: 350.0),
             ListTile(
               leading:
                   const Icon(Icons.account_circle_outlined, color: colorIcons),
@@ -39,5 +44,20 @@ Drawer menuLateral(context) {
                 Navigator.pushNamed(context, "categoria");
               },
             ),
+            const SizedBox(height: 20.0),
+            ListTile(
+              leading: const Icon(Icons.logout_outlined, color: colorIcons),
+              title: const Text("Cerrar Sesión"),
+              onTap: () {
+                //cerrar sesion de firebase
+                FirebaseAuth.instance.signOut().then((value) {
+                  print("Salio correctamente");
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => const SignInScreen()));
+                });
+              },
+            )
           ])));
 }
